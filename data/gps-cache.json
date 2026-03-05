@@ -1,0 +1,3947 @@
+{
+  "São Paulo|SP|BR": {
+    "latitude": -23.5506507,
+    "longitude": -46.6333824,
+    "timestamp": 1764771551381
+  },
+  "Guarulhos|SP|BR": {
+    "latitude": -23.4675941,
+    "longitude": -46.5277704,
+    "timestamp": 1764771552962
+  },
+  "Campinas|SP|BR": {
+    "latitude": -22.9056391,
+    "longitude": -47.059564,
+    "timestamp": 1764771554887
+  },
+  "São Bernardo do Campo|SP|BR": {
+    "latitude": -23.7080345,
+    "longitude": -46.5506747,
+    "timestamp": 1764771556494
+  },
+  "Santo André|SP|BR": {
+    "latitude": -23.6533509,
+    "longitude": -46.5279039,
+    "timestamp": 1764771558554
+  },
+  "Osasco|SP|BR": {
+    "latitude": -23.5324859,
+    "longitude": -46.7916801,
+    "timestamp": 1764771560102
+  },
+  "São José dos Campos|SP|BR": {
+    "latitude": -23.1867782,
+    "longitude": -45.8854538,
+    "timestamp": 1764771563080
+  },
+  "Ribeirão Preto|SP|BR": {
+    "latitude": -21.1776315,
+    "longitude": -47.8100983,
+    "timestamp": 1764771565029
+  },
+  "Sorocaba|SP|BR": {
+    "latitude": -23.5003451,
+    "longitude": -47.4582864,
+    "timestamp": 1764771566916
+  },
+  "Santos|SP|BR": {
+    "latitude": -23.9335988,
+    "longitude": -46.3286399,
+    "timestamp": 1764771568686
+  },
+  "Mauá|SP|BR": {
+    "latitude": -23.6669527,
+    "longitude": -46.4616922,
+    "timestamp": 1764771570745
+  },
+  "São José do Rio Preto|SP|BR": {
+    "latitude": -20.8125851,
+    "longitude": -49.3804212,
+    "timestamp": 1764771572196
+  },
+  "Mogi das Cruzes|SP|BR": {
+    "latitude": -23.5234284,
+    "longitude": -46.1926671,
+    "timestamp": 1764771574297
+  },
+  "Diadema|SP|BR": {
+    "latitude": -23.6866428,
+    "longitude": -46.6246935,
+    "timestamp": 1764771575797
+  },
+  "Jundiaí|SP|BR": {
+    "latitude": -23.1887668,
+    "longitude": -46.884506,
+    "timestamp": 1764771577984
+  },
+  "Carapicuíba|SP|BR": {
+    "latitude": -23.5234673,
+    "longitude": -46.8406808,
+    "timestamp": 1764771579469
+  },
+  "Piracicaba|SP|BR": {
+    "latitude": -22.725165,
+    "longitude": -47.6493269,
+    "timestamp": 1764771581789
+  },
+  "Bauru|SP|BR": {
+    "latitude": -22.3218102,
+    "longitude": -49.0705863,
+    "timestamp": 1764771583492
+  },
+  "Itaquaquecetuba|SP|BR": {
+    "latitude": -23.4754492,
+    "longitude": -46.3514033,
+    "timestamp": 1764771585395
+  },
+  "São Vicente|SP|BR": {
+    "latitude": -23.9664177,
+    "longitude": -46.3861401,
+    "timestamp": 1764771587018
+  },
+  "Franca|SP|BR": {
+    "latitude": -20.5381768,
+    "longitude": -47.4009795,
+    "timestamp": 1764771589132
+  },
+  "Guarujá|SP|BR": {
+    "latitude": -23.9927768,
+    "longitude": -46.2558332,
+    "timestamp": 1764771590646
+  },
+  "Taubaté|SP|BR": {
+    "latitude": -23.031448,
+    "longitude": -45.5612792,
+    "timestamp": 1764771594206
+  },
+  "Limeira|SP|BR": {
+    "latitude": -22.5615068,
+    "longitude": -47.401766,
+    "timestamp": 1764771595696
+  },
+  "Suzano|SP|BR": {
+    "latitude": -23.5427842,
+    "longitude": -46.3108391,
+    "timestamp": 1764771597546
+  },
+  "Taboão da Serra|SP|BR": {
+    "latitude": -23.6121912,
+    "longitude": -46.7790539,
+    "timestamp": 1764771599031
+  },
+  "Sumaré|SP|BR": {
+    "latitude": -22.8217964,
+    "longitude": -47.267105,
+    "timestamp": 1764771601158
+  },
+  "Barueri|SP|BR": {
+    "latitude": -23.5112184,
+    "longitude": -46.8764612,
+    "timestamp": 1764771602659
+  },
+  "Embu das Artes|SP|BR": {
+    "latitude": -23.6495294,
+    "longitude": -46.8528497,
+    "timestamp": 1764771604527
+  },
+  "São Carlos|SP|BR": {
+    "latitude": -21.8788022,
+    "longitude": -47.8567619,
+    "timestamp": 1764771605972
+  },
+  "Marília|SP|BR": {
+    "latitude": -22.2172002,
+    "longitude": -49.9500061,
+    "timestamp": 1764771608033
+  },
+  "Indaiatuba|SP|BR": {
+    "latitude": -23.0908356,
+    "longitude": -47.2180677,
+    "timestamp": 1764771609494
+  },
+  "Cotia|SP|BR": {
+    "latitude": -23.603889,
+    "longitude": -46.918889,
+    "timestamp": 1764771611357
+  },
+  "Americana|SP|BR": {
+    "latitude": -22.7392463,
+    "longitude": -47.3306032,
+    "timestamp": 1764771612824
+  },
+  "Jacareí|SP|BR": {
+    "latitude": -23.3050682,
+    "longitude": -45.9723075,
+    "timestamp": 1764771614684
+  },
+  "Araraquara|SP|BR": {
+    "latitude": -21.7886713,
+    "longitude": -48.1773096,
+    "timestamp": 1764771616304
+  },
+  "Presidente Prudente|SP|BR": {
+    "latitude": -22.1225167,
+    "longitude": -51.3882528,
+    "timestamp": 1764771618401
+  },
+  "Hortolândia|SP|BR": {
+    "latitude": -22.8620175,
+    "longitude": -47.2164219,
+    "timestamp": 1764771619841
+  },
+  "Rio Claro|SP|BR": {
+    "latitude": -22.4100108,
+    "longitude": -47.5603933,
+    "timestamp": 1764771621863
+  },
+  "Araçatuba|SP|BR": {
+    "latitude": -21.207992,
+    "longitude": -50.4390225,
+    "timestamp": 1764771623421
+  },
+  "Ferraz de Vasconcelos|SP|BR": {
+    "latitude": -23.541056,
+    "longitude": -46.37097,
+    "timestamp": 1764771625346
+  },
+  "Francisco Morato|SP|BR": {
+    "latitude": -23.2817308,
+    "longitude": -46.7448996,
+    "timestamp": 1764771626822
+  },
+  "Itapevi|SP|BR": {
+    "latitude": -23.54888,
+    "longitude": -46.933889,
+    "timestamp": 1764771628743
+  },
+  "Praia Grande|SP|BR": {
+    "latitude": -24.008979,
+    "longitude": -46.4144939,
+    "timestamp": 1764771630439
+  },
+  "Santana de Parnaíba|SP|BR": {
+    "latitude": -23.4446715,
+    "longitude": -46.9167722,
+    "timestamp": 1764771632296
+  },
+  "Itapecerica da Serra|SP|BR": {
+    "latitude": -23.7176303,
+    "longitude": -46.8492435,
+    "timestamp": 1764771633772
+  },
+  "Mogi Guaçu|SP|BR": {
+    "latitude": -22.372222,
+    "longitude": -46.9425,
+    "timestamp": 1764771635991
+  },
+  "Assis|SP|BR": {
+    "latitude": -22.6620892,
+    "longitude": -50.420623,
+    "timestamp": 1764771637704
+  },
+  "Catanduva|SP|BR": {
+    "latitude": -21.1331035,
+    "longitude": -48.9712817,
+    "timestamp": 1764771639618
+  },
+  "Birigui|SP|BR": {
+    "latitude": -21.2908491,
+    "longitude": -50.34144,
+    "timestamp": 1764771641097
+  },
+  "Rio de Janeiro|RJ|BR": {
+    "latitude": -22.9110137,
+    "longitude": -43.2093727,
+    "timestamp": 1764771719243
+  },
+  "São Gonçalo|RJ|BR": {
+    "latitude": -22.821635,
+    "longitude": -42.9956797,
+    "timestamp": 1764771720832
+  },
+  "Duque de Caxias|RJ|BR": {
+    "latitude": -22.7896225,
+    "longitude": -43.309929,
+    "timestamp": 1764771722863
+  },
+  "Nova Iguaçu|RJ|BR": {
+    "latitude": -22.7592175,
+    "longitude": -43.4508728,
+    "timestamp": 1764771724361
+  },
+  "Niterói|RJ|BR": {
+    "latitude": -22.8884,
+    "longitude": -43.1147,
+    "timestamp": 1764771726386
+  },
+  "Belford Roxo|RJ|BR": {
+    "latitude": -22.7667284,
+    "longitude": -43.4033603,
+    "timestamp": 1764771727843
+  },
+  "Campos dos Goytacazes|RJ|BR": {
+    "latitude": -21.7546,
+    "longitude": -41.3242,
+    "timestamp": 1764771729888
+  },
+  "São João de Meriti|RJ|BR": {
+    "latitude": -22.7853575,
+    "longitude": -43.366715,
+    "timestamp": 1764771731310
+  },
+  "Petrópolis|RJ|BR": {
+    "latitude": -22.3880004,
+    "longitude": -43.1752593,
+    "timestamp": 1764771733338
+  },
+  "Volta Redonda|RJ|BR": {
+    "latitude": -22.521856,
+    "longitude": -44.1040128,
+    "timestamp": 1764771734903
+  },
+  "Magé|RJ|BR": {
+    "latitude": -22.6042779,
+    "longitude": -43.1081091,
+    "timestamp": 1764771736786
+  },
+  "Itaboraí|RJ|BR": {
+    "latitude": -22.7558128,
+    "longitude": -42.8829561,
+    "timestamp": 1764771738265
+  },
+  "Macaé|RJ|BR": {
+    "latitude": -22.2828305,
+    "longitude": -41.9649091,
+    "timestamp": 1764771740264
+  },
+  "Cabo Frio|RJ|BR": {
+    "latitude": -22.7378309,
+    "longitude": -42.0240869,
+    "timestamp": 1764771743111
+  },
+  "Nova Friburgo|RJ|BR": {
+    "latitude": -22.3061661,
+    "longitude": -42.4934183,
+    "timestamp": 1764771745042
+  },
+  "Barra Mansa|RJ|BR": {
+    "latitude": -22.4852784,
+    "longitude": -44.19707,
+    "timestamp": 1764771746667
+  },
+  "Angra dos Reis|RJ|BR": {
+    "latitude": -23.1555405,
+    "longitude": -44.2344809,
+    "timestamp": 1764771748642
+  },
+  "Teresópolis|RJ|BR": {
+    "latitude": -22.2978038,
+    "longitude": -42.8646411,
+    "timestamp": 1764771750099
+  },
+  "Mesquita|RJ|BR": {
+    "latitude": -22.783092,
+    "longitude": -43.4293599,
+    "timestamp": 1764771752005
+  },
+  "Nilópolis|RJ|BR": {
+    "latitude": -22.8080114,
+    "longitude": -43.4138222,
+    "timestamp": 1764771753375
+  },
+  "Belo Horizonte|MG|BR": {
+    "latitude": -19.9227318,
+    "longitude": -43.9450948,
+    "timestamp": 1764771755561
+  },
+  "Uberlândia|MG|BR": {
+    "latitude": -18.8941408,
+    "longitude": -48.2622678,
+    "timestamp": 1764771757192
+  },
+  "Contagem|MG|BR": {
+    "latitude": -19.9132749,
+    "longitude": -44.0840953,
+    "timestamp": 1764771759225
+  },
+  "Juiz de Fora|MG|BR": {
+    "latitude": -21.7609533,
+    "longitude": -43.3501129,
+    "timestamp": 1764771761589
+  },
+  "Betim|MG|BR": {
+    "latitude": -19.9475338,
+    "longitude": -44.1995361,
+    "timestamp": 1764771763602
+  },
+  "Montes Claros|MG|BR": {
+    "latitude": -16.7495727,
+    "longitude": -43.8687268,
+    "timestamp": 1764771766561
+  },
+  "Ribeirão das Neves|MG|BR": {
+    "latitude": -19.7672898,
+    "longitude": -44.0875436,
+    "timestamp": 1764771768867
+  },
+  "Uberaba|MG|BR": {
+    "latitude": -19.750833,
+    "longitude": -47.936666,
+    "timestamp": 1764771770720
+  },
+  "Governador Valadares|MG|BR": {
+    "latitude": -18.8574388,
+    "longitude": -41.9439184,
+    "timestamp": 1764771773010
+  },
+  "Ipatinga|MG|BR": {
+    "latitude": -19.4777807,
+    "longitude": -42.5270802,
+    "timestamp": 1764771774548
+  },
+  "Sete Lagoas|MG|BR": {
+    "latitude": -19.466111,
+    "longitude": -44.246944,
+    "timestamp": 1764771776645
+  },
+  "Divinópolis|MG|BR": {
+    "latitude": -20.1597921,
+    "longitude": -44.8739341,
+    "timestamp": 1764771778294
+  },
+  "Santa Luzia|MG|BR": {
+    "latitude": -19.7702097,
+    "longitude": -43.8505291,
+    "timestamp": 1764771780600
+  },
+  "Poços de Caldas|MG|BR": {
+    "latitude": -21.7900318,
+    "longitude": -46.5647928,
+    "timestamp": 1764771782191
+  },
+  "Patos de Minas|MG|BR": {
+    "latitude": -18.5974894,
+    "longitude": -46.5233256,
+    "timestamp": 1764771784171
+  },
+  "Pouso Alegre|MG|BR": {
+    "latitude": -22.2343858,
+    "longitude": -45.9327241,
+    "timestamp": 1764771786146
+  },
+  "Barbacena|MG|BR": {
+    "latitude": -21.2254524,
+    "longitude": -43.7735087,
+    "timestamp": 1764771788089
+  },
+  "Varginha|MG|BR": {
+    "latitude": -21.5565914,
+    "longitude": -45.4340674,
+    "timestamp": 1764771789760
+  },
+  "Teófilo Otoni|MG|BR": {
+    "latitude": -17.8579267,
+    "longitude": -41.5081533,
+    "timestamp": 1764771792011
+  },
+  "Sabará|MG|BR": {
+    "latitude": -19.8900372,
+    "longitude": -43.8107916,
+    "timestamp": 1764771793460
+  },
+  "Salvador|BA|BR": {
+    "latitude": -12.9031499,
+    "longitude": -38.4337859,
+    "timestamp": 1764771795949
+  },
+  "Feira de Santana|BA|BR": {
+    "latitude": -12.1996493,
+    "longitude": -38.9682883,
+    "timestamp": 1764771799275
+  },
+  "Vitória da Conquista|BA|BR": {
+    "latitude": -14.8570284,
+    "longitude": -40.8544709,
+    "timestamp": 1764771801408
+  },
+  "Camaçari|BA|BR": {
+    "latitude": -12.6631893,
+    "longitude": -38.3044721,
+    "timestamp": 1764771802868
+  },
+  "Itabuna|BA|BR": {
+    "latitude": -14.858782,
+    "longitude": -40.8533225,
+    "timestamp": 1764771804751
+  },
+  "Juazeiro|BA|BR": {
+    "latitude": -9.4560975,
+    "longitude": -40.5083845,
+    "timestamp": 1764771806651
+  },
+  "Lauro de Freitas|BA|BR": {
+    "latitude": -12.8751773,
+    "longitude": -38.3399593,
+    "timestamp": 1764771808614
+  },
+  "Ilhéus|BA|BR": {
+    "latitude": -14.8545167,
+    "longitude": -40.8518514,
+    "timestamp": 1764771810013
+  },
+  "Jequié|BA|BR": {
+    "latitude": -14.8464698,
+    "longitude": -40.8500492,
+    "timestamp": 1764771812181
+  },
+  "Teixeira de Freitas|BA|BR": {
+    "latitude": -17.5513307,
+    "longitude": -39.7321256,
+    "timestamp": 1764771813812
+  },
+  "Alagoinhas|BA|BR": {
+    "latitude": -12.1637841,
+    "longitude": -38.4306738,
+    "timestamp": 1764771815651
+  },
+  "Barreiras|BA|BR": {
+    "latitude": -12.1396423,
+    "longitude": -44.9893806,
+    "timestamp": 1764771817204
+  },
+  "Porto Seguro|BA|BR": {
+    "latitude": -16.5041601,
+    "longitude": -39.2514093,
+    "timestamp": 1764771819095
+  },
+  "Simões Filho|BA|BR": {
+    "latitude": -12.8097272,
+    "longitude": -38.3922905,
+    "timestamp": 1764771820542
+  },
+  "Paulo Afonso|BA|BR": {
+    "latitude": -9.4040012,
+    "longitude": -38.2278088,
+    "timestamp": 1764771822782
+  },
+  "Curitiba|PR|BR": {
+    "latitude": -23.1943315,
+    "longitude": -52.1951308,
+    "timestamp": 1764771824175
+  },
+  "Londrina|PR|BR": {
+    "latitude": -23.3286541,
+    "longitude": -51.1377711,
+    "timestamp": 1764771826017
+  },
+  "Maringá|PR|BR": {
+    "latitude": -23.3930934,
+    "longitude": -51.9643111,
+    "timestamp": 1764771827442
+  },
+  "Ponta Grossa|PR|BR": {
+    "latitude": -25.0156835,
+    "longitude": -50.1390555,
+    "timestamp": 1764771829417
+  },
+  "Cascavel|PR|BR": {
+    "latitude": -24.9521193,
+    "longitude": -53.4497464,
+    "timestamp": 1764771830863
+  },
+  "São José dos Pinhais|PR|BR": {
+    "latitude": -25.6643904,
+    "longitude": -49.1747715,
+    "timestamp": 1764771832771
+  },
+  "Foz do Iguaçu|PR|BR": {
+    "latitude": -25.5462045,
+    "longitude": -54.5905201,
+    "timestamp": 1764771834199
+  },
+  "Colombo|PR|BR": {
+    "latitude": -24.5214546,
+    "longitude": -47.8269904,
+    "timestamp": 1764771836167
+  },
+  "Guarapuava|PR|BR": {
+    "latitude": -25.5659527,
+    "longitude": -51.4747222,
+    "timestamp": 1764771837620
+  },
+  "Paranaguá|PR|BR": {
+    "latitude": -25.5314537,
+    "longitude": -48.5465952,
+    "timestamp": 1764771839508
+  },
+  "Araucária|PR|BR": {
+    "latitude": -25.6005618,
+    "longitude": -49.391031,
+    "timestamp": 1764771841002
+  },
+  "Toledo|PR|BR": {
+    "latitude": -24.7352978,
+    "longitude": -53.7590617,
+    "timestamp": 1764771843541
+  },
+  "Apucarana|PR|BR": {
+    "latitude": -23.5341195,
+    "longitude": -51.4557379,
+    "timestamp": 1764771844964
+  },
+  "Pinhais|PR|BR": {
+    "latitude": -25.4096629,
+    "longitude": -49.1483633,
+    "timestamp": 1764771846882
+  },
+  "Campo Largo|PR|BR": {
+    "latitude": -25.4636341,
+    "longitude": -49.404259,
+    "timestamp": 1764771848306
+  },
+  "Fortaleza|CE|BR": {
+    "latitude": -3.7227618,
+    "longitude": -38.525034,
+    "timestamp": 1764771850160
+  },
+  "Caucaia|CE|BR": {
+    "latitude": -3.7505052,
+    "longitude": -38.6072837,
+    "timestamp": 1764771851594
+  },
+  "Juazeiro do Norte|CE|BR": {
+    "latitude": -7.2275168,
+    "longitude": -39.3329188,
+    "timestamp": 1764771853583
+  },
+  "Maracanaú|CE|BR": {
+    "latitude": -3.833085,
+    "longitude": -38.6088382,
+    "timestamp": 1764771854965
+  },
+  "Sobral|CE|BR": {
+    "latitude": -3.7081978,
+    "longitude": -40.3335153,
+    "timestamp": 1764771856887
+  },
+  "Crato|CE|BR": {
+    "latitude": -7.2334409,
+    "longitude": -39.3966964,
+    "timestamp": 1764771858288
+  },
+  "Itapipoca|CE|BR": {
+    "latitude": -3.4984422,
+    "longitude": -39.5788386,
+    "timestamp": 1764771860119
+  },
+  "Maranguape|CE|BR": {
+    "latitude": -3.8918118,
+    "longitude": -38.6835399,
+    "timestamp": 1764771861522
+  },
+  "Iguatu|CE|BR": {
+    "latitude": -6.376353,
+    "longitude": -39.3086121,
+    "timestamp": 1764771863375
+  },
+  "Quixadá|CE|BR": {
+    "latitude": -4.9551706,
+    "longitude": -39.0287133,
+    "timestamp": 1764771864818
+  },
+  "Recife|PE|BR": {
+    "latitude": -7.5617238,
+    "longitude": -34.9952357,
+    "timestamp": 1764771866692
+  },
+  "Jaboatão dos Guararapes|PE|BR": {
+    "latitude": -8.1516085,
+    "longitude": -34.9330266,
+    "timestamp": 1764771868185
+  },
+  "Olinda|PE|BR": {
+    "latitude": -8.0050198,
+    "longitude": -34.8681399,
+    "timestamp": 1764771870076
+  },
+  "Paulista|PE|BR": {
+    "latitude": -7.9733765,
+    "longitude": -34.8708401,
+    "timestamp": 1764771871824
+  },
+  "Caruaru|PE|BR": {
+    "latitude": -8.2656279,
+    "longitude": -35.9599422,
+    "timestamp": 1764771873765
+  },
+  "Petrolina|PE|BR": {
+    "latitude": -9.4026734,
+    "longitude": -40.5548749,
+    "timestamp": 1764771875260
+  },
+  "Cabo de Santo Agostinho|PE|BR": {
+    "latitude": -8.2466957,
+    "longitude": -34.99609,
+    "timestamp": 1764771878332
+  },
+  "Camaragibe|PE|BR": {
+    "latitude": -7.9746799,
+    "longitude": -34.9670883,
+    "timestamp": 1764771879779
+  },
+  "Garanhuns|PE|BR": {
+    "latitude": -8.898499,
+    "longitude": -36.4945071,
+    "timestamp": 1764771881644
+  },
+  "Vitória de Santo Antão|PE|BR": {
+    "latitude": -8.1116121,
+    "longitude": -35.2911156,
+    "timestamp": 1764771883097
+  },
+  "Porto Alegre|RS|BR": {
+    "latitude": -29.9956527,
+    "longitude": -51.1308698,
+    "timestamp": 1764771885078
+  },
+  "Caxias do Sul|RS|BR": {
+    "latitude": -29.1626062,
+    "longitude": -51.1663113,
+    "timestamp": 1764771886948
+  },
+  "Pelotas|RS|BR": {
+    "latitude": -31.7713552,
+    "longitude": -52.3525865,
+    "timestamp": 1764771889041
+  },
+  "Canoas|RS|BR": {
+    "latitude": -29.9214771,
+    "longitude": -51.1888616,
+    "timestamp": 1764771890515
+  },
+  "Santa Maria|RS|BR": {
+    "latitude": -29.6952013,
+    "longitude": -53.8286774,
+    "timestamp": 1764771893278
+  },
+  "Gravataí|RS|BR": {
+    "latitude": -29.9569099,
+    "longitude": -50.9712088,
+    "timestamp": 1764771894716
+  },
+  "Viamão|RS|BR": {
+    "latitude": -30.056879,
+    "longitude": -51.0501753,
+    "timestamp": 1764771896581
+  },
+  "Novo Hamburgo|RS|BR": {
+    "latitude": -26.2368629,
+    "longitude": -48.5162714,
+    "timestamp": 1764771897971
+  },
+  "São Leopoldo|RS|BR": {
+    "latitude": -29.744761,
+    "longitude": -51.1553954,
+    "timestamp": 1764771900133
+  },
+  "Rio Grande|RS|BR": {
+    "latitude": -28.731201,
+    "longitude": -52.841286,
+    "timestamp": 1764771901702
+  },
+  "Alvorada|RS|BR": {
+    "latitude": -30.0046746,
+    "longitude": -51.0867259,
+    "timestamp": 1764771903649
+  },
+  "Passo Fundo|RS|BR": {
+    "latitude": -28.2371689,
+    "longitude": -52.395073,
+    "timestamp": 1764771905494
+  },
+  "Sapucaia do Sul|RS|BR": {
+    "latitude": -29.8164738,
+    "longitude": -51.1647224,
+    "timestamp": 1764771907384
+  },
+  "Uruguaiana|RS|BR": {
+    "latitude": -29.7477388,
+    "longitude": -57.0834844,
+    "timestamp": 1764771908811
+  },
+  "Santa Cruz do Sul|RS|BR": {
+    "latitude": -29.7615737,
+    "longitude": -52.4283013,
+    "timestamp": 1764771911769
+  },
+  "Belém|PA|BR": {
+    "latitude": -1.45056,
+    "longitude": -48.4682453,
+    "timestamp": 1764771913227
+  },
+  "Ananindeua|PA|BR": {
+    "latitude": -1.374035,
+    "longitude": -48.4016623,
+    "timestamp": 1764771915123
+  },
+  "Santarém|PA|BR": {
+    "latitude": -2.438489,
+    "longitude": -54.699611,
+    "timestamp": 1764771916552
+  },
+  "Marabá|PA|BR": {
+    "latitude": -5.3462821,
+    "longitude": -49.1007401,
+    "timestamp": 1764771918512
+  },
+  "Castanhal|PA|BR": {
+    "latitude": -1.2927031,
+    "longitude": -47.9223903,
+    "timestamp": 1764771920009
+  },
+  "Parauapebas|PA|BR": {
+    "latitude": -6.0696846,
+    "longitude": -49.8903283,
+    "timestamp": 1764771921884
+  },
+  "Itaituba|PA|BR": {
+    "latitude": -4.2625218,
+    "longitude": -55.9878139,
+    "timestamp": 1764771923315
+  },
+  "Cametá|PA|BR": {
+    "latitude": -2.242949,
+    "longitude": -49.497885,
+    "timestamp": 1764771925168
+  },
+  "Bragança|PA|BR": {
+    "latitude": -1.0574255,
+    "longitude": -46.7635232,
+    "timestamp": 1764771926578
+  },
+  "Abaetetuba|PA|BR": {
+    "latitude": -1.7217787,
+    "longitude": -48.8788106,
+    "timestamp": 1764771928465
+  },
+  "Joinville|SC|BR": {
+    "latitude": -26.3044898,
+    "longitude": -48.8486726,
+    "timestamp": 1764771930104
+  },
+  "Florianópolis|SC|BR": {
+    "latitude": -27.5973002,
+    "longitude": -48.5496098,
+    "timestamp": 1764771932325
+  },
+  "Blumenau|SC|BR": {
+    "latitude": -26.9440125,
+    "longitude": -49.0721904,
+    "timestamp": 1764771934196
+  },
+  "São José|SC|BR": {
+    "latitude": -27.6157733,
+    "longitude": -48.6276491,
+    "timestamp": 1764771936281
+  },
+  "Criciúma|SC|BR": {
+    "latitude": -28.6789941,
+    "longitude": -49.3695627,
+    "timestamp": 1764771937903
+  },
+  "Chapecó|SC|BR": {
+    "latitude": -27.1110472,
+    "longitude": -52.5958977,
+    "timestamp": 1764771940266
+  },
+  "Itajaí|SC|BR": {
+    "latitude": -26.9046787,
+    "longitude": -48.6552979,
+    "timestamp": 1764771941863
+  },
+  "Jaraguá do Sul|SC|BR": {
+    "latitude": -26.4897432,
+    "longitude": -49.0778063,
+    "timestamp": 1764771943770
+  },
+  "Lages|SC|BR": {
+    "latitude": -27.8165664,
+    "longitude": -50.325883,
+    "timestamp": 1764771945228
+  },
+  "Palhoça|SC|BR": {
+    "latitude": -27.6447774,
+    "longitude": -48.6646323,
+    "timestamp": 1764771947078
+  },
+  "Goiânia|GO|BR": {
+    "latitude": -16.680882,
+    "longitude": -49.2532691,
+    "timestamp": 1764771948520
+  },
+  "Aparecida de Goiânia|GO|BR": {
+    "latitude": -16.8226769,
+    "longitude": -49.2452546,
+    "timestamp": 1764771950513
+  },
+  "Anápolis|GO|BR": {
+    "latitude": -16.3332828,
+    "longitude": -48.9525756,
+    "timestamp": 1764771952058
+  },
+  "Rio Verde|GO|BR": {
+    "latitude": -17.7921255,
+    "longitude": -50.9191219,
+    "timestamp": 1764771953974
+  },
+  "Luziânia|GO|BR": {
+    "latitude": -16.2535456,
+    "longitude": -47.9500276,
+    "timestamp": 1764771955528
+  },
+  "Águas Lindas de Goiás|GO|BR": {
+    "latitude": -15.7392283,
+    "longitude": -48.2793357,
+    "timestamp": 1764771957594
+  },
+  "Valparaíso de Goiás|GO|BR": {
+    "latitude": -16.0686394,
+    "longitude": -47.9764907,
+    "timestamp": 1764771959174
+  },
+  "Trindade|GO|BR": {
+    "latitude": -16.6549924,
+    "longitude": -49.4876203,
+    "timestamp": 1764771961120
+  },
+  "Formosa|GO|BR": {
+    "latitude": -15.5492443,
+    "longitude": -47.3301212,
+    "timestamp": 1764771962611
+  },
+  "Novo Gama|GO|BR": {
+    "latitude": -16.0496528,
+    "longitude": -48.0304615,
+    "timestamp": 1764771964578
+  },
+  "São Luís|MA|BR": {
+    "latitude": -2.5629101,
+    "longitude": -44.213617,
+    "timestamp": 1764771966408
+  },
+  "Imperatriz|MA|BR": {
+    "latitude": -5.5004498,
+    "longitude": -47.4580395,
+    "timestamp": 1764771968360
+  },
+  "São José de Ribamar|MA|BR": {
+    "latitude": -2.4821668,
+    "longitude": -44.1913814,
+    "timestamp": 1764771969790
+  },
+  "Timon|MA|BR": {
+    "latitude": -5.1069159,
+    "longitude": -42.8241683,
+    "timestamp": 1764771971682
+  },
+  "Caxias|MA|BR": {
+    "latitude": -2.5660665,
+    "longitude": -44.213707,
+    "timestamp": 1764771973130
+  },
+  "Codó|MA|BR": {
+    "latitude": -4.4510514,
+    "longitude": -43.8733353,
+    "timestamp": 1764771974944
+  },
+  "Paço do Lumiar|MA|BR": {
+    "latitude": -2.5410049,
+    "longitude": -44.176281,
+    "timestamp": 1764771976425
+  },
+  "Açailândia|MA|BR": {
+    "latitude": -4.9678241,
+    "longitude": -47.4984229,
+    "timestamp": 1764771978334
+  },
+  "Bacabal|MA|BR": {
+    "latitude": -4.2253029,
+    "longitude": -44.7586405,
+    "timestamp": 1764771979774
+  },
+  "Balsas|MA|BR": {
+    "latitude": -8.5008789,
+    "longitude": -46.7534042,
+    "timestamp": 1764771981682
+  },
+  "João Pessoa|PB|BR": {
+    "latitude": -7.1375601,
+    "longitude": -34.8467226,
+    "timestamp": 1764771983311
+  },
+  "Campina Grande|PB|BR": {
+    "latitude": -7.2455373,
+    "longitude": -35.8975386,
+    "timestamp": 1764771985374
+  },
+  "Santa Rita|PB|BR": {
+    "latitude": -7.0091797,
+    "longitude": -34.9200724,
+    "timestamp": 1764771987068
+  },
+  "Patos|PB|BR": {
+    "latitude": -7.2231838,
+    "longitude": -38.290701,
+    "timestamp": 1764771988968
+  },
+  "Bayeux|PB|BR": {
+    "latitude": -7.1460302,
+    "longitude": -34.9489279,
+    "timestamp": 1764771990348
+  },
+  "Sousa|PB|BR": {
+    "latitude": -6.7792506,
+    "longitude": -38.2384368,
+    "timestamp": 1764771992338
+  },
+  "Cajazeiras|PB|BR": {
+    "latitude": -6.8923694,
+    "longitude": -38.5592505,
+    "timestamp": 1764771993844
+  },
+  "Cabedelo|PB|BR": {
+    "latitude": -7.0326106,
+    "longitude": -34.8455808,
+    "timestamp": 1764771995680
+  },
+  "Guarabira|PB|BR": {
+    "latitude": -6.8495944,
+    "longitude": -35.4854795,
+    "timestamp": 1764771997095
+  },
+  "Mamanguape|PB|BR": {
+    "latitude": -6.8417535,
+    "longitude": -35.1310054,
+    "timestamp": 1764771998912
+  },
+  "Manaus|AM|BR": {
+    "latitude": -3.1316333,
+    "longitude": -59.9825041,
+    "timestamp": 1764772000384
+  },
+  "Parintins|AM|BR": {
+    "latitude": -2.6344567,
+    "longitude": -56.7319324,
+    "timestamp": 1764772002269
+  },
+  "Itacoatiara|AM|BR": {
+    "latitude": -3.1477898,
+    "longitude": -58.4461041,
+    "timestamp": 1764772003665
+  },
+  "Manacapuru|AM|BR": {
+    "latitude": -3.2996768,
+    "longitude": -60.6213528,
+    "timestamp": 1764772005549
+  },
+  "Coari|AM|BR": {
+    "latitude": -4.0885957,
+    "longitude": -63.1431166,
+    "timestamp": 1764772007024
+  },
+  "Tefé|AM|BR": {
+    "latitude": -3.3485276,
+    "longitude": -64.7102278,
+    "timestamp": 1764772008906
+  },
+  "Tabatinga|AM|BR": {
+    "latitude": -4.2327349,
+    "longitude": -69.9263372,
+    "timestamp": 1764772010318
+  },
+  "Maués|AM|BR": {
+    "latitude": -3.3795798,
+    "longitude": -57.7196072,
+    "timestamp": 1764772012189
+  },
+  "Humaitá|AM|BR": {
+    "latitude": -7.5099404,
+    "longitude": -63.0248674,
+    "timestamp": 1764772013615
+  },
+  "São Gabriel da Cachoeira|AM|BR": {
+    "latitude": 1.1833206,
+    "longitude": -66.9692207,
+    "timestamp": 1764772015517
+  },
+  "Vila Velha|ES|BR": {
+    "latitude": -20.3297037,
+    "longitude": -40.2920174,
+    "timestamp": 1764772017285
+  },
+  "Serra|ES|BR": {
+    "latitude": -20.1252961,
+    "longitude": -40.3064477,
+    "timestamp": 1764772019119
+  },
+  "Vitória|ES|BR": {
+    "latitude": -20.3200917,
+    "longitude": -40.3376682,
+    "timestamp": 1764772020667
+  },
+  "Cariacica|ES|BR": {
+    "latitude": -20.263202,
+    "longitude": -40.416549,
+    "timestamp": 1764772022647
+  },
+  "Cachoeiro de Itapemirim|ES|BR": {
+    "latitude": -20.848084,
+    "longitude": -41.11129,
+    "timestamp": 1764772024246
+  },
+  "Linhares|ES|BR": {
+    "latitude": -19.3796775,
+    "longitude": -40.0610087,
+    "timestamp": 1764772027295
+  },
+  "São Mateus|ES|BR": {
+    "latitude": -18.7146049,
+    "longitude": -39.8539499,
+    "timestamp": 1764772029108
+  },
+  "Colatina|ES|BR": {
+    "latitude": -19.5346732,
+    "longitude": -40.6287836,
+    "timestamp": 1764772031104
+  },
+  "Guarapari|ES|BR": {
+    "latitude": -20.6718755,
+    "longitude": -40.4984617,
+    "timestamp": 1764772032540
+  },
+  "Aracruz|ES|BR": {
+    "latitude": -19.8245218,
+    "longitude": -40.2735025,
+    "timestamp": 1764772034436
+  },
+  "Cuiabá|MT|BR": {
+    "latitude": -15.5986686,
+    "longitude": -56.0991301,
+    "timestamp": 1764772036462
+  },
+  "Várzea Grande|MT|BR": {
+    "latitude": -15.645816,
+    "longitude": -56.132218,
+    "timestamp": 1764772038493
+  },
+  "Rondonópolis|MT|BR": {
+    "latitude": -16.4603533,
+    "longitude": -54.6397099,
+    "timestamp": 1764772039961
+  },
+  "Sinop|MT|BR": {
+    "latitude": -11.857701,
+    "longitude": -55.4967824,
+    "timestamp": 1764772042174
+  },
+  "Tangará da Serra|MT|BR": {
+    "latitude": -14.6213903,
+    "longitude": -57.4907268,
+    "timestamp": 1764772043665
+  },
+  "Cáceres|MT|BR": {
+    "latitude": -16.0644068,
+    "longitude": -57.6878972,
+    "timestamp": 1764772045565
+  },
+  "Sorriso|MT|BR": {
+    "latitude": -12.5444887,
+    "longitude": -55.7233972,
+    "timestamp": 1764772047267
+  },
+  "Barra do Garças|MT|BR": {
+    "latitude": -15.8916033,
+    "longitude": -52.2615413,
+    "timestamp": 1764772049151
+  },
+  "Lucas do Rio Verde|MT|BR": {
+    "latitude": -13.0664609,
+    "longitude": -55.9196711,
+    "timestamp": 1764772051038
+  },
+  "Primavera do Leste|MT|BR": {
+    "latitude": -15.5614127,
+    "longitude": -54.2993946,
+    "timestamp": 1764772052957
+  },
+  "Campo Grande|MS|BR": {
+    "latitude": -20.4494839,
+    "longitude": -54.6081159,
+    "timestamp": 1764772054400
+  },
+  "Dourados|MS|BR": {
+    "latitude": -22.2206145,
+    "longitude": -54.812208,
+    "timestamp": 1764772056410
+  },
+  "Três Lagoas|MS|BR": {
+    "latitude": -20.7866799,
+    "longitude": -51.7061247,
+    "timestamp": 1764772057855
+  },
+  "Corumbá|MS|BR": {
+    "latitude": -19.0006027,
+    "longitude": -57.6507535,
+    "timestamp": 1764772059802
+  },
+  "Ponta Porã|MS|BR": {
+    "latitude": -22.5286917,
+    "longitude": -55.723426,
+    "timestamp": 1764772061220
+  },
+  "Aquidauana|MS|BR": {
+    "latitude": -20.473969,
+    "longitude": -55.7821375,
+    "timestamp": 1764772063072
+  },
+  "Nova Andradina|MS|BR": {
+    "latitude": -22.2477565,
+    "longitude": -53.3480621,
+    "timestamp": 1764772064532
+  },
+  "Naviraí|MS|BR": {
+    "latitude": -23.0622152,
+    "longitude": -54.2018319,
+    "timestamp": 1764772066434
+  },
+  "Teresina|PI|BR": {
+    "latitude": -5.0902277,
+    "longitude": -42.8129529,
+    "timestamp": 1764772067856
+  },
+  "Parnaíba|PI|BR": {
+    "latitude": -2.9036875,
+    "longitude": -41.7470181,
+    "timestamp": 1764772069763
+  },
+  "Picos|PI|BR": {
+    "latitude": -7.0749132,
+    "longitude": -41.4743602,
+    "timestamp": 1764772071328
+  },
+  "Floriano|PI|BR": {
+    "latitude": -7.2852638,
+    "longitude": -44.5033991,
+    "timestamp": 1764772073289
+  },
+  "Piripiri|PI|BR": {
+    "latitude": -4.2696965,
+    "longitude": -41.7700739,
+    "timestamp": 1764772074707
+  },
+  "Campo Maior|PI|BR": {
+    "latitude": -4.8343194,
+    "longitude": -42.1855532,
+    "timestamp": 1764772076566
+  },
+  "Altos|PI|BR": {
+    "latitude": -5.036961,
+    "longitude": -42.46067,
+    "timestamp": 1764772080258
+  },
+  "Maceió|AL|BR": {
+    "latitude": -9.6585925,
+    "longitude": -35.7172813,
+    "timestamp": 1764772081790
+  },
+  "Arapiraca|AL|BR": {
+    "latitude": -9.7788325,
+    "longitude": -36.6440195,
+    "timestamp": 1764772083690
+  },
+  "Rio Largo|AL|BR": {
+    "latitude": -9.5146798,
+    "longitude": -35.7930271,
+    "timestamp": 1764772085106
+  },
+  "Palmeira dos Índios|AL|BR": {
+    "latitude": -9.4146949,
+    "longitude": -36.6417712,
+    "timestamp": 1764772087019
+  },
+  "União dos Palmares|AL|BR": {
+    "latitude": -9.3130954,
+    "longitude": -35.9451097,
+    "timestamp": 1764772088439
+  },
+  "Penedo|AL|BR": {
+    "latitude": -10.2934458,
+    "longitude": -36.5849059,
+    "timestamp": 1764772090383
+  },
+  "Delmiro Gouveia|AL|BR": {
+    "latitude": -9.3849767,
+    "longitude": -37.9976586,
+    "timestamp": 1764772091756
+  },
+  "São Miguel dos Campos|AL|BR": {
+    "latitude": -9.7062303,
+    "longitude": -36.0544647,
+    "timestamp": 1764772093827
+  },
+  "Natal|RN|BR": {
+    "latitude": -5.8193078,
+    "longitude": -35.2126281,
+    "timestamp": 1764772095367
+  },
+  "Mossoró|RN|BR": {
+    "latitude": -5.1506216,
+    "longitude": -37.3640177,
+    "timestamp": 1764772097405
+  },
+  "Parnamirim|RN|BR": {
+    "latitude": -5.9669248,
+    "longitude": -35.1349279,
+    "timestamp": 1764772098841
+  },
+  "São Gonçalo do Amarante|RN|BR": {
+    "latitude": -5.7803095,
+    "longitude": -35.3134705,
+    "timestamp": 1764772100775
+  },
+  "Macaíba|RN|BR": {
+    "latitude": -5.9439116,
+    "longitude": -35.3018215,
+    "timestamp": 1764772102159
+  },
+  "Ceará-Mirim|RN|BR": {
+    "latitude": -5.6405795,
+    "longitude": -35.4192696,
+    "timestamp": 1764772104027
+  },
+  "Caicó|RN|BR": {
+    "latitude": -6.4694136,
+    "longitude": -37.0917641,
+    "timestamp": 1764772105453
+  },
+  "Açu|RN|BR": {
+    "latitude": -5.5737869,
+    "longitude": -36.9121749,
+    "timestamp": 1764772107391
+  },
+  "Aracaju|SE|BR": {
+    "latitude": -10.9698459,
+    "longitude": -37.0362509,
+    "timestamp": 1764772108955
+  },
+  "Nossa Senhora do Socorro|SE|BR": {
+    "latitude": -10.8929145,
+    "longitude": -37.1448871,
+    "timestamp": 1764772110901
+  },
+  "Lagarto|SE|BR": {
+    "latitude": -10.9236794,
+    "longitude": -37.6579081,
+    "timestamp": 1764772112378
+  },
+  "Itabaiana|SE|BR": {
+    "latitude": -10.6977591,
+    "longitude": -37.4286624,
+    "timestamp": 1764772114381
+  },
+  "Estância|SE|BR": {
+    "latitude": -23.5436925,
+    "longitude": -47.1281769,
+    "timestamp": 1764772115901
+  },
+  "Porto Velho|RO|BR": {
+    "latitude": -8.7494525,
+    "longitude": -63.8735438,
+    "timestamp": 1764772117847
+  },
+  "Ji-Paraná|RO|BR": {
+    "latitude": -10.8778148,
+    "longitude": -61.9277854,
+    "timestamp": 1764772119404
+  },
+  "Ariquemes|RO|BR": {
+    "latitude": -9.9076522,
+    "longitude": -63.033069,
+    "timestamp": 1764772121250
+  },
+  "Vilhena|RO|BR": {
+    "latitude": -12.7368536,
+    "longitude": -60.1465555,
+    "timestamp": 1764772122658
+  },
+  "Cacoal|RO|BR": {
+    "latitude": -11.4333,
+    "longitude": -61.4420502,
+    "timestamp": 1764772124525
+  },
+  "Palmas|TO|BR": {
+    "latitude": -10.1837852,
+    "longitude": -48.3336423,
+    "timestamp": 1764772126063
+  },
+  "Araguaína|TO|BR": {
+    "latitude": -7.193241,
+    "longitude": -48.2018597,
+    "timestamp": 1764772127934
+  },
+  "Gurupi|TO|BR": {
+    "latitude": -11.72794,
+    "longitude": -49.068046,
+    "timestamp": 1764772129358
+  },
+  "Porto Nacional|TO|BR": {
+    "latitude": -10.7019786,
+    "longitude": -48.4110952,
+    "timestamp": 1764772131241
+  },
+  "Paraíso do Tocantins|TO|BR": {
+    "latitude": -10.1752474,
+    "longitude": -48.886759,
+    "timestamp": 1764772132735
+  },
+  "Rio Branco|AC|BR": {
+    "latitude": -9.9765362,
+    "longitude": -67.8220778,
+    "timestamp": 1764772135042
+  },
+  "Cruzeiro do Sul|AC|BR": {
+    "latitude": -7.6362478,
+    "longitude": -72.6691649,
+    "timestamp": 1764772136528
+  },
+  "Sena Madureira|AC|BR": {
+    "latitude": -9.133307,
+    "longitude": -68.584657,
+    "timestamp": 1764772138402
+  },
+  "Macapá|AP|BR": {
+    "latitude": 0.0401529,
+    "longitude": -51.0569588,
+    "timestamp": 1764772139862
+  },
+  "Santana|AP|BR": {
+    "latitude": -0.0307068,
+    "longitude": -51.1789666,
+    "timestamp": 1764772141876
+  },
+  "Laranjal do Jari|AP|BR": {
+    "latitude": -0.8419994,
+    "longitude": -52.516,
+    "timestamp": 1764772143278
+  },
+  "Boa Vista|RR|BR": {
+    "latitude": 2.8208478,
+    "longitude": -60.6719582,
+    "timestamp": 1764772145438
+  },
+  "Rorainópolis|RR|BR": {
+    "latitude": 0.9387308,
+    "longitude": -60.4236464,
+    "timestamp": 1764772146866
+  },
+  "Brasília|DF|BR": {
+    "latitude": -15.7939869,
+    "longitude": -47.8828,
+    "timestamp": 1764772149774
+  },
+  "Los Angeles|CA|US": {
+    "latitude": 34.625739,
+    "longitude": -118.0826393,
+    "timestamp": 1764772151491
+  },
+  "San Diego|CA|US": {
+    "latitude": 32.7823054,
+    "longitude": -117.1710146,
+    "timestamp": 1764772153620
+  },
+  "San Jose|CA|US": {
+    "latitude": 37.3335194,
+    "longitude": -121.885444,
+    "timestamp": 1764772155324
+  },
+  "San Francisco|CA|US": {
+    "latitude": 37.7855789,
+    "longitude": -122.4298089,
+    "timestamp": 1764772157353
+  },
+  "Fresno|CA|US": {
+    "latitude": 36.7584751,
+    "longitude": -119.8004913,
+    "timestamp": 1764772158943
+  },
+  "Sacramento|CA|US": {
+    "latitude": 38.5834394,
+    "longitude": -121.4986466,
+    "timestamp": 1764772161076
+  },
+  "Long Beach|CA|US": {
+    "latitude": 33.760599,
+    "longitude": -118.136229,
+    "timestamp": 1764772163085
+  },
+  "Oakland|CA|US": {
+    "latitude": 37.8003788,
+    "longitude": -122.271539,
+    "timestamp": 1764772165182
+  },
+  "Anaheim|CA|US": {
+    "latitude": 33.8663213,
+    "longitude": -117.744201,
+    "timestamp": 1764772169127
+  },
+  "Santa Ana|CA|US": {
+    "latitude": 33.7485238,
+    "longitude": -117.8715278,
+    "timestamp": 1764772170778
+  },
+  "Riverside|CA|US": {
+    "latitude": 38.5193511,
+    "longitude": -121.513844,
+    "timestamp": 1764772172894
+  },
+  "Stockton|CA|US": {
+    "latitude": 37.9545612,
+    "longitude": -121.3424911,
+    "timestamp": 1764772174476
+  },
+  "Irvine|CA|US": {
+    "latitude": 33.6667893,
+    "longitude": -117.7674067,
+    "timestamp": 1764772176617
+  },
+  "Fremont|CA|US": {
+    "latitude": 37.5690246,
+    "longitude": -121.9775908,
+    "timestamp": 1764772180277
+  },
+  "San Bernardino|CA|US": {
+    "latitude": 34.5660334,
+    "longitude": -117.370661,
+    "timestamp": 1764772181865
+  },
+  "Modesto|CA|US": {
+    "latitude": 37.688139,
+    "longitude": -120.9557999,
+    "timestamp": 1764772184541
+  },
+  "Oxnard|CA|US": {
+    "latitude": 34.1784506,
+    "longitude": -118.5942855,
+    "timestamp": 1764772188278
+  },
+  "Moreno Valley|CA|US": {
+    "latitude": 33.9113892,
+    "longitude": -117.245752,
+    "timestamp": 1764772190310
+  },
+  "Glendale|CA|US": {
+    "latitude": 34.146653,
+    "longitude": -118.2519948,
+    "timestamp": 1764772194391
+  },
+  "Santa Clarita|CA|US": {
+    "latitude": 34.4222887,
+    "longitude": -118.5617373,
+    "timestamp": 1764772196473
+  },
+  "Garden Grove|CA|US": {
+    "latitude": 33.7927244,
+    "longitude": -118.0027933,
+    "timestamp": 1764772199359
+  },
+  "Oceanside|CA|US": {
+    "latitude": 33.1990582,
+    "longitude": -117.3684665,
+    "timestamp": 1764772201512
+  },
+  "Ontario|CA|US": {
+    "latitude": 34.0879719,
+    "longitude": -117.6338839,
+    "timestamp": 1764772206610
+  },
+  "Lancaster|CA|US": {
+    "latitude": 34.6873368,
+    "longitude": -118.1487951,
+    "timestamp": 1764772208304
+  },
+  "Elk Grove|CA|US": {
+    "latitude": 38.4264497,
+    "longitude": -121.41687,
+    "timestamp": 1764772210457
+  },
+  "Corona|CA|US": {
+    "latitude": 33.8533024,
+    "longitude": -117.5384488,
+    "timestamp": 1764772212183
+  },
+  "Palmdale|CA|US": {
+    "latitude": 34.625739,
+    "longitude": -118.0826393,
+    "timestamp": 1764772214081
+  },
+  "Salinas|CA|US": {
+    "latitude": 36.6751579,
+    "longitude": -121.6593448,
+    "timestamp": 1764772215676
+  },
+  "Pomona|CA|US": {
+    "latitude": 38.0525534,
+    "longitude": -122.2167158,
+    "timestamp": 1764772217593
+  },
+  "Escondido|CA|US": {
+    "latitude": 33.1364453,
+    "longitude": -117.056145,
+    "timestamp": 1764772221262
+  },
+  "Torrance|CA|US": {
+    "latitude": 33.840323,
+    "longitude": -118.358531,
+    "timestamp": 1764772222807
+  },
+  "Sunnyvale|CA|US": {
+    "latitude": 37.3518654,
+    "longitude": -122.033845,
+    "timestamp": 1764772224787
+  },
+  "Orange|CA|US": {
+    "latitude": 33.6216292,
+    "longitude": -117.702503,
+    "timestamp": 1764772226506
+  },
+  "Fullerton|CA|US": {
+    "latitude": 33.8736088,
+    "longitude": -117.9033896,
+    "timestamp": 1764772228448
+  },
+  "Pasadena|CA|US": {
+    "latitude": 34.1356057,
+    "longitude": -118.127028,
+    "timestamp": 1764772230146
+  },
+  "Thousand Oaks|CA|US": {
+    "latitude": 34.1942067,
+    "longitude": -118.9471296,
+    "timestamp": 1764772232227
+  },
+  "Concord|CA|US": {
+    "latitude": 37.9635888,
+    "longitude": -121.992359,
+    "timestamp": 1764772237585
+  },
+  "Roseville|CA|US": {
+    "latitude": 38.7481396,
+    "longitude": -121.262658,
+    "timestamp": 1764772239703
+  },
+  "Victorville|CA|US": {
+    "latitude": 34.5660334,
+    "longitude": -117.370661,
+    "timestamp": 1764772243969
+  },
+  "Vallejo|CA|US": {
+    "latitude": 38.1192412,
+    "longitude": -122.2512474,
+    "timestamp": 1764772245552
+  },
+  "Berkeley|CA|US": {
+    "latitude": 37.8681873,
+    "longitude": -122.2585175,
+    "timestamp": 1764772247658
+  },
+  "Houston|TX|US": {
+    "latitude": 29.7576507,
+    "longitude": -95.3615081,
+    "timestamp": 1764772249362
+  },
+  "San Antonio|TX|US": {
+    "latitude": 29.461343,
+    "longitude": -98.4380715,
+    "timestamp": 1764772251433
+  },
+  "Dallas|TX|US": {
+    "latitude": 32.7712841,
+    "longitude": -96.8988712,
+    "timestamp": 1764772253067
+  },
+  "Austin|TX|US": {
+    "latitude": 30.268082,
+    "longitude": -97.7483738,
+    "timestamp": 1764772255159
+  },
+  "Fort Worth|TX|US": {
+    "latitude": 32.6857767,
+    "longitude": -97.2794642,
+    "timestamp": 1764772257026
+  },
+  "El Paso|TX|US": {
+    "latitude": 31.707594,
+    "longitude": -106.3136181,
+    "timestamp": 1764772259175
+  },
+  "Arlington|TX|US": {
+    "latitude": 32.7189983,
+    "longitude": -97.0485417,
+    "timestamp": 1764772260902
+  },
+  "Corpus Christi|TX|US": {
+    "latitude": 27.6677324,
+    "longitude": -97.2868305,
+    "timestamp": 1764772262849
+  },
+  "Laredo|TX|US": {
+    "latitude": 27.5067767,
+    "longitude": -99.508938,
+    "timestamp": 1764772266776
+  },
+  "Lubbock|TX|US": {
+    "latitude": 33.6805642,
+    "longitude": -101.9944651,
+    "timestamp": 1764772268398
+  },
+  "Garland|TX|US": {
+    "latitude": 32.8304235,
+    "longitude": -96.7077493,
+    "timestamp": 1764772270448
+  },
+  "Irving|TX|US": {
+    "latitude": 32.8977035,
+    "longitude": -96.9783551,
+    "timestamp": 1764772272025
+  },
+  "Amarillo|TX|US": {
+    "latitude": 35.2087607,
+    "longitude": -101.8349119,
+    "timestamp": 1764772274021
+  },
+  "Brownsville|TX|US": {
+    "latitude": 25.931914,
+    "longitude": -97.4989244,
+    "timestamp": 1764772278128
+  },
+  "McKinney|TX|US": {
+    "latitude": 30.213876,
+    "longitude": -97.7321725,
+    "timestamp": 1764772280785
+  },
+  "Mesquite|TX|US": {
+    "latitude": 32.7750979,
+    "longitude": -96.5981588,
+    "timestamp": 1764772287149
+  },
+  "Waco|TX|US": {
+    "latitude": 31.586298,
+    "longitude": -97.1783425,
+    "timestamp": 1764772292069
+  },
+  "Carrollton|TX|US": {
+    "latitude": 32.9750377,
+    "longitude": -96.8863469,
+    "timestamp": 1764772294100
+  },
+  "Denton|TX|US": {
+    "latitude": 33.2900815,
+    "longitude": -97.1344533,
+    "timestamp": 1764772295696
+  },
+  "Midland|TX|US": {
+    "latitude": 31.9971001,
+    "longitude": -102.0729213,
+    "timestamp": 1764772297939
+  },
+  "Abilene|TX|US": {
+    "latitude": 32.4522073,
+    "longitude": -99.7325012,
+    "timestamp": 1764772299423
+  },
+  "Beaumont|TX|US": {
+    "latitude": 29.9588441,
+    "longitude": -94.0796034,
+    "timestamp": 1764772301550
+  },
+  "Odessa|TX|US": {
+    "latitude": 31.8275059,
+    "longitude": -102.3551174,
+    "timestamp": 1764772305794
+  },
+  "Wichita Falls|TX|US": {
+    "latitude": 33.9086386,
+    "longitude": -98.4915192,
+    "timestamp": 1764772307283
+  },
+  "Richardson|TX|US": {
+    "latitude": 32.9574871,
+    "longitude": -96.7684778,
+    "timestamp": 1764772309247
+  },
+  "Tyler|TX|US": {
+    "latitude": 32.2708583,
+    "longitude": -95.2568652,
+    "timestamp": 1764772312722
+  },
+  "College Station|TX|US": {
+    "latitude": 30.618147,
+    "longitude": -96.3449761,
+    "timestamp": 1764772314698
+  },
+  "Pearland|TX|US": {
+    "latitude": 29.5592145,
+    "longitude": -95.2890349,
+    "timestamp": 1764772316588
+  },
+  "San Angelo|TX|US": {
+    "latitude": 31.46182,
+    "longitude": -100.4455579,
+    "timestamp": 1764772318311
+  },
+  "Sugar Land|TX|US": {
+    "latitude": 29.587463,
+    "longitude": -95.6176359,
+    "timestamp": 1764772325799
+  },
+  "Jacksonville|FL|US": {
+    "latitude": 30.3296041,
+    "longitude": -81.6606327,
+    "timestamp": 1764772327373
+  },
+  "Miami|FL|US": {
+    "latitude": 25.779269,
+    "longitude": -80.1987314,
+    "timestamp": 1764772329434
+  },
+  "Tampa|FL|US": {
+    "latitude": 27.9514896,
+    "longitude": -82.4581066,
+    "timestamp": 1764772331270
+  },
+  "Orlando|FL|US": {
+    "latitude": 28.5367896,
+    "longitude": -81.3975733,
+    "timestamp": 1764772333343
+  },
+  "St. Petersburg|FL|US": {
+    "latitude": 27.8438691,
+    "longitude": -82.6429194,
+    "timestamp": 1764772334941
+  },
+  "Hialeah|FL|US": {
+    "latitude": 25.8061627,
+    "longitude": -80.3482693,
+    "timestamp": 1764772336819
+  },
+  "Port St. Lucie|FL|US": {
+    "latitude": 27.3026389,
+    "longitude": -80.3264776,
+    "timestamp": 1764772338316
+  },
+  "Tallahassee|FL|US": {
+    "latitude": 30.4387238,
+    "longitude": -84.3203972,
+    "timestamp": 1764772340401
+  },
+  "Cape Coral|FL|US": {
+    "latitude": 26.6864871,
+    "longitude": -81.9174735,
+    "timestamp": 1764772342155
+  },
+  "Fort Lauderdale|FL|US": {
+    "latitude": 26.1225357,
+    "longitude": -80.2007361,
+    "timestamp": 1764772344299
+  },
+  "Pembroke Pines|FL|US": {
+    "latitude": 25.9958333,
+    "longitude": -80.2322222,
+    "timestamp": 1764772345964
+  },
+  "Hollywood|FL|US": {
+    "latitude": 26.0107441,
+    "longitude": -80.1882631,
+    "timestamp": 1764772348115
+  },
+  "Coral Springs|FL|US": {
+    "latitude": 26.237646,
+    "longitude": -80.24381,
+    "timestamp": 1764772352310
+  },
+  "Clearwater|FL|US": {
+    "latitude": 27.9629559,
+    "longitude": -82.7469201,
+    "timestamp": 1764772354001
+  },
+  "Palm Bay|FL|US": {
+    "latitude": 28.0367939,
+    "longitude": -80.6058663,
+    "timestamp": 1764772358825
+  },
+  "West Palm Beach|FL|US": {
+    "latitude": 26.5846416,
+    "longitude": -80.0524903,
+    "timestamp": 1764772362376
+  },
+  "Lakeland|FL|US": {
+    "latitude": 28.0307744,
+    "longitude": -81.9442971,
+    "timestamp": 1764772364404
+  },
+  "Davie|FL|US": {
+    "latitude": 26.1101289,
+    "longitude": -80.3033976,
+    "timestamp": 1764772365950
+  },
+  "Miami Beach|FL|US": {
+    "latitude": 25.8130479,
+    "longitude": -80.1286761,
+    "timestamp": 1764772368253
+  },
+  "Plantation|FL|US": {
+    "latitude": 26.1225357,
+    "longitude": -80.2007361,
+    "timestamp": 1764772372042
+  },
+  "Boca Raton|FL|US": {
+    "latitude": 26.3764921,
+    "longitude": -80.1189728,
+    "timestamp": 1764772373526
+  },
+  "Deerfield Beach|FL|US": {
+    "latitude": 26.318701,
+    "longitude": -80.1326221,
+    "timestamp": 1764772379961
+  },
+  "New York City|NY|US": {
+    "latitude": 40.7372329,
+    "longitude": -73.862477,
+    "timestamp": 1764772386949
+  },
+  "Buffalo|NY|US": {
+    "latitude": 42.8875205,
+    "longitude": -78.8784365,
+    "timestamp": 1764772389112
+  },
+  "Rochester|NY|US": {
+    "latitude": 41.787386,
+    "longitude": -74.2723608,
+    "timestamp": 1764772391607
+  },
+  "Yonkers|NY|US": {
+    "latitude": 40.967601,
+    "longitude": -73.8813971,
+    "timestamp": 1764772393785
+  },
+  "Syracuse|NY|US": {
+    "latitude": 43.0524397,
+    "longitude": -76.121084,
+    "timestamp": 1764772395326
+  },
+  "Albany|NY|US": {
+    "latitude": 42.6495727,
+    "longitude": -73.7500522,
+    "timestamp": 1764772397480
+  },
+  "Schenectady|NY|US": {
+    "latitude": 42.8682838,
+    "longitude": -73.9309121,
+    "timestamp": 1764772403352
+  },
+  "Utica|NY|US": {
+    "latitude": 43.1021707,
+    "longitude": -75.2311787,
+    "timestamp": 1764772405329
+  },
+  "White Plains|NY|US": {
+    "latitude": 40.8926045,
+    "longitude": -73.8580405,
+    "timestamp": 1764772407119
+  },
+  "Hempstead|NY|US": {
+    "latitude": 40.7294443,
+    "longitude": -73.6138524,
+    "timestamp": 1764772409134
+  },
+  "Troy|NY|US": {
+    "latitude": 42.6810219,
+    "longitude": -73.6965193,
+    "timestamp": 1764772410777
+  },
+  "Niagara Falls|NY|US": {
+    "latitude": 43.0982825,
+    "longitude": -78.9479429,
+    "timestamp": 1764772412832
+  },
+  "Binghamton|NY|US": {
+    "latitude": 42.1023144,
+    "longitude": -75.9066983,
+    "timestamp": 1764772414560
+  },
+  "Chicago|IL|US": {
+    "latitude": 41.8761619,
+    "longitude": -87.64019,
+    "timestamp": 1764772421248
+  },
+  "Aurora|IL|US": {
+    "latitude": 41.7290483,
+    "longitude": -88.3409857,
+    "timestamp": 1764772422950
+  },
+  "Naperville|IL|US": {
+    "latitude": 41.7716787,
+    "longitude": -88.1618821,
+    "timestamp": 1764772425074
+  },
+  "Joliet|IL|US": {
+    "latitude": 41.5271463,
+    "longitude": -88.0796496,
+    "timestamp": 1764772426565
+  },
+  "Rockford|IL|US": {
+    "latitude": 42.2577572,
+    "longitude": -89.0805195,
+    "timestamp": 1764772428448
+  },
+  "Springfield|IL|US": {
+    "latitude": 39.8328374,
+    "longitude": -89.6292515,
+    "timestamp": 1764772430142
+  },
+  "Elgin|IL|US": {
+    "latitude": 42.0384143,
+    "longitude": -88.2859395,
+    "timestamp": 1764772432251
+  },
+  "Peoria|IL|US": {
+    "latitude": 40.7095821,
+    "longitude": -89.6139856,
+    "timestamp": 1764772433857
+  },
+  "Champaign|IL|US": {
+    "latitude": 40.1867646,
+    "longitude": -88.38075,
+    "timestamp": 1764772435982
+  },
+  "Waukegan|IL|US": {
+    "latitude": 42.3649329,
+    "longitude": -87.8317652,
+    "timestamp": 1764772437395
+  },
+  "Cicero|IL|US": {
+    "latitude": 41.8463042,
+    "longitude": -87.7543519,
+    "timestamp": 1764772439394
+  },
+  "Bloomington|IL|US": {
+    "latitude": 40.4626219,
+    "longitude": -88.9751558,
+    "timestamp": 1764772440989
+  },
+  "Arlington Heights|IL|US": {
+    "latitude": 42.1153138,
+    "longitude": -87.9845287,
+    "timestamp": 1764772443161
+  },
+  "Evanston|IL|US": {
+    "latitude": 42.0340871,
+    "longitude": -87.6806525,
+    "timestamp": 1764772444640
+  },
+  "Philadelphia|PA|US": {
+    "latitude": 39.9533292,
+    "longitude": -75.1474228,
+    "timestamp": 1764772448327
+  },
+  "Pittsburgh|PA|US": {
+    "latitude": 40.4427339,
+    "longitude": -79.9941127,
+    "timestamp": 1764772450588
+  },
+  "Allentown|PA|US": {
+    "latitude": 40.60305,
+    "longitude": -75.4672184,
+    "timestamp": 1764772452311
+  },
+  "Erie|PA|US": {
+    "latitude": 42.128899,
+    "longitude": -80.0842299,
+    "timestamp": 1764772454438
+  },
+  "Scranton|PA|US": {
+    "latitude": 41.4078366,
+    "longitude": -75.6670621,
+    "timestamp": 1764772458102
+  },
+  "Bethlehem|PA|US": {
+    "latitude": 40.6176483,
+    "longitude": -75.3440427,
+    "timestamp": 1764772459671
+  },
+  "Lancaster|PA|US": {
+    "latitude": 40.0408256,
+    "longitude": -76.3075376,
+    "timestamp": 1764772461711
+  },
+  "Harrisburg|PA|US": {
+    "latitude": 40.2567317,
+    "longitude": -76.8563108,
+    "timestamp": 1764772464161
+  },
+  "York|PA|US": {
+    "latitude": 39.9334978,
+    "longitude": -76.6881555,
+    "timestamp": 1764772467791
+  },
+  "State College|PA|US": {
+    "latitude": 40.792023,
+    "longitude": -77.8604383,
+    "timestamp": 1764772471026
+  },
+  "Phoenix|AZ|US": {
+    "latitude": 33.4477432,
+    "longitude": -112.0804769,
+    "timestamp": 1764772472706
+  },
+  "Tucson|AZ|US": {
+    "latitude": 32.0837926,
+    "longitude": -110.8670936,
+    "timestamp": 1764772474809
+  },
+  "Mesa|AZ|US": {
+    "latitude": 33.4151524,
+    "longitude": -111.8272129,
+    "timestamp": 1764772476507
+  },
+  "Chandler|AZ|US": {
+    "latitude": 33.3053654,
+    "longitude": -111.8381273,
+    "timestamp": 1764772479047
+  },
+  "Scottsdale|AZ|US": {
+    "latitude": 33.6905206,
+    "longitude": -111.9215652,
+    "timestamp": 1764772480580
+  },
+  "Glendale|AZ|US": {
+    "latitude": 33.5349936,
+    "longitude": -112.3560366,
+    "timestamp": 1764772482677
+  },
+  "Gilbert|AZ|US": {
+    "latitude": 33.3459889,
+    "longitude": -111.754688,
+    "timestamp": 1764772484296
+  },
+  "Tempe|AZ|US": {
+    "latitude": 33.3920517,
+    "longitude": -111.935548,
+    "timestamp": 1764772486265
+  },
+  "Surprise|AZ|US": {
+    "latitude": 33.6377421,
+    "longitude": -112.3819315,
+    "timestamp": 1764772490369
+  },
+  "Yuma|AZ|US": {
+    "latitude": 32.7257203,
+    "longitude": -114.6207276,
+    "timestamp": 1764772491921
+  },
+  "Goodyear|AZ|US": {
+    "latitude": 33.4383783,
+    "longitude": -112.3914597,
+    "timestamp": 1764772495649
+  },
+  "Flagstaff|AZ|US": {
+    "latitude": 35.2149309,
+    "longitude": -111.6342716,
+    "timestamp": 1764772497760
+  },
+  "Buckeye|AZ|US": {
+    "latitude": 33.374294,
+    "longitude": -112.5861263,
+    "timestamp": 1764772499462
+  },
+  "Columbus|OH|US": {
+    "latitude": 40.1246672,
+    "longitude": -83.0868282,
+    "timestamp": 1764772501509
+  },
+  "Cleveland|OH|US": {
+    "latitude": 41.5006929,
+    "longitude": -81.692725,
+    "timestamp": 1764772503279
+  },
+  "Cincinnati|OH|US": {
+    "latitude": 39.1018924,
+    "longitude": -84.5106692,
+    "timestamp": 1764772505788
+  },
+  "Toledo|OH|US": {
+    "latitude": 41.657472,
+    "longitude": -83.5360656,
+    "timestamp": 1764772507420
+  },
+  "Akron|OH|US": {
+    "latitude": 41.0651287,
+    "longitude": -81.5192568,
+    "timestamp": 1764772509461
+  },
+  "Dayton|OH|US": {
+    "latitude": 39.7586562,
+    "longitude": -84.1945479,
+    "timestamp": 1764772512196
+  },
+  "Parma|OH|US": {
+    "latitude": 41.3798835,
+    "longitude": -81.7385925,
+    "timestamp": 1764772514240
+  },
+  "Canton|OH|US": {
+    "latitude": 40.7973856,
+    "longitude": -81.3794383,
+    "timestamp": 1764772515914
+  },
+  "Youngstown|OH|US": {
+    "latitude": 41.1011248,
+    "longitude": -80.6478668,
+    "timestamp": 1764772517847
+  },
+  "Lorain|OH|US": {
+    "latitude": 41.1691841,
+    "longitude": -82.2176798,
+    "timestamp": 1764772519383
+  },
+  "Hamilton|OH|US": {
+    "latitude": 39.1018924,
+    "longitude": -84.5106692,
+    "timestamp": 1764772522496
+  },
+  "Springfield|OH|US": {
+    "latitude": 40.7606696,
+    "longitude": -82.6461118,
+    "timestamp": 1764772524156
+  },
+  "Charlotte|NC|US": {
+    "latitude": 35.2188289,
+    "longitude": -80.8056064,
+    "timestamp": 1764772526271
+  },
+  "Raleigh|NC|US": {
+    "latitude": 35.780541,
+    "longitude": -78.6341598,
+    "timestamp": 1764772528201
+  },
+  "Greensboro|NC|US": {
+    "latitude": 36.0723081,
+    "longitude": -79.7957676,
+    "timestamp": 1764772530372
+  },
+  "Durham|NC|US": {
+    "latitude": 35.9972411,
+    "longitude": -78.9002967,
+    "timestamp": 1764772531916
+  },
+  "Winston-Salem|NC|US": {
+    "latitude": 36.1001374,
+    "longitude": -80.2456049,
+    "timestamp": 1764772535216
+  },
+  "Fayetteville|NC|US": {
+    "latitude": 35.0562745,
+    "longitude": -78.8778739,
+    "timestamp": 1764772536922
+  },
+  "Wilmington|NC|US": {
+    "latitude": 34.0628806,
+    "longitude": -77.9127423,
+    "timestamp": 1764772542061
+  },
+  "High Point|NC|US": {
+    "latitude": 35.9908454,
+    "longitude": -79.9576287,
+    "timestamp": 1764772544238
+  },
+  "Asheville|NC|US": {
+    "latitude": 35.5930573,
+    "longitude": -82.5557472,
+    "timestamp": 1764772549041
+  },
+  "Gastonia|NC|US": {
+    "latitude": 35.2440363,
+    "longitude": -81.1336619,
+    "timestamp": 1764772550491
+  },
+  "Detroit|MI|US": {
+    "latitude": 42.3303698,
+    "longitude": -83.0496284,
+    "timestamp": 1764772553730
+  },
+  "Grand Rapids|MI|US": {
+    "latitude": 42.9699844,
+    "longitude": -85.6708999,
+    "timestamp": 1764772555605
+  },
+  "Warren|MI|US": {
+    "latitude": 42.50192,
+    "longitude": -83.0476902,
+    "timestamp": 1764772557689
+  },
+  "Ann Arbor|MI|US": {
+    "latitude": 42.3108985,
+    "longitude": -83.6916935,
+    "timestamp": 1764772561799
+  },
+  "Lansing|MI|US": {
+    "latitude": 42.7417461,
+    "longitude": -84.5128481,
+    "timestamp": 1764772563533
+  },
+  "Flint|MI|US": {
+    "latitude": 42.988021,
+    "longitude": -83.7731456,
+    "timestamp": 1764772565668
+  },
+  "Dearborn|MI|US": {
+    "latitude": 42.3122053,
+    "longitude": -83.1907224,
+    "timestamp": 1764772567181
+  },
+  "Troy|MI|US": {
+    "latitude": 42.5568319,
+    "longitude": -83.1151169,
+    "timestamp": 1764772570735
+  },
+  "Seattle|WA|US": {
+    "latitude": 47.615296,
+    "longitude": -122.3365187,
+    "timestamp": 1764772572768
+  },
+  "Spokane|WA|US": {
+    "latitude": 47.6719602,
+    "longitude": -117.416324,
+    "timestamp": 1764772574547
+  },
+  "Tacoma|WA|US": {
+    "latitude": 47.2463206,
+    "longitude": -122.4360875,
+    "timestamp": 1764772576574
+  },
+  "Vancouver|WA|US": {
+    "latitude": 45.6405202,
+    "longitude": -122.624165,
+    "timestamp": 1764772578036
+  },
+  "Bellevue|WA|US": {
+    "latitude": 47.5843301,
+    "longitude": -122.1612267,
+    "timestamp": 1764772580142
+  },
+  "Renton|WA|US": {
+    "latitude": 47.4292144,
+    "longitude": -122.1452408,
+    "timestamp": 1764772587026
+  },
+  "Federal Way|WA|US": {
+    "latitude": 47.3071004,
+    "longitude": -122.314387,
+    "timestamp": 1764772591207
+  },
+  "Denver|CO|US": {
+    "latitude": 39.7336176,
+    "longitude": -104.8927073,
+    "timestamp": 1764772593281
+  },
+  "Colorado Springs|CO|US": {
+    "latitude": 38.9912381,
+    "longitude": -104.8588346,
+    "timestamp": 1764772595244
+  },
+  "Aurora|CO|US": {
+    "latitude": 39.6971427,
+    "longitude": -104.863084,
+    "timestamp": 1764772597216
+  },
+  "Fort Collins|CO|US": {
+    "latitude": 40.5251138,
+    "longitude": -105.04991,
+    "timestamp": 1764772598933
+  },
+  "Lakewood|CO|US": {
+    "latitude": 39.7471966,
+    "longitude": -105.0574306,
+    "timestamp": 1764772601021
+  },
+  "Thornton|CO|US": {
+    "latitude": 39.8571703,
+    "longitude": -104.977394,
+    "timestamp": 1764772602674
+  },
+  "Westminster|CO|US": {
+    "latitude": 39.862318,
+    "longitude": -105.0517284,
+    "timestamp": 1764772606213
+  },
+  "Pueblo|CO|US": {
+    "latitude": 38.2552072,
+    "longitude": -104.6066492,
+    "timestamp": 1764772608320
+  },
+  "Centennial|CO|US": {
+    "latitude": 38.9046809,
+    "longitude": -104.8583045,
+    "timestamp": 1764772610040
+  },
+  "Boston|MA|US": {
+    "latitude": 42.3557866,
+    "longitude": -71.0521134,
+    "timestamp": 1764772612101
+  },
+  "Worcester|MA|US": {
+    "latitude": 42.265433,
+    "longitude": -71.7944918,
+    "timestamp": 1764772613682
+  },
+  "Springfield|MA|US": {
+    "latitude": 42.1050026,
+    "longitude": -72.583094,
+    "timestamp": 1764772615689
+  },
+  "Cambridge|MA|US": {
+    "latitude": 42.3682922,
+    "longitude": -71.0776473,
+    "timestamp": 1764772618333
+  },
+  "Lowell|MA|US": {
+    "latitude": 42.6442037,
+    "longitude": -71.3086196,
+    "timestamp": 1764772620295
+  },
+  "New Bedford|MA|US": {
+    "latitude": 41.6855579,
+    "longitude": -70.9346269,
+    "timestamp": 1764772624017
+  },
+  "Quincy|MA|US": {
+    "latitude": 42.2422581,
+    "longitude": -70.9716971,
+    "timestamp": 1764772625477
+  },
+  "Fall River|MA|US": {
+    "latitude": 41.7116407,
+    "longitude": -71.1270526,
+    "timestamp": 1764772629404
+  },
+  "Portland|OR|US": {
+    "latitude": 45.5248246,
+    "longitude": -122.6779587,
+    "timestamp": 1764772631494
+  },
+  "Eugene|OR|US": {
+    "latitude": 44.0968103,
+    "longitude": -123.1231369,
+    "timestamp": 1764772633300
+  },
+  "Salem|OR|US": {
+    "latitude": 44.9028065,
+    "longitude": -123.039623,
+    "timestamp": 1764772635456
+  },
+  "Gresham|OR|US": {
+    "latitude": 45.5460612,
+    "longitude": -122.4815831,
+    "timestamp": 1764772637064
+  },
+  "Hillsboro|OR|US": {
+    "latitude": 45.5307336,
+    "longitude": -122.868257,
+    "timestamp": 1764772639177
+  },
+  "Bend|OR|US": {
+    "latitude": 44.073107,
+    "longitude": -121.299965,
+    "timestamp": 1764772643068
+  },
+  "Medford|OR|US": {
+    "latitude": 42.3238148,
+    "longitude": -122.8675444,
+    "timestamp": 1764772644565
+  },
+  "Springfield|OR|US": {
+    "latitude": 44.0779833,
+    "longitude": -123.0438104,
+    "timestamp": 1764772646752
+  },
+  "Nashville|TN|US": {
+    "latitude": 36.136099,
+    "longitude": -86.7998781,
+    "timestamp": 1764772650474
+  },
+  "Memphis|TN|US": {
+    "latitude": 35.0646238,
+    "longitude": -89.9410247,
+    "timestamp": 1764772652157
+  },
+  "Knoxville|TN|US": {
+    "latitude": 35.9487153,
+    "longitude": -84.0149167,
+    "timestamp": 1764772655757
+  },
+  "Chattanooga|TN|US": {
+    "latitude": 35.130332,
+    "longitude": -85.2367372,
+    "timestamp": 1764772657245
+  },
+  "Clarksville|TN|US": {
+    "latitude": 36.5338457,
+    "longitude": -87.3407913,
+    "timestamp": 1764772660160
+  },
+  "Murfreesboro|TN|US": {
+    "latitude": 35.8356884,
+    "longitude": -86.3922491,
+    "timestamp": 1764772661613
+  },
+  "Franklin|TN|US": {
+    "latitude": 35.9090179,
+    "longitude": -86.83377,
+    "timestamp": 1764772663758
+  },
+  "Johnson City|TN|US": {
+    "latitude": 36.319947,
+    "longitude": -82.342311,
+    "timestamp": 1764772668336
+  },
+  "Atlanta|GA|US": {
+    "latitude": 33.710511,
+    "longitude": -84.3689965,
+    "timestamp": 1764772671934
+  },
+  "Columbus|GA|US": {
+    "latitude": 32.4271546,
+    "longitude": -84.94488,
+    "timestamp": 1764772676266
+  },
+  "Macon|GA|US": {
+    "latitude": 32.815138,
+    "longitude": -83.7245793,
+    "timestamp": 1764772677882
+  },
+  "Savannah|GA|US": {
+    "latitude": 32.0806269,
+    "longitude": -81.0910068,
+    "timestamp": 1764772680003
+  },
+  "Athens|GA|US": {
+    "latitude": 33.9603503,
+    "longitude": -83.3774121,
+    "timestamp": 1764772681706
+  },
+  "Sandy Springs|GA|US": {
+    "latitude": 33.9613073,
+    "longitude": -84.3640636,
+    "timestamp": 1764772684269
+  },
+  "Roswell|GA|US": {
+    "latitude": 33.9613073,
+    "longitude": -84.3640636,
+    "timestamp": 1764772687225
+  },
+  "Albany|GA|US": {
+    "latitude": 31.5597701,
+    "longitude": -84.1776967,
+    "timestamp": 1764772691304
+  },
+  "Las Vegas|NV|US": {
+    "latitude": 36.1665796,
+    "longitude": -115.1505609,
+    "timestamp": 1764772693999
+  },
+  "Henderson|NV|US": {
+    "latitude": 36.0354665,
+    "longitude": -114.9954079,
+    "timestamp": 1764772695624
+  },
+  "Reno|NV|US": {
+    "latitude": 39.5215637,
+    "longitude": -119.8102152,
+    "timestamp": 1764772697717
+  },
+  "Sparks|NV|US": {
+    "latitude": 39.5570089,
+    "longitude": -119.7067346,
+    "timestamp": 1764772702223
+  },
+  "Carson City|NV|US": {
+    "latitude": 39.1685724,
+    "longitude": -119.769376,
+    "timestamp": 1764772704918
+  },
+  "Indianapolis|IN|US": {
+    "latitude": 39.714604,
+    "longitude": -86.0257184,
+    "timestamp": 1764772706955
+  },
+  "Fort Wayne|IN|US": {
+    "latitude": 41.0284631,
+    "longitude": -85.1658499,
+    "timestamp": 1764772708594
+  },
+  "Evansville|IN|US": {
+    "latitude": 37.9781635,
+    "longitude": -87.5125715,
+    "timestamp": 1764772710554
+  },
+  "South Bend|IN|US": {
+    "latitude": 41.6720581,
+    "longitude": -86.2507458,
+    "timestamp": 1764772712472
+  },
+  "Hammond|IN|US": {
+    "latitude": 41.6153932,
+    "longitude": -87.5212764,
+    "timestamp": 1764772720215
+  },
+  "Milwaukee|WI|US": {
+    "latitude": 43.1239179,
+    "longitude": -87.9777163,
+    "timestamp": 1764772722292
+  },
+  "Madison|WI|US": {
+    "latitude": 43.0731529,
+    "longitude": -89.3812893,
+    "timestamp": 1764772725150
+  },
+  "Kenosha|WI|US": {
+    "latitude": 42.5841181,
+    "longitude": -87.8216621,
+    "timestamp": 1764772729674
+  },
+  "Racine|WI|US": {
+    "latitude": 42.7160718,
+    "longitude": -87.8400798,
+    "timestamp": 1764772731774
+  },
+  "Appleton|WI|US": {
+    "latitude": 44.2646601,
+    "longitude": -88.4114306,
+    "timestamp": 1764772734206
+  },
+  "Waukesha|WI|US": {
+    "latitude": 42.9752096,
+    "longitude": -88.1043893,
+    "timestamp": 1764772736237
+  },
+  "Eau Claire|WI|US": {
+    "latitude": 44.8438129,
+    "longitude": -91.5939314,
+    "timestamp": 1764772737974
+  },
+  "Kansas City|MO|US": {
+    "latitude": 39.3050087,
+    "longitude": -94.7207113,
+    "timestamp": 1764772740209
+  },
+  "St. Louis|MO|US": {
+    "latitude": 38.6029293,
+    "longitude": -90.2934656,
+    "timestamp": 1764772741851
+  },
+  "Springfield|MO|US": {
+    "latitude": 37.1778013,
+    "longitude": -93.3247982,
+    "timestamp": 1764772743953
+  },
+  "Columbia|MO|US": {
+    "latitude": 38.916117,
+    "longitude": -92.2910933,
+    "timestamp": 1764772745585
+  },
+  "Independence|MO|US": {
+    "latitude": 39.06244,
+    "longitude": -94.4121007,
+    "timestamp": 1764772747674
+  },
+  "O'Fallon|MO|US": {
+    "latitude": 38.7071581,
+    "longitude": -90.6778964,
+    "timestamp": 1764772751649
+  },
+  "St. Joseph|MO|US": {
+    "latitude": 39.7784643,
+    "longitude": -94.8051258,
+    "timestamp": 1764772753432
+  },
+  "Louisville|KY|US": {
+    "latitude": 38.2401943,
+    "longitude": -85.7247031,
+    "timestamp": 1764772755419
+  },
+  "Lexington|KY|US": {
+    "latitude": 38.0237848,
+    "longitude": -84.5576217,
+    "timestamp": 1764772757088
+  },
+  "Owensboro|KY|US": {
+    "latitude": 37.7759935,
+    "longitude": -87.1142685,
+    "timestamp": 1764772760444
+  },
+  "Oklahoma City|OK|US": {
+    "latitude": 35.4675271,
+    "longitude": -97.5404918,
+    "timestamp": 1764772764186
+  },
+  "Tulsa|OK|US": {
+    "latitude": 36.1329195,
+    "longitude": -95.8765258,
+    "timestamp": 1764772766183
+  },
+  "Norman|OK|US": {
+    "latitude": 35.2205426,
+    "longitude": -97.4953397,
+    "timestamp": 1764772767816
+  },
+  "Broken Arrow|OK|US": {
+    "latitude": 36.0351695,
+    "longitude": -95.7898009,
+    "timestamp": 1764772769823
+  },
+  "Edmond|OK|US": {
+    "latitude": 35.657971,
+    "longitude": -97.4801373,
+    "timestamp": 1764772771385
+  },
+  "Lawton|OK|US": {
+    "latitude": 34.6752979,
+    "longitude": -98.4118755,
+    "timestamp": 1764772773350
+  },
+  "Birmingham|AL|US": {
+    "latitude": 33.4360228,
+    "longitude": -86.7197071,
+    "timestamp": 1764772774962
+  },
+  "Montgomery|AL|US": {
+    "latitude": 32.1746788,
+    "longitude": -86.2689469,
+    "timestamp": 1764772777111
+  },
+  "Huntsville|AL|US": {
+    "latitude": 34.6550204,
+    "longitude": -86.5654572,
+    "timestamp": 1764772778760
+  },
+  "Mobile|AL|US": {
+    "latitude": 30.6271695,
+    "longitude": -88.1498245,
+    "timestamp": 1764772781127
+  },
+  "Tuscaloosa|AL|US": {
+    "latitude": 33.2027319,
+    "longitude": -87.5619417,
+    "timestamp": 1764772782724
+  },
+  "Little Rock|AR|US": {
+    "latitude": 34.7444646,
+    "longitude": -92.417938,
+    "timestamp": 1764772785143
+  },
+  "Fort Smith|AR|US": {
+    "latitude": 35.3985547,
+    "longitude": -94.4255449,
+    "timestamp": 1764772786885
+  },
+  "Fayetteville|AR|US": {
+    "latitude": 36.1207807,
+    "longitude": -94.1370087,
+    "timestamp": 1764772788892
+  },
+  "Springdale|AR|US": {
+    "latitude": 36.1814926,
+    "longitude": -94.1308457,
+    "timestamp": 1764772790408
+  },
+  "Jonesboro|AR|US": {
+    "latitude": 35.8148664,
+    "longitude": -90.6753425,
+    "timestamp": 1764772792300
+  },
+  "Boise|ID|US": {
+    "latitude": 43.8822126,
+    "longitude": -115.7792796,
+    "timestamp": 1764772793885
+  },
+  "Meridian|ID|US": {
+    "latitude": 43.6147,
+    "longitude": -116.3911221,
+    "timestamp": 1764772795984
+  },
+  "Idaho Falls|ID|US": {
+    "latitude": 43.4959659,
+    "longitude": -112.0372922,
+    "timestamp": 1764772799487
+  },
+  "Pocatello|ID|US": {
+    "latitude": 42.8686534,
+    "longitude": -112.4431281,
+    "timestamp": 1764772801014
+  },
+  "Salt Lake City|UT|US": {
+    "latitude": 40.7612698,
+    "longitude": -111.891678,
+    "timestamp": 1764772804156
+  },
+  "Provo|UT|US": {
+    "latitude": 40.2214419,
+    "longitude": -111.6554815,
+    "timestamp": 1764772809184
+  },
+  "West Jordan|UT|US": {
+    "latitude": 40.567901,
+    "longitude": -111.9396503,
+    "timestamp": 1764772810969
+  },
+  "Orem|UT|US": {
+    "latitude": 40.2757496,
+    "longitude": -111.6743493,
+    "timestamp": 1764772812902
+  },
+  "Albuquerque|NM|US": {
+    "latitude": 35.0493867,
+    "longitude": -106.618187,
+    "timestamp": 1764772817543
+  },
+  "Las Cruces|NM|US": {
+    "latitude": 32.3101532,
+    "longitude": -106.7770152,
+    "timestamp": 1764772819318
+  },
+  "Santa Fe|NM|US": {
+    "latitude": 35.6909554,
+    "longitude": -105.9377957,
+    "timestamp": 1764772824009
+  },
+  "Des Moines|IA|US": {
+    "latitude": 41.5865663,
+    "longitude": -93.618936,
+    "timestamp": 1764772827746
+  },
+  "Cedar Rapids|IA|US": {
+    "latitude": 41.945723,
+    "longitude": -91.6744278,
+    "timestamp": 1764772830082
+  },
+  "Iowa City|IA|US": {
+    "latitude": 41.6638173,
+    "longitude": -91.5477587,
+    "timestamp": 1764772835786
+  },
+  "Omaha|NE|US": {
+    "latitude": 41.2591981,
+    "longitude": -95.9387452,
+    "timestamp": 1764772837844
+  },
+  "Lincoln|NE|US": {
+    "latitude": 40.8045164,
+    "longitude": -96.70393,
+    "timestamp": 1764772839494
+  },
+  "Bellevue|NE|US": {
+    "latitude": 41.1361045,
+    "longitude": -95.8933019,
+    "timestamp": 1764772841522
+  },
+  "Wichita|KS|US": {
+    "latitude": 37.6835768,
+    "longitude": -97.3988614,
+    "timestamp": 1764772846355
+  },
+  "Overland Park|KS|US": {
+    "latitude": 38.837527,
+    "longitude": -94.6711915,
+    "timestamp": 1764772848285
+  },
+  "Kansas City|KS|US": {
+    "latitude": 39.1436218,
+    "longitude": -94.6961983,
+    "timestamp": 1764772851829
+  },
+  "Olathe|KS|US": {
+    "latitude": 38.8795227,
+    "longitude": -94.7601353,
+    "timestamp": 1764772853302
+  },
+  "Topeka|KS|US": {
+    "latitude": 39.053142,
+    "longitude": -95.6704953,
+    "timestamp": 1764772855386
+  },
+  "Honolulu|HI|US": {
+    "latitude": 21.2997796,
+    "longitude": -157.863838,
+    "timestamp": 1764772857184
+  },
+  "Pearl City|HI|US": {
+    "latitude": 21.3957858,
+    "longitude": -157.9739094,
+    "timestamp": 1764772859516
+  },
+  "Hilo|HI|US": {
+    "latitude": 19.7160158,
+    "longitude": -155.0503533,
+    "timestamp": 1764772860946
+  },
+  "Kailua|HI|US": {
+    "latitude": 21.3925848,
+    "longitude": -157.7401988,
+    "timestamp": 1764772862873
+  },
+  "Waipahu|HI|US": {
+    "latitude": 21.4746915,
+    "longitude": -158.0537413,
+    "timestamp": 1764772864358
+  },
+  "Anchorage|AK|US": {
+    "latitude": 61.1108752,
+    "longitude": -149.85875,
+    "timestamp": 1764772866466
+  },
+  "Fairbanks|AK|US": {
+    "latitude": 64.3182784,
+    "longitude": -146.6480245,
+    "timestamp": 1764772867962
+  },
+  "Ketchikan|AK|US": {
+    "latitude": 55.3555781,
+    "longitude": -131.69373,
+    "timestamp": 1764772873296
+  },
+  "Ciudad de México|CDMX|MX": {
+    "latitude": 19.4326296,
+    "longitude": -99.1331785,
+    "timestamp": 1764772875072
+  },
+  "Guadalajara|JAL|MX": {
+    "latitude": 20.622004,
+    "longitude": -103.367704,
+    "timestamp": 1764772877175
+  },
+  "Monterrey|NL|MX": {
+    "latitude": 25.6461931,
+    "longitude": -100.296032,
+    "timestamp": 1764772878734
+  },
+  "Puebla|PUE|MX": {
+    "latitude": 19.40722,
+    "longitude": -99.0824754,
+    "timestamp": 1764772880798
+  },
+  "Tijuana|BC|MX": {
+    "latitude": 32.5132984,
+    "longitude": -117.0412813,
+    "timestamp": 1764772882379
+  },
+  "León|GTO|MX": {
+    "latitude": 21.1419385,
+    "longitude": -101.6505816,
+    "timestamp": 1764772884388
+  },
+  "Juárez|CHH|MX": {
+    "latitude": 31.7392333,
+    "longitude": -106.4803466,
+    "timestamp": 1764772885955
+  },
+  "Zapopan|JAL|MX": {
+    "latitude": 20.7193273,
+    "longitude": -103.3486055,
+    "timestamp": 1764772887991
+  },
+  "Mérida|YUC|MX": {
+    "latitude": 20.9656796,
+    "longitude": -89.631102,
+    "timestamp": 1764772889643
+  },
+  "San Luis Potosí|SLP|MX": {
+    "latitude": 22.6314522,
+    "longitude": -101.7070731,
+    "timestamp": 1764772891828
+  },
+  "Aguascalientes|AGS|MX": {
+    "latitude": 22.2311674,
+    "longitude": -102.2481939,
+    "timestamp": 1764772893407
+  },
+  "Hermosillo|SON|MX": {
+    "latitude": 28.622877,
+    "longitude": -111.6295977,
+    "timestamp": 1764772895266
+  },
+  "Saltillo|COAH|MX": {
+    "latitude": 25.4119775,
+    "longitude": -101.0010933,
+    "timestamp": 1764772896666
+  },
+  "Mexicali|BC|MX": {
+    "latitude": 32.651334,
+    "longitude": -115.414513,
+    "timestamp": 1764772898675
+  },
+  "Culiacán|SIN|MX": {
+    "latitude": 24.7955694,
+    "longitude": -107.3847683,
+    "timestamp": 1764772900092
+  },
+  "Querétaro|QRO|MX": {
+    "latitude": 20.5761592,
+    "longitude": -100.3908691,
+    "timestamp": 1764772902256
+  },
+  "Acapulco|GRO|MX": {
+    "latitude": 16.8771781,
+    "longitude": -99.8805133,
+    "timestamp": 1764772903901
+  },
+  "Chihuahua|CHH|MX": {
+    "latitude": 30.9908448,
+    "longitude": -108.1504011,
+    "timestamp": 1764772906018
+  },
+  "Morelia|MICH|MX": {
+    "latitude": 19.6646878,
+    "longitude": -101.1866721,
+    "timestamp": 1764772907628
+  },
+  "Cancún|QR|MX": {
+    "latitude": 21.1366956,
+    "longitude": -86.8608957,
+    "timestamp": 1764772909675
+  },
+  "Torreón|COAH|MX": {
+    "latitude": 25.5729821,
+    "longitude": -103.4274174,
+    "timestamp": 1764772911251
+  },
+  "Veracruz|VER|MX": {
+    "latitude": 19.1974521,
+    "longitude": -96.1517962,
+    "timestamp": 1764772913322
+  },
+  "Toluca|MEX|MX": {
+    "latitude": 19.292545,
+    "longitude": -99.6569007,
+    "timestamp": 1764772915013
+  },
+  "Tlalnepantla|MEX|MX": {
+    "latitude": 19.5370001,
+    "longitude": -99.1955083,
+    "timestamp": 1764772916945
+  },
+  "Mazatlán|SIN|MX": {
+    "latitude": 23.2842504,
+    "longitude": -106.41056,
+    "timestamp": 1764772918362
+  },
+  "Reynosa|TAM|MX": {
+    "latitude": 26.050259,
+    "longitude": -98.2787951,
+    "timestamp": 1764772920278
+  },
+  "Tuxtla Gutiérrez|CHIS|MX": {
+    "latitude": 16.7995222,
+    "longitude": -93.1039712,
+    "timestamp": 1764772921724
+  },
+  "Victoria|TAM|MX": {
+    "latitude": 23.7562495,
+    "longitude": -99.114785,
+    "timestamp": 1764772923806
+  },
+  "Xalapa|VER|MX": {
+    "latitude": 19.5739185,
+    "longitude": -96.9141159,
+    "timestamp": 1764772925313
+  },
+  "Durango|DGO|MX": {
+    "latitude": 23.9903946,
+    "longitude": -104.6575013,
+    "timestamp": 1764772927363
+  },
+  "Tlaquepaque|JAL|MX": {
+    "latitude": 20.605686,
+    "longitude": -103.324607,
+    "timestamp": 1764772928839
+  },
+  "Cuernavaca|MOR|MX": {
+    "latitude": 18.9162786,
+    "longitude": -99.184126,
+    "timestamp": 1764772930833
+  },
+  "Pachuca|HGO|MX": {
+    "latitude": 19.9114283,
+    "longitude": -98.8392961,
+    "timestamp": 1764772932338
+  },
+  "Oaxaca|OAX|MX": {
+    "latitude": 16.8064265,
+    "longitude": -95.0706628,
+    "timestamp": 1764772934373
+  },
+  "Tampico|TAM|MX": {
+    "latitude": 22.3195356,
+    "longitude": -97.8587384,
+    "timestamp": 1764772935796
+  },
+  "Ensenada|BC|MX": {
+    "latitude": 31.8671102,
+    "longitude": -116.5738608,
+    "timestamp": 1764772937748
+  },
+  "Celaya|GTO|MX": {
+    "latitude": 20.547234,
+    "longitude": -100.8293375,
+    "timestamp": 1764772939172
+  },
+  "Irapuato|GTO|MX": {
+    "latitude": 20.6593076,
+    "longitude": -101.357665,
+    "timestamp": 1764772941027
+  },
+  "Nuevo Laredo|TAM|MX": {
+    "latitude": 27.4614565,
+    "longitude": -99.5150334,
+    "timestamp": 1764772942666
+  },
+  "Matamoros|TAM|MX": {
+    "latitude": 25.8843988,
+    "longitude": -97.4885428,
+    "timestamp": 1764772944610
+  },
+  "Nogales|SON|MX": {
+    "latitude": 31.2572795,
+    "longitude": -110.9561481,
+    "timestamp": 1764772946058
+  },
+  "Campeche|CAM|MX": {
+    "latitude": 18.0198156,
+    "longitude": -90.8809957,
+    "timestamp": 1764772948101
+  },
+  "Tepic|NAY|MX": {
+    "latitude": 21.5853426,
+    "longitude": -104.8351876,
+    "timestamp": 1764772949559
+  },
+  "Villahermosa|TAB|MX": {
+    "latitude": 17.9812855,
+    "longitude": -92.9373459,
+    "timestamp": 1764772951448
+  },
+  "Colima|COL|MX": {
+    "latitude": 19.0878316,
+    "longitude": -104.3098847,
+    "timestamp": 1764772953011
+  },
+  "Playa del Carmen|QR|MX": {
+    "latitude": 20.6230711,
+    "longitude": -87.0760038,
+    "timestamp": 1764772955220
+  },
+  "Puerto Vallarta|JAL|MX": {
+    "latitude": 20.6182636,
+    "longitude": -105.2313459,
+    "timestamp": 1764772956681
+  },
+  "Cabo San Lucas|BCS|MX": {
+    "latitude": 22.9239452,
+    "longitude": -109.9259038,
+    "timestamp": 1764772959091
+  },
+  "La Paz|BCS|MX": {
+    "latitude": 24.0968358,
+    "longitude": -110.378545,
+    "timestamp": 1764772960834
+  },
+  "Zacatecas|ZAC|MX": {
+    "latitude": 23.1960662,
+    "longitude": -102.8807359,
+    "timestamp": 1764772962925
+  },
+  "Buenos Aires|BA|AR": {
+    "latitude": -34.5121516,
+    "longitude": -58.5248182,
+    "timestamp": 1764772964701
+  },
+  "Córdoba|CBA|AR": {
+    "latitude": -31.9584513,
+    "longitude": -65.1920997,
+    "timestamp": 1764772966856
+  },
+  "Rosario|SF|AR": {
+    "latitude": -32.9342027,
+    "longitude": -60.7313705,
+    "timestamp": 1764772968423
+  },
+  "Mendoza|MZA|AR": {
+    "latitude": -32.8874778,
+    "longitude": -68.8359157,
+    "timestamp": 1764772970502
+  },
+  "La Plata|BA|AR": {
+    "latitude": -34.9238844,
+    "longitude": -57.9445759,
+    "timestamp": 1764772972085
+  },
+  "San Miguel de Tucumán|TUC|AR": {
+    "latitude": -26.8425499,
+    "longitude": -65.2100665,
+    "timestamp": 1764772974057
+  },
+  "Mar del Plata|BA|AR": {
+    "latitude": -37.9815532,
+    "longitude": -57.5842038,
+    "timestamp": 1764772976918
+  },
+  "Salta|SAL|AR": {
+    "latitude": -22.1991277,
+    "longitude": -64.8808776,
+    "timestamp": 1764772978861
+  },
+  "Santa Fe|SF|AR": {
+    "latitude": -32.9159943,
+    "longitude": -60.8558636,
+    "timestamp": 1764772981717
+  },
+  "San Juan|SJ|AR": {
+    "latitude": -31.5321326,
+    "longitude": -68.510509,
+    "timestamp": 1764772983857
+  },
+  "Resistencia|CHA|AR": {
+    "latitude": -27.4397682,
+    "longitude": -58.9766992,
+    "timestamp": 1764772985368
+  },
+  "Santiago del Estero|SE|AR": {
+    "latitude": -29.5349499,
+    "longitude": -62.2661501,
+    "timestamp": 1764772987406
+  },
+  "Corrientes|COR|AR": {
+    "latitude": -27.5003064,
+    "longitude": -58.8439033,
+    "timestamp": 1764772988946
+  },
+  "Posadas|MIS|AR": {
+    "latitude": -27.4212125,
+    "longitude": -55.9356106,
+    "timestamp": 1764772990970
+  },
+  "Bahía Blanca|BA|AR": {
+    "latitude": -38.7349607,
+    "longitude": -62.1640855,
+    "timestamp": 1764772992911
+  },
+  "Paraná|ER|AR": {
+    "latitude": -31.785391,
+    "longitude": -60.4696256,
+    "timestamp": 1764772995237
+  },
+  "Neuquén|NEU|AR": {
+    "latitude": -40.7424182,
+    "longitude": -71.6116508,
+    "timestamp": 1764772996785
+  },
+  "Formosa|FOR|AR": {
+    "latitude": -26.1763348,
+    "longitude": -58.1753935,
+    "timestamp": 1764772998803
+  },
+  "San Luis|SL|AR": {
+    "latitude": -32.3284781,
+    "longitude": -65.0048531,
+    "timestamp": 1764773000426
+  },
+  "La Rioja|LR|AR": {
+    "latitude": -29.9527732,
+    "longitude": -65.0968682,
+    "timestamp": 1764773002465
+  },
+  "Catamarca|CAT|AR": {
+    "latitude": -28.2244489,
+    "longitude": -65.8743345,
+    "timestamp": 1764773003984
+  },
+  "San Salvador de Jujuy|JUJ|AR": {
+    "latitude": -24.1996072,
+    "longitude": -65.2870681,
+    "timestamp": 1764773005953
+  },
+  "Río Cuarto|CBA|AR": {
+    "latitude": -33.1355774,
+    "longitude": -64.3160197,
+    "timestamp": 1764773008837
+  },
+  "Quilmes|BA|AR": {
+    "latitude": -34.7341623,
+    "longitude": -58.2578345,
+    "timestamp": 1764773010731
+  },
+  "San Isidro|BA|AR": {
+    "latitude": -34.4737152,
+    "longitude": -58.5316915,
+    "timestamp": 1764773012400
+  },
+  "Lomas de Zamora|BA|AR": {
+    "latitude": -34.7596438,
+    "longitude": -58.3981071,
+    "timestamp": 1764773014473
+  },
+  "Almirante Brown|BA|AR": {
+    "latitude": -34.6502424,
+    "longitude": -58.6220807,
+    "timestamp": 1764773016141
+  },
+  "Lanús|BA|AR": {
+    "latitude": -34.6996916,
+    "longitude": -58.3917615,
+    "timestamp": 1764773018076
+  },
+  "Merlo|BA|AR": {
+    "latitude": -34.6795299,
+    "longitude": -58.7283088,
+    "timestamp": 1764773019641
+  },
+  "General San Martín|BA|AR": {
+    "latitude": -36.7941956,
+    "longitude": -59.8792232,
+    "timestamp": 1764773021629
+  },
+  "Bogotá|DC|CO": {
+    "latitude": 4.6247961,
+    "longitude": -74.0936688,
+    "timestamp": 1764773023179
+  },
+  "Medellín|ANT|CO": {
+    "latitude": 6.227259,
+    "longitude": -75.5719699,
+    "timestamp": 1764773025138
+  },
+  "Cali|VAC|CO": {
+    "latitude": 3.4528182,
+    "longitude": -76.53457,
+    "timestamp": 1764773026620
+  },
+  "Barranquilla|ATL|CO": {
+    "latitude": 11.0168151,
+    "longitude": -74.8621739,
+    "timestamp": 1764773028558
+  },
+  "Cartagena|BOL|CO": {
+    "latitude": 10.3823237,
+    "longitude": -75.5008591,
+    "timestamp": 1764773030053
+  },
+  "Cúcuta|NSA|CO": {
+    "latitude": 7.8917223,
+    "longitude": -72.4937659,
+    "timestamp": 1764773031960
+  },
+  "Bucaramanga|SAN|CO": {
+    "latitude": 7.0974665,
+    "longitude": -73.1219807,
+    "timestamp": 1764773033430
+  },
+  "Pereira|RIS|CO": {
+    "latitude": 4.7951185,
+    "longitude": -75.7341995,
+    "timestamp": 1764773035324
+  },
+  "Santa Marta|MAG|CO": {
+    "latitude": 11.2235205,
+    "longitude": -74.1569434,
+    "timestamp": 1764773036906
+  },
+  "Ibagué|TOL|CO": {
+    "latitude": 4.4468793,
+    "longitude": -75.1698066,
+    "timestamp": 1764773038750
+  },
+  "Pasto|NAR|CO": {
+    "latitude": 1.1402764,
+    "longitude": -77.153802,
+    "timestamp": 1764773040176
+  },
+  "Manizales|CAL|CO": {
+    "latitude": 5.0617833,
+    "longitude": -75.503384,
+    "timestamp": 1764773042078
+  },
+  "Neiva|HUI|CO": {
+    "latitude": 2.9278614,
+    "longitude": -75.2849924,
+    "timestamp": 1764773043501
+  },
+  "Soledad|ATL|CO": {
+    "latitude": 10.9402747,
+    "longitude": -74.7647448,
+    "timestamp": 1764773045435
+  },
+  "Armenia|QUI|CO": {
+    "latitude": 4.510816,
+    "longitude": -75.7079177,
+    "timestamp": 1764773046912
+  },
+  "Villavicencio|MET|CO": {
+    "latitude": 4.151491,
+    "longitude": -73.5946642,
+    "timestamp": 1764773048852
+  },
+  "Soacha|CUN|CO": {
+    "latitude": 4.5750876,
+    "longitude": -74.2332395,
+    "timestamp": 1764773050270
+  },
+  "Valledupar|CES|CO": {
+    "latitude": 10.4766669,
+    "longitude": -73.2690967,
+    "timestamp": 1764773052150
+  },
+  "Montería|COR|CO": {
+    "latitude": 8.7664266,
+    "longitude": -75.868861,
+    "timestamp": 1764773053631
+  },
+  "Itagüí|ANT|CO": {
+    "latitude": 6.1616896,
+    "longitude": -75.6143079,
+    "timestamp": 1764773055439
+  },
+  "Popayán|CAU|CO": {
+    "latitude": 2.482613,
+    "longitude": -76.5682152,
+    "timestamp": 1764773056875
+  },
+  "Buenaventura|VAC|CO": {
+    "latitude": 3.8881981,
+    "longitude": -77.0773659,
+    "timestamp": 1764773058856
+  },
+  "Palmira|VAC|CO": {
+    "latitude": 3.5412723,
+    "longitude": -76.3009591,
+    "timestamp": 1764773060348
+  },
+  "Floridablanca|SAN|CO": {
+    "latitude": 7.0364146,
+    "longitude": -73.0708752,
+    "timestamp": 1764773062196
+  },
+  "Sincelejo|SUC|CO": {
+    "latitude": 9.2845525,
+    "longitude": -75.3871313,
+    "timestamp": 1764773063570
+  },
+  "Tumaco|NAR|CO": {
+    "latitude": 1.2882697,
+    "longitude": -78.6363511,
+    "timestamp": 1764773065360
+  },
+  "Envigado|ANT|CO": {
+    "latitude": 6.1682042,
+    "longitude": -75.5871361,
+    "timestamp": 1764773066794
+  },
+  "Bello|ANT|CO": {
+    "latitude": 6.3724763,
+    "longitude": -75.5451736,
+    "timestamp": 1764773068743
+  },
+  "Tunja|BOY|CO": {
+    "latitude": 5.5312388,
+    "longitude": -73.3638433,
+    "timestamp": 1764773070138
+  },
+  "Barrancabermeja|SAN|CO": {
+    "latitude": 7.0317968,
+    "longitude": -73.8083325,
+    "timestamp": 1764773072011
+  },
+  "Santiago|RM|CL": {
+    "latitude": -33.4420638,
+    "longitude": -70.6456647,
+    "timestamp": 1764773074769
+  },
+  "Valparaíso|VAL|CL": {
+    "latitude": -33.0482312,
+    "longitude": -71.6053108,
+    "timestamp": 1764773076710
+  },
+  "Concepción|BIO|CL": {
+    "latitude": -36.851401,
+    "longitude": -73.0504441,
+    "timestamp": 1764773078261
+  },
+  "La Serena|COQ|CL": {
+    "latitude": -29.7444477,
+    "longitude": -71.2578953,
+    "timestamp": 1764773080442
+  },
+  "Antofagasta|ANT|CL": {
+    "latitude": -22.4564751,
+    "longitude": -68.9272761,
+    "timestamp": 1764773081980
+  },
+  "Temuco|ARA|CL": {
+    "latitude": -38.739336,
+    "longitude": -72.5889096,
+    "timestamp": 1764773084044
+  },
+  "Rancagua|LBO|CL": {
+    "latitude": -34.2138284,
+    "longitude": -70.7164773,
+    "timestamp": 1764773085479
+  },
+  "Talca|MAU|CL": {
+    "latitude": -35.4433618,
+    "longitude": -71.6865351,
+    "timestamp": 1764773087477
+  },
+  "Arica|AYP|CL": {
+    "latitude": -18.4472361,
+    "longitude": -70.0714565,
+    "timestamp": 1764773089013
+  },
+  "Iquique|TAR|CL": {
+    "latitude": -20.2308307,
+    "longitude": -70.1448307,
+    "timestamp": 1764773090854
+  },
+  "Puerto Montt|LLA|CL": {
+    "latitude": -41.4491503,
+    "longitude": -72.9620081,
+    "timestamp": 1764773092386
+  },
+  "Coquimbo|COQ|CL": {
+    "latitude": -31.6353704,
+    "longitude": -71.1688783,
+    "timestamp": 1764773094280
+  },
+  "Osorno|LLA|CL": {
+    "latitude": -40.5940246,
+    "longitude": -73.1223659,
+    "timestamp": 1764773095776
+  },
+  "Valdivia|LRI|CL": {
+    "latitude": -39.8195915,
+    "longitude": -73.2439104,
+    "timestamp": 1764773097685
+  },
+  "Quilpué|VAL|CL": {
+    "latitude": -33.0463167,
+    "longitude": -71.4439994,
+    "timestamp": 1764773099134
+  },
+  "Chillán|ÑUB|CL": {
+    "latitude": -36.6200951,
+    "longitude": -72.1016188,
+    "timestamp": 1764773101018
+  },
+  "Calama|ANT|CL": {
+    "latitude": -22.4564751,
+    "longitude": -68.9272761,
+    "timestamp": 1764773102419
+  },
+  "Copiapó|ATA|CL": {
+    "latitude": -27.3583535,
+    "longitude": -70.3468267,
+    "timestamp": 1764773104373
+  },
+  "Los Ángeles|BIO|CL": {
+    "latitude": -37.4715303,
+    "longitude": -72.3729248,
+    "timestamp": 1764773106012
+  },
+  "Curicó|MAU|CL": {
+    "latitude": -34.973803,
+    "longitude": -71.2226654,
+    "timestamp": 1764773107962
+  },
+  "Viña del Mar|VAL|CL": {
+    "latitude": -33.0139903,
+    "longitude": -71.543963,
+    "timestamp": 1764773109504
+  },
+  "Talcahuano|BIO|CL": {
+    "latitude": -36.7714978,
+    "longitude": -73.0583324,
+    "timestamp": 1764773111365
+  },
+  "San Bernardo|RM|CL": {
+    "latitude": -33.5776389,
+    "longitude": -70.6957837,
+    "timestamp": 1764773113421
+  },
+  "Puente Alto|RM|CL": {
+    "latitude": -33.5833005,
+    "longitude": -70.556319,
+    "timestamp": 1764773115551
+  },
+  "Maipú|RM|CL": {
+    "latitude": -33.5036118,
+    "longitude": -70.7588072,
+    "timestamp": 1764773117189
+  },
+  "Lima|LIM|PE": {
+    "latitude": -11.8395912,
+    "longitude": -77.1257849,
+    "timestamp": 1764773119281
+  },
+  "Arequipa|ARE|PE": {
+    "latitude": -16.4026072,
+    "longitude": -71.5341564,
+    "timestamp": 1764773120765
+  },
+  "Trujillo|LAL|PE": {
+    "latitude": -8.098099,
+    "longitude": -79.0383626,
+    "timestamp": 1764773122767
+  },
+  "Chiclayo|LAM|PE": {
+    "latitude": -6.7669994,
+    "longitude": -79.8218124,
+    "timestamp": 1764773124215
+  },
+  "Piura|PIU|PE": {
+    "latitude": -4.5940694,
+    "longitude": -81.2605534,
+    "timestamp": 1764773126196
+  },
+  "Iquitos|LOR|PE": {
+    "latitude": -3.7389186,
+    "longitude": -73.2500995,
+    "timestamp": 1764773127595
+  },
+  "Cusco|CUS|PE": {
+    "latitude": -12.8649681,
+    "longitude": -72.6933186,
+    "timestamp": 1764773129553
+  },
+  "Huancayo|JUN|PE": {
+    "latitude": -12.0228469,
+    "longitude": -75.2340079,
+    "timestamp": 1764773131068
+  },
+  "Chimbote|ANC|PE": {
+    "latitude": -9.1288252,
+    "longitude": -78.5340436,
+    "timestamp": 1764773132936
+  },
+  "Tacna|TAC|PE": {
+    "latitude": -18.0224001,
+    "longitude": -70.242158,
+    "timestamp": 1764773134410
+  },
+  "Juliaca|PUN|PE": {
+    "latitude": -15.4969708,
+    "longitude": -70.1302458,
+    "timestamp": 1764773136246
+  },
+  "Ica|ICA|PE": {
+    "latitude": -14.0721157,
+    "longitude": -75.7359367,
+    "timestamp": 1764773137802
+  },
+  "Sullana|PIU|PE": {
+    "latitude": -4.9035524,
+    "longitude": -80.7444864,
+    "timestamp": 1764773139627
+  },
+  "Pucallpa|UCA|PE": {
+    "latitude": -8.3907581,
+    "longitude": -74.5373433,
+    "timestamp": 1764773141033
+  },
+  "Cajamarca|CAJ|PE": {
+    "latitude": -5.7112642,
+    "longitude": -78.8171902,
+    "timestamp": 1764773143005
+  },
+  "Ayacucho|AYA|PE": {
+    "latitude": -11.9835409,
+    "longitude": -77.0092825,
+    "timestamp": 1764773144489
+  },
+  "Puno|PUN|PE": {
+    "latitude": -16.5832524,
+    "longitude": -69.0622696,
+    "timestamp": 1764773146400
+  },
+  "Huaraz|ANC|PE": {
+    "latitude": -9.5386879,
+    "longitude": -77.5230056,
+    "timestamp": 1764773147840
+  },
+  "Tarapoto|SAM|PE": {
+    "latitude": -6.4793621,
+    "longitude": -76.3625954,
+    "timestamp": 1764773149676
+  },
+  "Tumbes|TUM|PE": {
+    "latitude": -3.4513033,
+    "longitude": -80.2322155,
+    "timestamp": 1764773151070
+  },
+  "Caracas|DC|VE": {
+    "latitude": 10.4901789,
+    "longitude": -66.8916633,
+    "timestamp": 1764773152989
+  },
+  "Maracaibo|ZUL|VE": {
+    "latitude": 10.6703897,
+    "longitude": -71.612499,
+    "timestamp": 1764773154398
+  },
+  "Valencia|CAR|VE": {
+    "latitude": 10.1687321,
+    "longitude": -67.9826686,
+    "timestamp": 1764773156260
+  },
+  "Barquisimeto|LAR|VE": {
+    "latitude": 10.0718533,
+    "longitude": -69.2815011,
+    "timestamp": 1764773157686
+  },
+  "Maracay|ARA|VE": {
+    "latitude": 10.2308969,
+    "longitude": -67.5982708,
+    "timestamp": 1764773159541
+  },
+  "Ciudad Guayana|BOL|VE": {
+    "latitude": 8.3698891,
+    "longitude": -62.6633347,
+    "timestamp": 1764773161003
+  },
+  "Barcelona|ANZ|VE": {
+    "latitude": 10.1603108,
+    "longitude": -64.6864227,
+    "timestamp": 1764773162993
+  },
+  "Maturín|MON|VE": {
+    "latitude": 9.7024327,
+    "longitude": -63.272848,
+    "timestamp": 1764773164435
+  },
+  "Ciudad Bolívar|BOL|VE": {
+    "latitude": 8.1434788,
+    "longitude": -63.5515581,
+    "timestamp": 1764773166373
+  },
+  "Cumaná|SUC|VE": {
+    "latitude": 10.4414196,
+    "longitude": -64.1808515,
+    "timestamp": 1764773167812
+  },
+  "Mérida|MER|VE": {
+    "latitude": 8.5815798,
+    "longitude": -71.164722,
+    "timestamp": 1764773169741
+  },
+  "San Cristóbal|TAC|VE": {
+    "latitude": 7.767185,
+    "longitude": -72.2195752,
+    "timestamp": 1764773171220
+  },
+  "Cabimas|ZUL|VE": {
+    "latitude": 10.4013592,
+    "longitude": -71.4589725,
+    "timestamp": 1764773173014
+  },
+  "Barinas|BAR|VE": {
+    "latitude": 8.6103475,
+    "longitude": -70.2461134,
+    "timestamp": 1764773174434
+  },
+  "Turmero|ARA|VE": {
+    "latitude": 10.2338412,
+    "longitude": -67.4677767,
+    "timestamp": 1764773176274
+  },
+  "Puerto La Cruz|ANZ|VE": {
+    "latitude": 10.2129268,
+    "longitude": -64.6337828,
+    "timestamp": 1764773177702
+  },
+  "Los Teques|MIR|VE": {
+    "latitude": 10.3450876,
+    "longitude": -67.0410192,
+    "timestamp": 1764773179560
+  },
+  "Guarenas|MIR|VE": {
+    "latitude": 10.4718763,
+    "longitude": -66.6069102,
+    "timestamp": 1764773180989
+  },
+  "Petare|MIR|VE": {
+    "latitude": 10.4922228,
+    "longitude": -66.8087075,
+    "timestamp": 1764773182847
+  },
+  "Acarigua|POR|VE": {
+    "latitude": 9.5576614,
+    "longitude": -69.2034953,
+    "timestamp": 1764773184235
+  },
+  "Guayaquil|GUA|EC": {
+    "latitude": -2.1990477,
+    "longitude": -79.8879772,
+    "timestamp": 1764773186132
+  },
+  "Quito|PIC|EC": {
+    "latitude": -0.2605617,
+    "longitude": -78.5495219,
+    "timestamp": 1764773187588
+  },
+  "Cuenca|AZU|EC": {
+    "latitude": -2.9001976,
+    "longitude": -79.0258629,
+    "timestamp": 1764773189488
+  },
+  "Santo Domingo|SDT|EC": {
+    "latitude": -0.2514255,
+    "longitude": -79.0647908,
+    "timestamp": 1764773191039
+  },
+  "Machala|EOR|EC": {
+    "latitude": -3.2438432,
+    "longitude": -79.9604964,
+    "timestamp": 1764773192905
+  },
+  "Durán|GUA|EC": {
+    "latitude": -2.181507,
+    "longitude": -79.8091428,
+    "timestamp": 1764773194360
+  },
+  "Manta|MAN|EC": {
+    "latitude": -0.9467378,
+    "longitude": -80.7480871,
+    "timestamp": 1764773196220
+  },
+  "Portoviejo|MAN|EC": {
+    "latitude": -1.0624725,
+    "longitude": -80.4666098,
+    "timestamp": 1764773197603
+  },
+  "Ambato|TUN|EC": {
+    "latitude": -1.2740408,
+    "longitude": -78.6385736,
+    "timestamp": 1764773199457
+  },
+  "Riobamba|CHI|EC": {
+    "latitude": -1.8056057,
+    "longitude": -78.6035806,
+    "timestamp": 1764773200880
+  },
+  "Loja|LOJ|EC": {
+    "latitude": -3.9832772,
+    "longitude": -79.3500988,
+    "timestamp": 1764773202778
+  },
+  "Esmeraldas|ESM|EC": {
+    "latitude": 0.9508255,
+    "longitude": -79.6517714,
+    "timestamp": 1764773204182
+  },
+  "Quevedo|LRI|EC": {
+    "latitude": -1.0210735,
+    "longitude": -79.4613011,
+    "timestamp": 1764773206059
+  },
+  "Milagro|GUA|EC": {
+    "latitude": -2.1325114,
+    "longitude": -79.5993079,
+    "timestamp": 1764773207497
+  },
+  "Ibarra|IMB|EC": {
+    "latitude": 0.3495763,
+    "longitude": -78.1179599,
+    "timestamp": 1764773209398
+  },
+  "Santa Cruz de la Sierra|SCZ|BO": {
+    "latitude": -17.7743523,
+    "longitude": -63.0961576,
+    "timestamp": 1764773210932
+  },
+  "La Paz|LPZ|BO": {
+    "latitude": -16.5385781,
+    "longitude": -68.081194,
+    "timestamp": 1764773212924
+  },
+  "El Alto|LPZ|BO": {
+    "latitude": -16.5266854,
+    "longitude": -68.1542697,
+    "timestamp": 1764773214428
+  },
+  "Cochabamba|CBA|BO": {
+    "latitude": -17.3726224,
+    "longitude": -66.1360967,
+    "timestamp": 1764773216383
+  },
+  "Sucre|CHU|BO": {
+    "latitude": -19.0280183,
+    "longitude": -65.2555677,
+    "timestamp": 1764773217856
+  },
+  "Tarija|TAR|BO": {
+    "latitude": -22.0155203,
+    "longitude": -63.6781432,
+    "timestamp": 1764773219756
+  },
+  "Potosí|POT|BO": {
+    "latitude": -19.024982,
+    "longitude": -65.703455,
+    "timestamp": 1764773221190
+  },
+  "Oruro|ORU|BO": {
+    "latitude": -17.9756697,
+    "longitude": -67.0636577,
+    "timestamp": 1764773223099
+  },
+  "Montero|SCZ|BO": {
+    "latitude": -17.3427976,
+    "longitude": -63.2557306,
+    "timestamp": 1764773224538
+  },
+  "Trinidad|BEN|BO": {
+    "latitude": -14.8342273,
+    "longitude": -64.9040482,
+    "timestamp": 1764773226454
+  },
+  "Cobija|PAN|BO": {
+    "latitude": -11.1200054,
+    "longitude": -68.7176062,
+    "timestamp": 1764773227855
+  },
+  "Quillacollo|CBA|BO": {
+    "latitude": -17.3968544,
+    "longitude": -66.2363105,
+    "timestamp": 1764773229737
+  },
+  "Yacuiba|TAR|BO": {
+    "latitude": -22.0155203,
+    "longitude": -63.6781432,
+    "timestamp": 1764773231154
+  },
+  "Warnes|SCZ|BO": {
+    "latitude": -17.5984891,
+    "longitude": -63.1431932,
+    "timestamp": 1764773232991
+  },
+  "Sacaba|CBA|BO": {
+    "latitude": -17.4093931,
+    "longitude": -66.1080108,
+    "timestamp": 1764773234370
+  }
+}

@@ -1,0 +1,21 @@
+# Browsers que nós suportamos
+# https://github.com/browserslist/browserslist
+
+# Production - Modern browsers apenas (ES2022+)
+> 1%
+last 1 version
+not dead
+not ie > 0
+not ie_mob > 0
+not op_mini all
+not and_chr < 90
+not and_ff < 90
+not and_uc < 13
+not samsung < 15
+chrome >= 90
+firefox >= 90
+safari >= 14
+
+# Desenvolvimento - Mesmo conjunto para consistency
+# Força ES2020+ features como padrão
+# Remove polyfills para Array.prototype.at, Object.hasOwn, etc.

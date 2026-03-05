@@ -1,0 +1,750 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --radius: 0.625rem;
+  /* Cores originais (oklch) - manter para compatibilidade */
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.13 0.028 261.692);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.13 0.028 261.692);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.13 0.028 261.692);
+  --primary: oklch(0.09 0 0);
+  --primary-foreground: oklch(0.985 0.002 247.839);
+  --secondary: oklch(0.967 0.003 264.542);
+  --secondary-foreground: oklch(0.21 0.034 264.665);
+  --muted: oklch(0.967 0.003 264.542);
+  --muted-foreground: oklch(0.551 0.027 264.364);
+  --accent: oklch(0.967 0.003 264.542);
+  --accent-foreground: oklch(0.21 0.034 264.665);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.928 0.006 264.531);
+  --input: oklch(0.928 0.006 264.531);
+  --ring: oklch(0.707 0.022 261.325);
+  --chart-1: oklch(0.646 0.222 41.116);
+  --chart-2: oklch(0.6 0.118 184.704);
+  --chart-3: oklch(0.398 0.07 227.392);
+  --chart-4: oklch(0.828 0.189 84.429);
+  --chart-5: oklch(0.769 0.188 70.08);
+  --sidebar: oklch(0.985 0.002 247.839);
+  --sidebar-foreground: oklch(0.13 0.028 261.692);
+  --sidebar-primary: oklch(0.21 0.034 264.665);
+  --sidebar-primary-foreground: oklch(0.985 0.002 247.839);
+  --sidebar-accent: oklch(0.967 0.003 264.542);
+  --sidebar-accent-foreground: oklch(0.21 0.034 264.665);
+  --sidebar-border: oklch(0.928 0.006 264.531);
+  --sidebar-ring: oklch(0.707 0.022 261.325);
+
+  /* Fallbacks RGB/HEX para compatibilidade html2canvas */
+  --background-rgb: #ffffff;
+  --foreground-rgb: #1a1b23;
+  --card-rgb: #ffffff;
+  --card-foreground-rgb: #1a1b23;
+  --border-rgb: #e2e8f0;
+  --muted-rgb: #f1f5f9;
+  --muted-foreground-rgb: #64748b;
+  --primary-rgb: #000000;
+  --primary-foreground-rgb: #fafafa;
+  --secondary-rgb: #f1f5f9;
+  --secondary-foreground-rgb: #334155;
+  --accent-rgb: #f1f5f9;
+  --accent-foreground-rgb: #334155;
+  --destructive-rgb: #dc2626;
+  --input-rgb: #e2e8f0;
+  --ring-rgb: #94a3b8;
+}
+
+.dark {
+  --background: oklch(0.13 0.028 261.692);
+  --foreground: oklch(0.985 0.002 247.839);
+  --card: oklch(0.21 0.034 264.665);
+  --card-foreground: oklch(0.985 0.002 247.839);
+  --popover: oklch(0.21 0.034 264.665);
+  --popover-foreground: oklch(0.985 0.002 247.839);
+  --primary: oklch(0.09 0 0);
+  --primary-foreground: oklch(0.985 0.002 247.839);
+  --secondary: oklch(0.278 0.033 256.848);
+  --secondary-foreground: oklch(0.985 0.002 247.839);
+  --muted: oklch(0.278 0.033 256.848);
+  --muted-foreground: oklch(0.707 0.022 261.325);
+  --accent: oklch(0.278 0.033 256.848);
+  --accent-foreground: oklch(0.985 0.002 247.839);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.551 0.027 264.364);
+  --chart-1: oklch(0.488 0.243 264.376);
+  --chart-2: oklch(0.696 0.17 162.48);
+  --chart-3: oklch(0.769 0.188 70.08);
+  --chart-4: oklch(0.627 0.265 303.9);
+  --chart-5: oklch(0.645 0.246 16.439);
+  --sidebar: oklch(0.21 0.034 264.665);
+  --sidebar-foreground: oklch(0.985 0.002 247.839);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0.002 247.839);
+  --sidebar-accent: oklch(0.278 0.033 256.848);
+  --sidebar-accent-foreground: oklch(0.985 0.002 247.839);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.551 0.027 264.364);
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+    outline-color: color-mix(in srgb, var(--ring) 50%, transparent);
+  }
+
+  /* Exceção para elementos do header - remover bordas e outline */
+  .no-border,
+  .no-border *,
+  .no-border button,
+  .no-border svg {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+  }
+
+  /* Botões do Hero DEVEM manter bordas intencionais */
+  .hero-button {
+    border: inherit !important;
+  }
+
+  /* Cards do Carousel, Footer e MegaMenu - forçar texto branco */
+  .carousel-card-text,
+  .carousel-card-text *,
+  .footer-white-text,
+  .footer-white-text *,
+  .megamenu-white-text,
+  .megamenu-white-text * {
+    color: white !important;
+  }
+
+  /* Forçar texto branco em seções escuras */
+  .bg-black .carousel-card-text,
+  .bg-black .carousel-card-text *,
+  div[class*='bg-black'] .carousel-card-text,
+  div[class*='bg-black'] .carousel-card-text * {
+    color: white !important;
+  }
+
+  /* MegaMenu - forçar texto branco no hover */
+  .megamenu-hover-item:hover,
+  .megamenu-hover-item:hover *,
+  .megamenu-hover-item:hover p,
+  .megamenu-hover-item:hover .megamenu-text-item,
+  .group:hover .megamenu-hover-item,
+  .group:hover .megamenu-hover-item *,
+  .group:hover .megamenu-text-item {
+    color: white !important;
+  }
+
+  /* Garantir que hover funcione especificamente */
+  div[class*='hover:bg-']:hover .megamenu-text-item,
+  div[class*='hover:bg-']:hover .megamenu-text-item * {
+    color: white !important;
+  }
+
+  /* MegaMenu Destaques - texto sempre branco */
+  .megamenu-highlight-text,
+  .megamenu-highlight-text *,
+  .megamenu-highlight-name,
+  .megamenu-highlight-brand,
+  .megamenu-highlight-card .megamenu-highlight-name,
+  .megamenu-highlight-card .megamenu-highlight-brand {
+    color: white !important;
+  }
+
+  /* Forçar branco mesmo em fundos escuros */
+  div[class*='bg-gradient-to-r'] .megamenu-highlight-text,
+  div[class*='bg-gradient-to-r'] .megamenu-highlight-text *,
+  div[class*='bg-black'] .megamenu-highlight-text,
+  div[class*='bg-black'] .megamenu-highlight-text * {
+    color: white !important;
+  }
+
+  /* Título "Destaques" - manter cinza escuro por ser em fundo claro */
+  .megamenu-highlight-title {
+    color: #1f2937 !important; /* text-gray-800 */
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  /* Cursor pointer para elementos interativos - UX crítico para desktop (30% dos usuários) */
+  button,
+  [role='button'],
+  input[type='button'],
+  input[type='submit'],
+  input[type='reset'],
+  a,
+  summary,
+  select,
+  [tabindex]:not([tabindex='-1']),
+  .cursor-pointer {
+    cursor: pointer;
+  }
+
+  /* Melhorar acessibilidade de foco */
+  button:focus-visible,
+  [role='button']:focus-visible,
+  a:focus-visible,
+  input:focus-visible,
+  select:focus-visible,
+  textarea:focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+
+  /* 🎨 REDUÇÃO GLOBAL DE FONTES - Configuração Centralizada */
+  /* Reduz todos os tamanhos de texto em ~15% para visual mais compacto */
+  .text-xs {
+    font-size: 0.65rem !important;
+    line-height: 0.9rem !important;
+  } /* 10.4px */
+  .text-sm {
+    font-size: 0.75rem !important;
+    line-height: 1rem !important;
+  } /* 12px */
+  .text-base {
+    font-size: 0.8rem !important;
+    line-height: 1.1rem !important;
+  } /* 12.8px */
+  .text-lg {
+    font-size: 0.9rem !important;
+    line-height: 1.2rem !important;
+  } /* 14.4px */
+  .text-xl {
+    font-size: 1rem !important;
+    line-height: 1.3rem !important;
+  } /* 16px */
+  .text-2xl {
+    font-size: 1.2rem !important;
+    line-height: 1.4rem !important;
+  } /* 19.2px */
+  .text-3xl {
+    font-size: 1.5rem !important;
+    line-height: 1.8rem !important;
+  } /* 24px */
+  .text-4xl {
+    font-size: 1.8rem !important;
+    line-height: 2rem !important;
+  } /* 28.8px */
+  .text-5xl {
+    font-size: 2.2rem !important;
+    line-height: 2.4rem !important;
+  } /* 35.2px */
+  .text-6xl {
+    font-size: 2.8rem !important;
+    line-height: 3rem !important;
+  } /* 44.8px */
+
+  /* Aplicar também para headings padrão HTML */
+  h1 {
+    font-size: 1.8rem !important;
+    line-height: 2rem !important;
+  }
+  h2 {
+    font-size: 1.5rem !important;
+    line-height: 1.8rem !important;
+  }
+  h3 {
+    font-size: 1.2rem !important;
+    line-height: 1.4rem !important;
+  }
+  h4 {
+    font-size: 1rem !important;
+    line-height: 1.3rem !important;
+  }
+  h5 {
+    font-size: 0.9rem !important;
+    line-height: 1.2rem !important;
+  }
+  h6 {
+    font-size: 0.8rem !important;
+    line-height: 1.1rem !important;
+  }
+
+  /* Texto padrão do body mais compacto */
+  body {
+    font-size: 0.8rem !important;
+    line-height: 1.2 !important;
+  }
+
+  /* 🎛️ CLASSES UTILITÁRIAS PARA CONTROLE FINO */
+  .text-ultra-small {
+    font-size: 0.6rem !important;
+    line-height: 0.8rem !important;
+  }
+  .text-compact {
+    font-size: 0.7rem !important;
+    line-height: 0.95rem !important;
+  }
+  .text-micro {
+    font-size: 0.55rem !important;
+    line-height: 0.75rem !important;
+  }
+
+  /* Override para casos específicos que precisam manter tamanho original */
+  .text-original-xs {
+    font-size: 0.75rem !important;
+    line-height: 1rem !important;
+  }
+  .text-original-sm {
+    font-size: 0.875rem !important;
+    line-height: 1.25rem !important;
+  }
+  .text-original-base {
+    font-size: 1rem !important;
+    line-height: 1.5rem !important;
+  }
+
+  /* 🎨 BOTÕES GLOBAIS - APENAS BORDAS SEM FUNDO */
+  /* Força todos os botões a terem apenas bordas, garantindo visibilidade */
+
+  /* Botões em contextos claros (fundo branco/claro) */
+  button:not(.btn-exception),
+  [role='button']:not(.btn-exception),
+  .btn:not(.btn-exception),
+  input[type='button']:not(.btn-exception),
+  input[type='submit']:not(.btn-exception) {
+    background: transparent !important;
+    border: 1.5px solid #d1d5db !important;
+    color: #6b7280 !important;
+    transition: all 0.3s ease !important;
+  }
+
+  /* Hover para botões em contextos claros */
+  button:not(.btn-exception):hover,
+  [role='button']:not(.btn-exception):hover,
+  .btn:not(.btn-exception):hover,
+  input[type='button']:not(.btn-exception):hover,
+  input[type='submit']:not(.btn-exception):hover {
+    border-color: #9ca3af !important;
+    color: #374151 !important;
+    background: rgba(0, 0, 0, 0.03) !important;
+  }
+
+  /* Botões em contextos escuros (dentro de elementos com fundo escuro) */
+  .bg-black button:not(.btn-exception),
+  .bg-gray-900 button:not(.btn-exception),
+  .bg-gray-800 button:not(.btn-exception),
+  [style*='background'] button:not(.btn-exception),
+  .dark button:not(.btn-exception),
+  section[class*='bg-black'] button:not(.btn-exception),
+  section[class*='bg-gray-9'] button:not(.btn-exception),
+  div[class*='bg-black'] button:not(.btn-exception),
+  div[class*='bg-gray-9'] button:not(.btn-exception) {
+    background: transparent !important;
+    border: 1.5px solid #9ca3af !important;
+    color: #d1d5db !important;
+  }
+
+  /* Hover para botões em contextos escuros */
+  .bg-black button:not(.btn-exception):hover,
+  .bg-gray-900 button:not(.btn-exception):hover,
+  .bg-gray-800 button:not(.btn-exception):hover,
+  [style*='background'] button:not(.btn-exception):hover,
+  .dark button:not(.btn-exception):hover,
+  section[class*='bg-black'] button:not(.btn-exception):hover,
+  section[class*='bg-gray-9'] button:not(.btn-exception):hover,
+  div[class*='bg-black'] button:not(.btn-exception):hover,
+  div[class*='bg-gray-9'] button:not(.btn-exception):hover {
+    border-color: #ffffff !important;
+    color: #ffffff !important;
+    background: rgba(255, 255, 255, 0.05) !important;
+  }
+
+  /* Classe especial para botões que precisam manter comportamento original */
+  .btn-exception {
+    /* Não aplicar override - mantém estilo original */
+  }
+
+  /* Botão de solicitar orçamento - Verde fosco */
+  .quote-button {
+    background-color: rgba(34, 197, 94, 0.8) !important; /* Verde fosco (green-500 com opacidade) */
+    color: #ffffff !important;
+    border: none !important;
+  }
+
+  .quote-button:hover {
+    background-color: rgba(34, 197, 94, 0.9) !important; /* Verde mais intenso no hover */
+    border: none !important;
+  }
+
+  /* Garantir que quote-button mantenha cor verde mesmo em contextos escuros */
+  .bg-black .quote-button,
+  .bg-gray-900 .quote-button,
+  .bg-gray-800 .quote-button,
+  section[class*='bg-black'] .quote-button,
+  section[class*='bg-gray-9'] .quote-button,
+  div[class*='bg-black'] .quote-button,
+  div[class*='bg-gray-9'] .quote-button {
+    background-color: rgba(34, 197, 94, 0.8) !important;
+    color: #ffffff !important;
+    border: none !important;
+  }
+
+  .bg-black .quote-button:hover,
+  .bg-gray-900 .quote-button:hover,
+  .bg-gray-800 .quote-button:hover,
+  section[class*='bg-black'] .quote-button:hover,
+  section[class*='bg-gray-9'] .quote-button:hover,
+  div[class*='bg-black'] .quote-button:hover,
+  div[class*='bg-gray-9'] .quote-button:hover {
+    background-color: rgba(34, 197, 94, 0.9) !important;
+    color: #ffffff !important;
+    border: none !important;
+  }
+
+  /* Override específico para Tailwind classes que conflitam */
+  .bg-white.text-black {
+    background: transparent !important;
+  }
+  .bg-black.text-white {
+    background: transparent !important;
+  }
+  .bg-gray-800.text-white {
+    background: transparent !important;
+  }
+
+  /* 🎨 TEXTOS GLOBAIS - CINZA SUAVE AO INVÉS DE PRETO */
+  /* Substitui todos os textos pretos por cinza elegante */
+
+  /* Textos pretos padrão → cinza escuro suave */
+  .text-black,
+  .text-gray-900 {
+    color: #374151 !important; /* Cinza escuro elegante */
+  }
+
+  /* Headings e títulos importantes */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #374151 !important; /* Cinza escuro para hierarquia */
+  }
+
+  /* Textos de parágrafos que são muito escuros */
+  .text-gray-800 {
+    color: #4b5563 !important; /* Cinza médio */
+  }
+
+  /* Classes específicas do Tailwind para preto */
+  .text-slate-900 {
+    color: #374151 !important;
+  }
+
+  .text-slate-800 {
+    color: #4b5563 !important;
+  }
+
+  /* Elementos que podem ter cor preta inline */
+  [style*='color: #000'],
+  [style*='color: black'],
+  [style*='color: rgb(0, 0, 0)'] {
+    color: #374151 !important;
+  }
+
+  /* Exception class para manter preto original quando necessário */
+  .text-original-black {
+    color: #000000 !important;
+  }
+
+  /* 🌙 TEXTOS EM CONTEXTOS ESCUROS - FORÇAR CLARIDADE */
+  /* Garante que textos sejam claros em fundos escuros, MAS preserva cores das linhas */
+
+  /* APENAS textos neutros/pretos em contextos escuros ficam brancos */
+  /* NÃO afeta cores das linhas (azul, vermelho, etc.) */
+  .bg-black .text-black,
+  .bg-black .text-gray-900,
+  .bg-black .text-gray-800,
+  .bg-gray-900 .text-black,
+  .bg-gray-900 .text-gray-900,
+  .bg-gray-900 .text-gray-800,
+  .bg-gray-800 .text-black,
+  .bg-gray-800 .text-gray-900,
+  .bg-gray-800 .text-gray-800 {
+    color: #ffffff !important;
+  }
+
+  /* Títulos neutros em contextos escuros - força branco para títulos sem cor específica das linhas */
+  .bg-black
+    h1:not([class*='text-cyan']):not([class*='text-blue']):not([class*='text-red']):not(
+      [style*='color: #61fbfe']
+    ):not([style*='color: #9c1006']),
+  .bg-black
+    h2:not([class*='text-cyan']):not([class*='text-blue']):not([class*='text-red']):not(
+      [style*='color: #61fbfe']
+    ):not([style*='color: #9c1006']),
+  .bg-black
+    h3:not([class*='text-cyan']):not([class*='text-blue']):not([class*='text-red']):not(
+      [style*='color: #61fbfe']
+    ):not([style*='color: #9c1006']),
+  .bg-gray-900
+    h1:not([class*='text-cyan']):not([class*='text-blue']):not([class*='text-red']):not(
+      [style*='color: #61fbfe']
+    ):not([style*='color: #9c1006']),
+  .bg-gray-900
+    h2:not([class*='text-cyan']):not([class*='text-blue']):not([class*='text-red']):not(
+      [style*='color: #61fbfe']
+    ):not([style*='color: #9c1006']),
+  .bg-gray-900
+    h3:not([class*='text-cyan']):not([class*='text-blue']):not([class*='text-red']):not(
+      [style*='color: #61fbfe']
+    ):not([style*='color: #9c1006']),
+  section[class*='bg-black']
+    h1:not([class*='text-cyan']):not([class*='text-blue']):not([class*='text-red']),
+  section[class*='bg-black']
+    h2:not([class*='text-cyan']):not([class*='text-blue']):not([class*='text-red']),
+  div[class*='bg-black']
+    h1:not([class*='text-cyan']):not([class*='text-blue']):not([class*='text-red']),
+  div[class*='bg-black']
+    h2:not([class*='text-cyan']):not([class*='text-blue']):not([class*='text-red']) {
+    color: #ffffff !important;
+  }
+
+  /* Força branco para elementos com text-white que estão sendo sobrescritos */
+  .bg-black .text-white,
+  .bg-gray-900 .text-white,
+  section[class*='bg-black'] .text-white,
+  div[class*='bg-black'] .text-white {
+    color: #ffffff !important;
+  }
+
+  /* FORÇA MÁXIMA - Títulos em fundos escuros DEVEM ser brancos (exceto cores das linhas) */
+  section[style*='background']
+    h1:not([class*='text-cyan']):not([style*='color: #61fbfe']):not([style*='color: #9c1006']),
+  div[style*='background']
+    h1:not([class*='text-cyan']):not([style*='color: #61fbfe']):not([style*='color: #9c1006']),
+  .bg-black h1.text-white,
+  .bg-black
+    h1:not(.text-cyan-600):not(.text-red-600):not([style*='color: #61fbfe']):not(
+      [style*='color: #9c1006']
+    ) {
+    color: #ffffff !important;
+  }
+
+  /* PRESERVAR cores das linhas - NUNCA sobrescrever */
+  .text-cyan-600,    /* Blue Line */
+  .text-cyan-500,
+  .text-blue-600,
+  .text-blue-500,
+  .text-red-600,     /* Red Line */
+  .text-red-500,
+  .text-red-700,
+  .text-[#61fbfe],   /* Blue Line específica */
+  .text-[#9c1006],   /* Red Line específica */
+  [class*="text-cyan"],
+  [class*="text-blue"],
+  [class*="text-red"],
+  [style*="color: #61fbfe"],
+  [style*="color: #9c1006"] {
+    /* Mantém a cor original - NÃO sobrescrever */
+  }
+
+  /* 🔄 BORDAS GLOBAIS - MENOS CIRCULARES, MAIS RETANGULARES */
+  /* Substitui bordas muito circulares por bordas mais suaves */
+
+  /* Reduzir bordas muito circulares para mais retangulares */
+  .rounded-full:not(.keep-round) {
+    border-radius: 0.5rem !important; /* rounded-lg */
+  }
+
+  .rounded-3xl {
+    border-radius: 1rem !important; /* rounded-xl */
+  }
+
+  .rounded-2xl {
+    border-radius: 0.75rem !important; /* rounded-lg+ */
+  }
+
+  /* Classe para manter circular quando necessário */
+  .keep-round {
+    /* Mantém border-radius original */
+  }
+
+  /* Exceções para elementos que devem manter formato circular */
+  .animate-spin,
+  .w-3.h-3,
+  .w-4.h-4,
+  .w-5.h-5,
+  [class*='spinner'],
+  [class*='loading'] {
+    /* Mantém formato circular para ícones pequenos e spinners */
+  }
+}
+
+/* Animações customizadas para Power Run - Otimizadas para performance */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.5s ease-out forwards;
+  will-change: opacity, transform;
+}
+
+.animate-shimmer {
+  animation: shimmer 1.5s ease-in-out infinite;
+  will-change: background-position;
+}
+
+/* Scrollbar customizada para o modal de imagens */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Otimizações para prevenir CLS (Cumulative Layout Shift) */
+.aspect-ratio-container {
+  position: relative;
+  width: 100%;
+}
+
+.aspect-ratio-container::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 0;
+  padding-bottom: calc(var(--aspect-ratio, 75%) * 1%);
+}
+
+.aspect-ratio-container > * {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Container para cards com altura fixa - evita CLS */
+.equipment-card-container {
+  min-height: 350px;
+  contain: layout style paint;
+}
+
+/* Otimizações de rendering para listas */
+.equipment-grid {
+  contain: layout style;
+}
+
+.equipment-card {
+  contain: layout style paint;
+  transform: translateZ(0); /* Força compositing layer */
+}
+
+/* Prevenção de layout shift em imagens responsivas */
+img[width][height] {
+  height: auto;
+}
+
+/* Otimização para componentes que mudam de tamanho */
+.dynamic-content {
+  contain: layout style;
+}
+
+/* Estilos para PDF - Override completo de cores oklch */
+.pdf-compatible {
+  /* Forçar cores RGB para todas as variáveis CSS */
+  --background: #ffffff !important;
+  --foreground: #1a1b23 !important;
+  --card: #ffffff !important;
+  --card-foreground: #1a1b23 !important;
+  --popover: #ffffff !important;
+  --popover-foreground: #1a1b23 !important;
+  --primary: #000000 !important;
+  --primary-foreground: #fafafa !important;
+  --secondary: #f1f5f9 !important;
+  --secondary-foreground: #334155 !important;
+  --muted: #f1f5f9 !important;
+  --muted-foreground: #64748b !important;
+  --accent: #f1f5f9 !important;
+  --accent-foreground: #334155 !important;
+  --destructive: #dc2626 !important;
+  --border: #e2e8f0 !important;
+  --input: #e2e8f0 !important;
+  --ring: #94a3b8 !important;
+
+  /* Forçar cores específicas para classes comuns */
+  background-color: #ffffff !important;
+  color: #1a1b23 !important;
+}
+
+.pdf-compatible * {
+  /* Remover qualquer referência a oklch */
+  background-color: inherit !important;
+  color: inherit !important;
+  border-color: inherit !important;
+}
+
+.pdf-compatible .bg-white {
+  background-color: #ffffff !important;
+}
+.pdf-compatible .bg-gray-50,
+.pdf-compatible .bg-slate-50 {
+  background-color: #f9fafb !important;
+}
+.pdf-compatible .bg-gray-100,
+.pdf-compatible .bg-slate-100 {
+  background-color: #f3f4f6 !important;
+}
+.pdf-compatible .border-gray-200,
+.pdf-compatible .border-slate-200 {
+  border-color: #e5e7eb !important;
+}
+.pdf-compatible .border-gray-300,
+.pdf-compatible .border-slate-300 {
+  border-color: #d1d5db !important;
+}
+.pdf-compatible .text-gray-400,
+.pdf-compatible .text-slate-400 {
+  color: #9ca3af !important;
+}
+.pdf-compatible .text-gray-500,
+.pdf-compatible .text-slate-500 {
+  color: #6b7280 !important;
+}
+.pdf-compatible .text-gray-600,
+.pdf-compatible .text-slate-600 {
+  color: #4b5563 !important;
+}
+.pdf-compatible .text-gray-700,
+.pdf-compatible .text-slate-700 {
+  color: #374151 !important;
+}
+.pdf-compatible .text-gray-800,
+.pdf-compatible .text-slate-800 {
+  color: #1f2937 !important;
+}
+.pdf-compatible .text-gray-900,
+.pdf-compatible .text-slate-900 {
+  color: #111827 !important;
+}
+.pdf-compatible .text-black {
+  color: #000000 !important;
+}

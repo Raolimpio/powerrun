@@ -1,0 +1,11 @@
+# Ignorar arquivos desnecessários no deploy
+.git
+.github
+.vscode
+.cursor
+node_modules
+.next
+*.log
+*.md
+docs/
+

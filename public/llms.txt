@@ -1,0 +1,118 @@
+# Power Run - Equipamentos Profissionais para Academias
+
+## Sobre a Power Run
+
+A Power Run é uma empresa brasileira líder na fabricação de equipamentos profissionais para academias, fundada em 1998. Localizada em Marília, SP, oferece soluções completas em equipamentos de cardio e musculação para o mercado nacional e internacional.
+
+## Produtos Principais
+
+### Linha Red Line
+- Esteiras profissionais (PR4000, PR5000, PR6000, PR7000)
+- Bicicletas spinning e ergométricas
+- Elípticos profissionais
+- Escadas (Stair Climber)
+
+### Linha Blue Line
+- Equipamentos de musculação
+- Multi-gyms
+- Aparelhos de força
+
+## Documentação Técnica
+
+- [Documentação Técnica Completa](/pt-BR/documentacao-tecnica)
+- [Manuais de Equipamentos](/pt-BR/suporte/manuais)
+- [Fichas Técnicas](/pt-BR/admin/fichas-tecnicas)
+
+## Páginas Principais
+
+### Português (pt-BR)
+- [Página Inicial](/pt-BR)
+- [Empresa](/pt-BR/empresa)
+- [Equipamentos](/pt-BR/equipamentos)
+- [Suporte](/pt-BR/suporte)
+
+### Inglês (en)
+- [Home](/en)
+- [Company](/en/empresa)
+- [Equipment](/en/equipamentos)
+- [Support](/en/suporte)
+
+### Espanhol (es)
+- [Inicio](/es)
+- [Empresa](/es/empresa)
+- [Equipos](/es/equipamentos)
+- [Soporte](/es/suporte)
+
+## Sistema de SEO por Cidade
+
+O site possui um sistema avançado de SEO que gera páginas otimizadas para:
+- 31 produtos diferentes
+- 20+ keywords por produto
+- 5.570+ cidades brasileiras
+- Cidades dos EUA, México, Argentina, Colômbia e Chile
+
+**Estrutura de URLs SEO:**
+`/[locale]/seo/[productId]/[keyword]/[citySlug]`
+
+**Exemplos:**
+- `/pt-BR/seo/esteira-pr4000-30/esteira-profissional/sao-paulo-sp`
+- `/pt-BR/seo/bicicleta-spinning-pr200/bike-spinning-profissional/rio-de-janeiro-rj`
+- `/en/seo/treadmill-pr5000/professional-treadmill/new-york-ny-usa`
+
+## Categorias de Equipamentos
+
+### Cardio
+- Esteiras ergométricas profissionais
+- Bicicletas spinning e ergométricas
+- Elípticos profissionais
+- Escadas (Stair Climber)
+
+### Musculação
+- Multi-gyms
+- Aparelhos de força
+- Equipamentos de treinamento funcional
+
+## Informações de Contato
+
+- **Telefone:** +55 (14) 3433-6000
+- **Email:** contato@powerrun.com.br
+- **Endereço:** R. Esmeraldina Pinheiro Barbosa, 360 - Marília, SP - CEP: 17512-320
+- **País:** Brasil
+
+## Área de Atuação
+
+A Power Run atende:
+- **Brasil:** Todas as 5.570 cidades (IBGE)
+- **Estados Unidos:** Principais cidades
+- **México:** Principais cidades
+- **Argentina:** Principais cidades
+- **Colômbia:** Principais cidades
+- **Chile:** Principais cidades
+
+## Recursos Técnicos
+
+- **Framework:** Next.js 15 com App Router
+- **Linguagem:** TypeScript
+- **UI:** ShadUI + Tailwind CSS
+- **Internacionalização:** next-intl (pt-BR, en, es, zh-CN)
+- **PWA:** Aplicação Web Progressiva
+- **SEO:** Schema.org, Sitemaps dinâmicos, Meta tags otimizadas
+
+## Sitemaps
+
+- [Sitemap Principal](/sitemap.xml)
+- [Sitemap de Equipamentos](/sitemap-equipamentos.xml)
+- [Sitemap de SEO](/sitemap-seo.xml)
+- [Sitemap Index](/sitemap-index.xml)
+
+## Documentação do Projeto
+
+Documentação técnica completa disponível em `/docs`:
+- SEO_SISTEMA_CIDADES.md - Sistema de SEO por cidade
+- SEO_RECOMENDACOES_5MILHOES.md - Estratégia para milhões de URLs
+- SEO_SITEMAP_SCHEMA_ATUALIZACAO.md - Atualizações de sitemap e schema.org
+
+## Última Atualização
+
+Janeiro 2025
+

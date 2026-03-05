@@ -1,0 +1,166 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model AdminUser {
+  id        String   @id @default(cuid())
+  username  String   @unique
+  password  String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model PageView {
+  id           String   @id @default(cuid())
+  path         String
+  locale       String?
+  referer      String?
+  userAgent    String?
+  ip           String?
+  country      String?
+  city         String?
+  deviceType   String?
+  browser      String?
+  os           String?
+  screenWidth  Int?
+  screenHeight Int?
+  timestamp    DateTime @default(now())
+
+  // Novos campos avançados
+  sessionId   String?
+  duration    Int? // Tempo na página em segundos
+  scrollDepth Int? // Profundidade de scroll em %
+  exitPage    Boolean @default(false)
+
+  @@index([path])
+  @@index([timestamp])
+  @@index([locale])
+  @@index([sessionId])
+}
+
+model QuoteClick {
+  id          String   @id @default(cuid())
+  pagePath    String
+  pageType    String // 'normal', 'seo', 'landing'
+  locale      String?
+  productId   String?
+  productName String?
+  citySlug    String?
+  cityName    String?
+  keyword     String?
+  referer     String?
+  userAgent   String?
+  ip          String?
+  country     String?
+  city        String?
+  deviceType  String?
+  browser     String?
+  os          String?
+  timestamp   DateTime @default(now())
+
+  // Novos campos avançados
+  sessionId   String?
+  clickX      Int? // Posição X do clique
+  clickY      Int? // Posição Y do clique
+  scrollDepth Int? // Scroll antes do clique
+  timeOnPage  Int? // Tempo na página antes do clique
+
+  @@index([pagePath])
+  @@index([timestamp])
+  @@index([pageType])
+  @@index([productId])
+  @@index([locale])
+  @@index([sessionId])
+}
+
+// Tabela de Sessões de Usuário
+model Session {
+  id          String    @id @default(cuid())
+  sessionId   String    @unique
+  startTime   DateTime  @default(now())
+  endTime     DateTime?
+  duration    Int? // Duração total em segundos
+  pageViews   Int       @default(0)
+  conversions Int       @default(0)
+  locale      String?
+  deviceType  String?
+  browser     String?
+  os          String?
+  country     String?
+  city        String?
+  landingPage String?
+  exitPage    String?
+
+  @@index([sessionId])
+  @@index([startTime])
+  @@index([locale])
+}
+
+// Tabela de Origem de Tráfego
+model TrafficSource {
+  id          String   @id @default(cuid())
+  sessionId   String
+  source      String // 'organic', 'direct', 'referral', 'social', 'email'
+  medium      String? // 'google', 'facebook', 'instagram', etc
+  campaign    String? // Nome da campanha (se UTM)
+  referrer    String? // URL completa do referrer
+  landingPage String
+  timestamp   DateTime @default(now())
+
+  @@index([sessionId])
+  @@index([source])
+  @@index([timestamp])
+}
+
+// Tabela de Eventos Customizados
+model CustomEvent {
+  id        String   @id @default(cuid())
+  sessionId String?
+  eventName String // 'video_play', 'pdf_download', 'form_submit', etc
+  eventData String? // JSON string com dados do evento
+  pagePath  String
+  timestamp DateTime @default(now())
+
+  @@index([eventName])
+  @@index([timestamp])
+  @@index([sessionId])
+}
+
+// Tabela de Métricas de Performance (Core Web Vitals)
+model PerformanceMetric {
+  id         String   @id @default(cuid())
+  sessionId  String?
+  pagePath   String
+  metricName String // 'LCP', 'FID', 'CLS', 'TTFB', 'FCP'
+  value      Float
+  rating     String // 'good', 'needs-improvement', 'poor'
+  timestamp  DateTime @default(now())
+
+  @@index([pagePath])
+  @@index([metricName])
+  @@index([timestamp])
+}
+
+// Tabela de Histórico de Envios de Relatórios de Marketing
+model MarketingReportLog {
+  id           String   @id @default(cuid())
+  period       String // 'weekly', 'biweekly', 'monthly'
+  periodLabel  String // 'Semanal', 'Quinzenal', 'Mensal'
+  status       String // 'success', 'failed', 'skipped'
+  errorMessage String? // Mensagem de erro se falhou
+  recipients   String[] // Lista de destinatários
+  sentAt       DateTime @default(now())
+  triggeredBy  String // 'cron', 'manual'
+
+  @@index([period])
+  @@index([status])
+  @@index([sentAt])
+}

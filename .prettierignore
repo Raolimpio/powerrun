@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+out/
+build/
+dist/
+
+# Environment files
+.env*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache
+.turbo
+.cache/
+
+# Coverage directory
+coverage/
+
+# Storybook build outputs
+storybook-static
+
+# Temporary folders
+.tmp/
+temp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Generated files
+*.tsbuildinfo
+.eslintcache
+
+# Lock files (let package managers handle these)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Auto-generated documentation
+docs/api/
+
+# Specific files that shouldn't be formatted
+CHANGELOG.md
+LICENSE

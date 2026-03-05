@@ -1,0 +1,70 @@
+name: Database Check
+
+on:
+  pull_request:
+    branches: [main, develop]
+    paths:
+      - "prisma/**"
+
+env:
+  NODE_VERSION: "20"
+
+jobs:
+  database-check:
+    name: Verificar Schema e Migrações
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:15
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: test_db
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+        ports:
+          - 5432:5432
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: "npm"
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Validar schema Prisma
+        run: npx prisma validate
+
+      - name: Gerar Prisma Client
+        run: npx prisma generate
+
+      - name: Verificar migrações
+        run: npx prisma migrate diff --from-empty --to-schema-datamodel prisma/schema.prisma --script
+        env:
+          DATABASE_URL: postgresql://postgres:postgres@localhost:5432/test_db
+
+      - name: Testar migrações
+        run: npx prisma migrate deploy
+        env:
+          DATABASE_URL: postgresql://postgres:postgres@localhost:5432/test_db
+
+      - name: Verificar seed
+        run: |
+          if [ -f "prisma/seed.ts" ]; then
+            echo "✅ Verificando seed..."
+            npx prisma db seed
+          else
+            echo "ℹ️  Nenhum arquivo de seed encontrado"
+          fi
+        env:
+          DATABASE_URL: postgresql://postgres:postgres@localhost:5432/test_db

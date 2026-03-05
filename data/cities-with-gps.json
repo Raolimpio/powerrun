@@ -1,0 +1,8460 @@
+[
+  {
+    "name": "São Paulo",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 12300000,
+    "latitude": -23.5506507,
+    "longitude": -46.6333824
+  },
+  {
+    "name": "Guarulhos",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 1400000,
+    "latitude": -23.4675941,
+    "longitude": -46.5277704
+  },
+  {
+    "name": "Campinas",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 1200000,
+    "latitude": -22.9056391,
+    "longitude": -47.059564
+  },
+  {
+    "name": "São Bernardo do Campo",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 850000,
+    "latitude": -23.7080345,
+    "longitude": -46.5506747
+  },
+  {
+    "name": "Santo André",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 720000,
+    "latitude": -23.6533509,
+    "longitude": -46.5279039
+  },
+  {
+    "name": "Osasco",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 700000,
+    "latitude": -23.5324859,
+    "longitude": -46.7916801
+  },
+  {
+    "name": "São José dos Campos",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 730000,
+    "latitude": -23.1867782,
+    "longitude": -45.8854538
+  },
+  {
+    "name": "Ribeirão Preto",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 710000,
+    "latitude": -21.1776315,
+    "longitude": -47.8100983
+  },
+  {
+    "name": "Sorocaba",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 680000,
+    "latitude": -23.5003451,
+    "longitude": -47.4582864
+  },
+  {
+    "name": "Santos",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 430000,
+    "latitude": -23.9335988,
+    "longitude": -46.3286399
+  },
+  {
+    "name": "Mauá",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 470000,
+    "latitude": -23.6669527,
+    "longitude": -46.4616922
+  },
+  {
+    "name": "São José do Rio Preto",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 460000,
+    "latitude": -20.8125851,
+    "longitude": -49.3804212
+  },
+  {
+    "name": "Mogi das Cruzes",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 440000,
+    "latitude": -23.5234284,
+    "longitude": -46.1926671
+  },
+  {
+    "name": "Diadema",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 420000,
+    "latitude": -23.6866428,
+    "longitude": -46.6246935
+  },
+  {
+    "name": "Jundiaí",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 420000,
+    "latitude": -23.1887668,
+    "longitude": -46.884506
+  },
+  {
+    "name": "Carapicuíba",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 400000,
+    "latitude": -23.5234673,
+    "longitude": -46.8406808
+  },
+  {
+    "name": "Piracicaba",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 400000,
+    "latitude": -22.725165,
+    "longitude": -47.6493269
+  },
+  {
+    "name": "Bauru",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 380000,
+    "latitude": -22.3218102,
+    "longitude": -49.0705863
+  },
+  {
+    "name": "Itaquaquecetuba",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 370000,
+    "latitude": -23.4754492,
+    "longitude": -46.3514033
+  },
+  {
+    "name": "São Vicente",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 360000,
+    "latitude": -23.9664177,
+    "longitude": -46.3861401
+  },
+  {
+    "name": "Franca",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 360000,
+    "latitude": -20.5381768,
+    "longitude": -47.4009795
+  },
+  {
+    "name": "Guarujá",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 320000,
+    "latitude": -23.9927768,
+    "longitude": -46.2558332
+  },
+  {
+    "name": "Taubaté",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 320000,
+    "latitude": -23.031448,
+    "longitude": -45.5612792
+  },
+  {
+    "name": "Limeira",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 310000,
+    "latitude": -22.5615068,
+    "longitude": -47.401766
+  },
+  {
+    "name": "Suzano",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 300000,
+    "latitude": -23.5427842,
+    "longitude": -46.3108391
+  },
+  {
+    "name": "Taboão da Serra",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 290000,
+    "latitude": -23.6121912,
+    "longitude": -46.7790539
+  },
+  {
+    "name": "Sumaré",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 280000,
+    "latitude": -22.8217964,
+    "longitude": -47.267105
+  },
+  {
+    "name": "Barueri",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 280000,
+    "latitude": -23.5112184,
+    "longitude": -46.8764612
+  },
+  {
+    "name": "Embu das Artes",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 270000,
+    "latitude": -23.6495294,
+    "longitude": -46.8528497
+  },
+  {
+    "name": "São Carlos",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 250000,
+    "latitude": -21.8788022,
+    "longitude": -47.8567619
+  },
+  {
+    "name": "Marília",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 240000,
+    "latitude": -22.2172002,
+    "longitude": -49.9500061
+  },
+  {
+    "name": "Indaiatuba",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 240000,
+    "latitude": -23.0908356,
+    "longitude": -47.2180677
+  },
+  {
+    "name": "Cotia",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 240000,
+    "latitude": -23.603889,
+    "longitude": -46.918889
+  },
+  {
+    "name": "Americana",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 240000,
+    "latitude": -22.7392463,
+    "longitude": -47.3306032
+  },
+  {
+    "name": "Jacareí",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 230000,
+    "latitude": -23.3050682,
+    "longitude": -45.9723075
+  },
+  {
+    "name": "Araraquara",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 230000,
+    "latitude": -21.7886713,
+    "longitude": -48.1773096
+  },
+  {
+    "name": "Presidente Prudente",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 230000,
+    "latitude": -22.1225167,
+    "longitude": -51.3882528
+  },
+  {
+    "name": "Hortolândia",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 230000,
+    "latitude": -22.8620175,
+    "longitude": -47.2164219
+  },
+  {
+    "name": "Rio Claro",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 210000,
+    "latitude": -22.4100108,
+    "longitude": -47.5603933
+  },
+  {
+    "name": "Araçatuba",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 200000,
+    "latitude": -21.207992,
+    "longitude": -50.4390225
+  },
+  {
+    "name": "Ferraz de Vasconcelos",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 190000,
+    "latitude": -23.541056,
+    "longitude": -46.37097
+  },
+  {
+    "name": "Francisco Morato",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 180000,
+    "latitude": -23.2817308,
+    "longitude": -46.7448996
+  },
+  {
+    "name": "Itapevi",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 230000,
+    "latitude": -23.54888,
+    "longitude": -46.933889
+  },
+  {
+    "name": "Praia Grande",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 330000,
+    "latitude": -24.008979,
+    "longitude": -46.4144939
+  },
+  {
+    "name": "Santana de Parnaíba",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 140000,
+    "latitude": -23.4446715,
+    "longitude": -46.9167722
+  },
+  {
+    "name": "Itapecerica da Serra",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 180000,
+    "latitude": -23.7176303,
+    "longitude": -46.8492435
+  },
+  {
+    "name": "Mogi Guaçu",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 150000,
+    "latitude": -22.372222,
+    "longitude": -46.9425
+  },
+  {
+    "name": "Assis",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 100000,
+    "latitude": -22.6620892,
+    "longitude": -50.420623
+  },
+  {
+    "name": "Catanduva",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 120000,
+    "latitude": -21.1331035,
+    "longitude": -48.9712817
+  },
+  {
+    "name": "Birigui",
+    "state": "São Paulo",
+    "stateCode": "SP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 120000,
+    "latitude": -21.2908491,
+    "longitude": -50.34144
+  },
+  {
+    "name": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 6750000,
+    "latitude": -22.9110137,
+    "longitude": -43.2093727
+  },
+  {
+    "name": "São Gonçalo",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 1100000,
+    "latitude": -22.821635,
+    "longitude": -42.9956797
+  },
+  {
+    "name": "Duque de Caxias",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 920000,
+    "latitude": -22.7896225,
+    "longitude": -43.309929
+  },
+  {
+    "name": "Nova Iguaçu",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 820000,
+    "latitude": -22.7592175,
+    "longitude": -43.4508728
+  },
+  {
+    "name": "Niterói",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 510000,
+    "latitude": -22.8884,
+    "longitude": -43.1147
+  },
+  {
+    "name": "Belford Roxo",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 510000,
+    "latitude": -22.7667284,
+    "longitude": -43.4033603
+  },
+  {
+    "name": "Campos dos Goytacazes",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 510000,
+    "latitude": -21.7546,
+    "longitude": -41.3242
+  },
+  {
+    "name": "São João de Meriti",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 470000,
+    "latitude": -22.7853575,
+    "longitude": -43.366715
+  },
+  {
+    "name": "Petrópolis",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 310000,
+    "latitude": -22.3880004,
+    "longitude": -43.1752593
+  },
+  {
+    "name": "Volta Redonda",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 270000,
+    "latitude": -22.521856,
+    "longitude": -44.1040128
+  },
+  {
+    "name": "Magé",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 250000,
+    "latitude": -22.6042779,
+    "longitude": -43.1081091
+  },
+  {
+    "name": "Itaboraí",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 240000,
+    "latitude": -22.7558128,
+    "longitude": -42.8829561
+  },
+  {
+    "name": "Macaé",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 260000,
+    "latitude": -22.2828305,
+    "longitude": -41.9649091
+  },
+  {
+    "name": "Cabo Frio",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 230000,
+    "latitude": -22.7378309,
+    "longitude": -42.0240869
+  },
+  {
+    "name": "Nova Friburgo",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 190000,
+    "latitude": -22.3061661,
+    "longitude": -42.4934183
+  },
+  {
+    "name": "Barra Mansa",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 180000,
+    "latitude": -22.4852784,
+    "longitude": -44.19707
+  },
+  {
+    "name": "Angra dos Reis",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 200000,
+    "latitude": -23.1555405,
+    "longitude": -44.2344809
+  },
+  {
+    "name": "Teresópolis",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 180000,
+    "latitude": -22.2978038,
+    "longitude": -42.8646411
+  },
+  {
+    "name": "Mesquita",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 180000,
+    "latitude": -22.783092,
+    "longitude": -43.4293599
+  },
+  {
+    "name": "Nilópolis",
+    "state": "Rio de Janeiro",
+    "stateCode": "RJ",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 160000,
+    "latitude": -22.8080114,
+    "longitude": -43.4138222
+  },
+  {
+    "name": "Belo Horizonte",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 2500000,
+    "latitude": -19.9227318,
+    "longitude": -43.9450948
+  },
+  {
+    "name": "Uberlândia",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 700000,
+    "latitude": -18.8941408,
+    "longitude": -48.2622678
+  },
+  {
+    "name": "Contagem",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 670000,
+    "latitude": -19.9132749,
+    "longitude": -44.0840953
+  },
+  {
+    "name": "Juiz de Fora",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 580000,
+    "latitude": -21.7609533,
+    "longitude": -43.3501129
+  },
+  {
+    "name": "Betim",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 440000,
+    "latitude": -19.9475338,
+    "longitude": -44.1995361
+  },
+  {
+    "name": "Montes Claros",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 410000,
+    "latitude": -16.7495727,
+    "longitude": -43.8687268
+  },
+  {
+    "name": "Ribeirão das Neves",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 330000,
+    "latitude": -19.7672898,
+    "longitude": -44.0875436
+  },
+  {
+    "name": "Uberaba",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 340000,
+    "latitude": -19.750833,
+    "longitude": -47.936666
+  },
+  {
+    "name": "Governador Valadares",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 280000,
+    "latitude": -18.8574388,
+    "longitude": -41.9439184
+  },
+  {
+    "name": "Ipatinga",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 260000,
+    "latitude": -19.4777807,
+    "longitude": -42.5270802
+  },
+  {
+    "name": "Sete Lagoas",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 240000,
+    "latitude": -19.466111,
+    "longitude": -44.246944
+  },
+  {
+    "name": "Divinópolis",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 240000,
+    "latitude": -20.1597921,
+    "longitude": -44.8739341
+  },
+  {
+    "name": "Santa Luzia",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 220000,
+    "latitude": -19.7702097,
+    "longitude": -43.8505291
+  },
+  {
+    "name": "Poços de Caldas",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 170000,
+    "latitude": -21.7900318,
+    "longitude": -46.5647928
+  },
+  {
+    "name": "Patos de Minas",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 150000,
+    "latitude": -18.5974894,
+    "longitude": -46.5233256
+  },
+  {
+    "name": "Pouso Alegre",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 150000,
+    "latitude": -22.2343858,
+    "longitude": -45.9327241
+  },
+  {
+    "name": "Barbacena",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 140000,
+    "latitude": -21.2254524,
+    "longitude": -43.7735087
+  },
+  {
+    "name": "Varginha",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 140000,
+    "latitude": -21.5565914,
+    "longitude": -45.4340674
+  },
+  {
+    "name": "Teófilo Otoni",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 140000,
+    "latitude": -17.8579267,
+    "longitude": -41.5081533
+  },
+  {
+    "name": "Sabará",
+    "state": "Minas Gerais",
+    "stateCode": "MG",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 140000,
+    "latitude": -19.8900372,
+    "longitude": -43.8107916
+  },
+  {
+    "name": "Salvador",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 2900000,
+    "latitude": -12.9031499,
+    "longitude": -38.4337859
+  },
+  {
+    "name": "Feira de Santana",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 620000,
+    "latitude": -12.1996493,
+    "longitude": -38.9682883
+  },
+  {
+    "name": "Vitória da Conquista",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 350000,
+    "latitude": -14.8570284,
+    "longitude": -40.8544709
+  },
+  {
+    "name": "Camaçari",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 300000,
+    "latitude": -12.6631893,
+    "longitude": -38.3044721
+  },
+  {
+    "name": "Itabuna",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 220000,
+    "latitude": -14.858782,
+    "longitude": -40.8533225
+  },
+  {
+    "name": "Juazeiro",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 220000,
+    "latitude": -9.4560975,
+    "longitude": -40.5083845
+  },
+  {
+    "name": "Lauro de Freitas",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 200000,
+    "latitude": -12.8751773,
+    "longitude": -38.3399593
+  },
+  {
+    "name": "Ilhéus",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 160000,
+    "latitude": -14.8545167,
+    "longitude": -40.8518514
+  },
+  {
+    "name": "Jequié",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 160000,
+    "latitude": -14.8464698,
+    "longitude": -40.8500492
+  },
+  {
+    "name": "Teixeira de Freitas",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 160000,
+    "latitude": -17.5513307,
+    "longitude": -39.7321256
+  },
+  {
+    "name": "Alagoinhas",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 160000,
+    "latitude": -12.1637841,
+    "longitude": -38.4306738
+  },
+  {
+    "name": "Barreiras",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 160000,
+    "latitude": -12.1396423,
+    "longitude": -44.9893806
+  },
+  {
+    "name": "Porto Seguro",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 150000,
+    "latitude": -16.5041601,
+    "longitude": -39.2514093
+  },
+  {
+    "name": "Simões Filho",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 140000,
+    "latitude": -12.8097272,
+    "longitude": -38.3922905
+  },
+  {
+    "name": "Paulo Afonso",
+    "state": "Bahia",
+    "stateCode": "BA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 120000,
+    "latitude": -9.4040012,
+    "longitude": -38.2278088
+  },
+  {
+    "name": "Curitiba",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 1960000,
+    "latitude": -23.1943315,
+    "longitude": -52.1951308
+  },
+  {
+    "name": "Londrina",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 580000,
+    "latitude": -23.3286541,
+    "longitude": -51.1377711
+  },
+  {
+    "name": "Maringá",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 430000,
+    "latitude": -23.3930934,
+    "longitude": -51.9643111
+  },
+  {
+    "name": "Ponta Grossa",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 360000,
+    "latitude": -25.0156835,
+    "longitude": -50.1390555
+  },
+  {
+    "name": "Cascavel",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 330000,
+    "latitude": -24.9521193,
+    "longitude": -53.4497464
+  },
+  {
+    "name": "São José dos Pinhais",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 330000,
+    "latitude": -25.6643904,
+    "longitude": -49.1747715
+  },
+  {
+    "name": "Foz do Iguaçu",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 260000,
+    "latitude": -25.5462045,
+    "longitude": -54.5905201
+  },
+  {
+    "name": "Colombo",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 250000,
+    "latitude": -24.5214546,
+    "longitude": -47.8269904
+  },
+  {
+    "name": "Guarapuava",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 180000,
+    "latitude": -25.5659527,
+    "longitude": -51.4747222
+  },
+  {
+    "name": "Paranaguá",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 160000,
+    "latitude": -25.5314537,
+    "longitude": -48.5465952
+  },
+  {
+    "name": "Araucária",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 150000,
+    "latitude": -25.6005618,
+    "longitude": -49.391031
+  },
+  {
+    "name": "Toledo",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 140000,
+    "latitude": -24.7352978,
+    "longitude": -53.7590617
+  },
+  {
+    "name": "Apucarana",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 130000,
+    "latitude": -23.5341195,
+    "longitude": -51.4557379
+  },
+  {
+    "name": "Pinhais",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 130000,
+    "latitude": -25.4096629,
+    "longitude": -49.1483633
+  },
+  {
+    "name": "Campo Largo",
+    "state": "Paraná",
+    "stateCode": "PR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 130000,
+    "latitude": -25.4636341,
+    "longitude": -49.404259
+  },
+  {
+    "name": "Fortaleza",
+    "state": "Ceará",
+    "stateCode": "CE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 2700000,
+    "latitude": -3.7227618,
+    "longitude": -38.525034
+  },
+  {
+    "name": "Caucaia",
+    "state": "Ceará",
+    "stateCode": "CE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 380000,
+    "latitude": -3.7505052,
+    "longitude": -38.6072837
+  },
+  {
+    "name": "Juazeiro do Norte",
+    "state": "Ceará",
+    "stateCode": "CE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 280000,
+    "latitude": -7.2275168,
+    "longitude": -39.3329188
+  },
+  {
+    "name": "Maracanaú",
+    "state": "Ceará",
+    "stateCode": "CE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 230000,
+    "latitude": -3.833085,
+    "longitude": -38.6088382
+  },
+  {
+    "name": "Sobral",
+    "state": "Ceará",
+    "stateCode": "CE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 210000,
+    "latitude": -3.7081978,
+    "longitude": -40.3335153
+  },
+  {
+    "name": "Crato",
+    "state": "Ceará",
+    "stateCode": "CE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 130000,
+    "latitude": -7.2334409,
+    "longitude": -39.3966964
+  },
+  {
+    "name": "Itapipoca",
+    "state": "Ceará",
+    "stateCode": "CE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 130000,
+    "latitude": -3.4984422,
+    "longitude": -39.5788386
+  },
+  {
+    "name": "Maranguape",
+    "state": "Ceará",
+    "stateCode": "CE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 130000,
+    "latitude": -3.8918118,
+    "longitude": -38.6835399
+  },
+  {
+    "name": "Iguatu",
+    "state": "Ceará",
+    "stateCode": "CE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 100000,
+    "latitude": -6.376353,
+    "longitude": -39.3086121
+  },
+  {
+    "name": "Quixadá",
+    "state": "Ceará",
+    "stateCode": "CE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 90000,
+    "latitude": -4.9551706,
+    "longitude": -39.0287133
+  },
+  {
+    "name": "Recife",
+    "state": "Pernambuco",
+    "stateCode": "PE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 1660000,
+    "latitude": -7.5617238,
+    "longitude": -34.9952357
+  },
+  {
+    "name": "Jaboatão dos Guararapes",
+    "state": "Pernambuco",
+    "stateCode": "PE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 710000,
+    "latitude": -8.1516085,
+    "longitude": -34.9330266
+  },
+  {
+    "name": "Olinda",
+    "state": "Pernambuco",
+    "stateCode": "PE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 390000,
+    "latitude": -8.0050198,
+    "longitude": -34.8681399
+  },
+  {
+    "name": "Paulista",
+    "state": "Pernambuco",
+    "stateCode": "PE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 330000,
+    "latitude": -7.9733765,
+    "longitude": -34.8708401
+  },
+  {
+    "name": "Caruaru",
+    "state": "Pernambuco",
+    "stateCode": "PE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 360000,
+    "latitude": -8.2656279,
+    "longitude": -35.9599422
+  },
+  {
+    "name": "Petrolina",
+    "state": "Pernambuco",
+    "stateCode": "PE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 350000,
+    "latitude": -9.4026734,
+    "longitude": -40.5548749
+  },
+  {
+    "name": "Cabo de Santo Agostinho",
+    "state": "Pernambuco",
+    "stateCode": "PE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 210000,
+    "latitude": -8.2466957,
+    "longitude": -34.99609
+  },
+  {
+    "name": "Camaragibe",
+    "state": "Pernambuco",
+    "stateCode": "PE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 160000,
+    "latitude": -7.9746799,
+    "longitude": -34.9670883
+  },
+  {
+    "name": "Garanhuns",
+    "state": "Pernambuco",
+    "stateCode": "PE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 140000,
+    "latitude": -8.898499,
+    "longitude": -36.4945071
+  },
+  {
+    "name": "Vitória de Santo Antão",
+    "state": "Pernambuco",
+    "stateCode": "PE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 140000,
+    "latitude": -8.1116121,
+    "longitude": -35.2911156
+  },
+  {
+    "name": "Porto Alegre",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 1490000,
+    "latitude": -29.9956527,
+    "longitude": -51.1308698
+  },
+  {
+    "name": "Caxias do Sul",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 520000,
+    "latitude": -29.1626062,
+    "longitude": -51.1663113
+  },
+  {
+    "name": "Pelotas",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 340000,
+    "latitude": -31.7713552,
+    "longitude": -52.3525865
+  },
+  {
+    "name": "Canoas",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 350000,
+    "latitude": -29.9214771,
+    "longitude": -51.1888616
+  },
+  {
+    "name": "Santa Maria",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 290000,
+    "latitude": -29.6952013,
+    "longitude": -53.8286774
+  },
+  {
+    "name": "Gravataí",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 290000,
+    "latitude": -29.9569099,
+    "longitude": -50.9712088
+  },
+  {
+    "name": "Viamão",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 260000,
+    "latitude": -30.056879,
+    "longitude": -51.0501753
+  },
+  {
+    "name": "Novo Hamburgo",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 250000,
+    "latitude": -26.2368629,
+    "longitude": -48.5162714
+  },
+  {
+    "name": "São Leopoldo",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 240000,
+    "latitude": -29.744761,
+    "longitude": -51.1553954
+  },
+  {
+    "name": "Rio Grande",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 210000,
+    "latitude": -28.731201,
+    "longitude": -52.841286
+  },
+  {
+    "name": "Alvorada",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 210000,
+    "latitude": -30.0046746,
+    "longitude": -51.0867259
+  },
+  {
+    "name": "Passo Fundo",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 210000,
+    "latitude": -28.2371689,
+    "longitude": -52.395073
+  },
+  {
+    "name": "Sapucaia do Sul",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 140000,
+    "latitude": -29.8164738,
+    "longitude": -51.1647224
+  },
+  {
+    "name": "Uruguaiana",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 130000,
+    "latitude": -29.7477388,
+    "longitude": -57.0834844
+  },
+  {
+    "name": "Santa Cruz do Sul",
+    "state": "Rio Grande do Sul",
+    "stateCode": "RS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 130000,
+    "latitude": -29.7615737,
+    "longitude": -52.4283013
+  },
+  {
+    "name": "Belém",
+    "state": "Pará",
+    "stateCode": "PA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 1510000,
+    "latitude": -1.45056,
+    "longitude": -48.4682453
+  },
+  {
+    "name": "Ananindeua",
+    "state": "Pará",
+    "stateCode": "PA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 530000,
+    "latitude": -1.374035,
+    "longitude": -48.4016623
+  },
+  {
+    "name": "Santarém",
+    "state": "Pará",
+    "stateCode": "PA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 310000,
+    "latitude": -2.438489,
+    "longitude": -54.699611
+  },
+  {
+    "name": "Marabá",
+    "state": "Pará",
+    "stateCode": "PA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 280000,
+    "latitude": -5.3462821,
+    "longitude": -49.1007401
+  },
+  {
+    "name": "Castanhal",
+    "state": "Pará",
+    "stateCode": "PA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 200000,
+    "latitude": -1.2927031,
+    "longitude": -47.9223903
+  },
+  {
+    "name": "Parauapebas",
+    "state": "Pará",
+    "stateCode": "PA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 210000,
+    "latitude": -6.0696846,
+    "longitude": -49.8903283
+  },
+  {
+    "name": "Itaituba",
+    "state": "Pará",
+    "stateCode": "PA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 100000,
+    "latitude": -4.2625218,
+    "longitude": -55.9878139
+  },
+  {
+    "name": "Cametá",
+    "state": "Pará",
+    "stateCode": "PA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 140000,
+    "latitude": -2.242949,
+    "longitude": -49.497885
+  },
+  {
+    "name": "Bragança",
+    "state": "Pará",
+    "stateCode": "PA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 130000,
+    "latitude": -1.0574255,
+    "longitude": -46.7635232
+  },
+  {
+    "name": "Abaetetuba",
+    "state": "Pará",
+    "stateCode": "PA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 160000,
+    "latitude": -1.7217787,
+    "longitude": -48.8788106
+  },
+  {
+    "name": "Joinville",
+    "state": "Santa Catarina",
+    "stateCode": "SC",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 600000,
+    "latitude": -26.3044898,
+    "longitude": -48.8486726
+  },
+  {
+    "name": "Florianópolis",
+    "state": "Santa Catarina",
+    "stateCode": "SC",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 510000,
+    "latitude": -27.5973002,
+    "longitude": -48.5496098
+  },
+  {
+    "name": "Blumenau",
+    "state": "Santa Catarina",
+    "stateCode": "SC",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 360000,
+    "latitude": -26.9440125,
+    "longitude": -49.0721904
+  },
+  {
+    "name": "São José",
+    "state": "Santa Catarina",
+    "stateCode": "SC",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 250000,
+    "latitude": -27.6157733,
+    "longitude": -48.6276491
+  },
+  {
+    "name": "Criciúma",
+    "state": "Santa Catarina",
+    "stateCode": "SC",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 220000,
+    "latitude": -28.6789941,
+    "longitude": -49.3695627
+  },
+  {
+    "name": "Chapecó",
+    "state": "Santa Catarina",
+    "stateCode": "SC",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 220000,
+    "latitude": -27.1110472,
+    "longitude": -52.5958977
+  },
+  {
+    "name": "Itajaí",
+    "state": "Santa Catarina",
+    "stateCode": "SC",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 220000,
+    "latitude": -26.9046787,
+    "longitude": -48.6552979
+  },
+  {
+    "name": "Jaraguá do Sul",
+    "state": "Santa Catarina",
+    "stateCode": "SC",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 180000,
+    "latitude": -26.4897432,
+    "longitude": -49.0778063
+  },
+  {
+    "name": "Lages",
+    "state": "Santa Catarina",
+    "stateCode": "SC",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 160000,
+    "latitude": -27.8165664,
+    "longitude": -50.325883
+  },
+  {
+    "name": "Palhoça",
+    "state": "Santa Catarina",
+    "stateCode": "SC",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 170000,
+    "latitude": -27.6447774,
+    "longitude": -48.6646323
+  },
+  {
+    "name": "Goiânia",
+    "state": "Goiás",
+    "stateCode": "GO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 1560000,
+    "latitude": -16.680882,
+    "longitude": -49.2532691
+  },
+  {
+    "name": "Aparecida de Goiânia",
+    "state": "Goiás",
+    "stateCode": "GO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 580000,
+    "latitude": -16.8226769,
+    "longitude": -49.2452546
+  },
+  {
+    "name": "Anápolis",
+    "state": "Goiás",
+    "stateCode": "GO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 390000,
+    "latitude": -16.3332828,
+    "longitude": -48.9525756
+  },
+  {
+    "name": "Rio Verde",
+    "state": "Goiás",
+    "stateCode": "GO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 240000,
+    "latitude": -17.7921255,
+    "longitude": -50.9191219
+  },
+  {
+    "name": "Luziânia",
+    "state": "Goiás",
+    "stateCode": "GO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 210000,
+    "latitude": -16.2535456,
+    "longitude": -47.9500276
+  },
+  {
+    "name": "Águas Lindas de Goiás",
+    "state": "Goiás",
+    "stateCode": "GO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 210000,
+    "latitude": -15.7392283,
+    "longitude": -48.2793357
+  },
+  {
+    "name": "Valparaíso de Goiás",
+    "state": "Goiás",
+    "stateCode": "GO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 180000,
+    "latitude": -16.0686394,
+    "longitude": -47.9764907
+  },
+  {
+    "name": "Trindade",
+    "state": "Goiás",
+    "stateCode": "GO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 130000,
+    "latitude": -16.6549924,
+    "longitude": -49.4876203
+  },
+  {
+    "name": "Formosa",
+    "state": "Goiás",
+    "stateCode": "GO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 120000,
+    "latitude": -15.5492443,
+    "longitude": -47.3301212
+  },
+  {
+    "name": "Novo Gama",
+    "state": "Goiás",
+    "stateCode": "GO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 120000,
+    "latitude": -16.0496528,
+    "longitude": -48.0304615
+  },
+  {
+    "name": "São Luís",
+    "state": "Maranhão",
+    "stateCode": "MA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 1110000,
+    "latitude": -2.5629101,
+    "longitude": -44.213617
+  },
+  {
+    "name": "Imperatriz",
+    "state": "Maranhão",
+    "stateCode": "MA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 260000,
+    "latitude": -5.5004498,
+    "longitude": -47.4580395
+  },
+  {
+    "name": "São José de Ribamar",
+    "state": "Maranhão",
+    "stateCode": "MA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 180000,
+    "latitude": -2.4821668,
+    "longitude": -44.1913814
+  },
+  {
+    "name": "Timon",
+    "state": "Maranhão",
+    "stateCode": "MA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 170000,
+    "latitude": -5.1069159,
+    "longitude": -42.8241683
+  },
+  {
+    "name": "Caxias",
+    "state": "Maranhão",
+    "stateCode": "MA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 170000,
+    "latitude": -2.5660665,
+    "longitude": -44.213707
+  },
+  {
+    "name": "Codó",
+    "state": "Maranhão",
+    "stateCode": "MA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 120000,
+    "latitude": -4.4510514,
+    "longitude": -43.8733353
+  },
+  {
+    "name": "Paço do Lumiar",
+    "state": "Maranhão",
+    "stateCode": "MA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 120000,
+    "latitude": -2.5410049,
+    "longitude": -44.176281
+  },
+  {
+    "name": "Açailândia",
+    "state": "Maranhão",
+    "stateCode": "MA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 110000,
+    "latitude": -4.9678241,
+    "longitude": -47.4984229
+  },
+  {
+    "name": "Bacabal",
+    "state": "Maranhão",
+    "stateCode": "MA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 100000,
+    "latitude": -4.2253029,
+    "longitude": -44.7586405
+  },
+  {
+    "name": "Balsas",
+    "state": "Maranhão",
+    "stateCode": "MA",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 95000,
+    "latitude": -8.5008789,
+    "longitude": -46.7534042
+  },
+  {
+    "name": "João Pessoa",
+    "state": "Paraíba",
+    "stateCode": "PB",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 820000,
+    "latitude": -7.1375601,
+    "longitude": -34.8467226
+  },
+  {
+    "name": "Campina Grande",
+    "state": "Paraíba",
+    "stateCode": "PB",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 410000,
+    "latitude": -7.2455373,
+    "longitude": -35.8975386
+  },
+  {
+    "name": "Santa Rita",
+    "state": "Paraíba",
+    "stateCode": "PB",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 140000,
+    "latitude": -7.0091797,
+    "longitude": -34.9200724
+  },
+  {
+    "name": "Patos",
+    "state": "Paraíba",
+    "stateCode": "PB",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 110000,
+    "latitude": -7.2231838,
+    "longitude": -38.290701
+  },
+  {
+    "name": "Bayeux",
+    "state": "Paraíba",
+    "stateCode": "PB",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 100000,
+    "latitude": -7.1460302,
+    "longitude": -34.9489279
+  },
+  {
+    "name": "Sousa",
+    "state": "Paraíba",
+    "stateCode": "PB",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 70000,
+    "latitude": -6.7792506,
+    "longitude": -38.2384368
+  },
+  {
+    "name": "Cajazeiras",
+    "state": "Paraíba",
+    "stateCode": "PB",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 60000,
+    "latitude": -6.8923694,
+    "longitude": -38.5592505
+  },
+  {
+    "name": "Cabedelo",
+    "state": "Paraíba",
+    "stateCode": "PB",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 70000,
+    "latitude": -7.0326106,
+    "longitude": -34.8455808
+  },
+  {
+    "name": "Guarabira",
+    "state": "Paraíba",
+    "stateCode": "PB",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 60000,
+    "latitude": -6.8495944,
+    "longitude": -35.4854795
+  },
+  {
+    "name": "Mamanguape",
+    "state": "Paraíba",
+    "stateCode": "PB",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 45000,
+    "latitude": -6.8417535,
+    "longitude": -35.1310054
+  },
+  {
+    "name": "Manaus",
+    "state": "Amazonas",
+    "stateCode": "AM",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 2250000,
+    "latitude": -3.1316333,
+    "longitude": -59.9825041
+  },
+  {
+    "name": "Parintins",
+    "state": "Amazonas",
+    "stateCode": "AM",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 120000,
+    "latitude": -2.6344567,
+    "longitude": -56.7319324
+  },
+  {
+    "name": "Itacoatiara",
+    "state": "Amazonas",
+    "stateCode": "AM",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 100000,
+    "latitude": -3.1477898,
+    "longitude": -58.4461041
+  },
+  {
+    "name": "Manacapuru",
+    "state": "Amazonas",
+    "stateCode": "AM",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 100000,
+    "latitude": -3.2996768,
+    "longitude": -60.6213528
+  },
+  {
+    "name": "Coari",
+    "state": "Amazonas",
+    "stateCode": "AM",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 90000,
+    "latitude": -4.0885957,
+    "longitude": -63.1431166
+  },
+  {
+    "name": "Tefé",
+    "state": "Amazonas",
+    "stateCode": "AM",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 60000,
+    "latitude": -3.3485276,
+    "longitude": -64.7102278
+  },
+  {
+    "name": "Tabatinga",
+    "state": "Amazonas",
+    "stateCode": "AM",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 65000,
+    "latitude": -4.2327349,
+    "longitude": -69.9263372
+  },
+  {
+    "name": "Maués",
+    "state": "Amazonas",
+    "stateCode": "AM",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 65000,
+    "latitude": -3.3795798,
+    "longitude": -57.7196072
+  },
+  {
+    "name": "Humaitá",
+    "state": "Amazonas",
+    "stateCode": "AM",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 55000,
+    "latitude": -7.5099404,
+    "longitude": -63.0248674
+  },
+  {
+    "name": "São Gabriel da Cachoeira",
+    "state": "Amazonas",
+    "stateCode": "AM",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 50000,
+    "latitude": 1.1833206,
+    "longitude": -66.9692207
+  },
+  {
+    "name": "Vila Velha",
+    "state": "Espírito Santo",
+    "stateCode": "ES",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 500000,
+    "latitude": -20.3297037,
+    "longitude": -40.2920174
+  },
+  {
+    "name": "Serra",
+    "state": "Espírito Santo",
+    "stateCode": "ES",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 530000,
+    "latitude": -20.1252961,
+    "longitude": -40.3064477
+  },
+  {
+    "name": "Vitória",
+    "state": "Espírito Santo",
+    "stateCode": "ES",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 370000,
+    "latitude": -20.3200917,
+    "longitude": -40.3376682
+  },
+  {
+    "name": "Cariacica",
+    "state": "Espírito Santo",
+    "stateCode": "ES",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 380000,
+    "latitude": -20.263202,
+    "longitude": -40.416549
+  },
+  {
+    "name": "Cachoeiro de Itapemirim",
+    "state": "Espírito Santo",
+    "stateCode": "ES",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 210000,
+    "latitude": -20.848084,
+    "longitude": -41.11129
+  },
+  {
+    "name": "Linhares",
+    "state": "Espírito Santo",
+    "stateCode": "ES",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 180000,
+    "latitude": -19.3796775,
+    "longitude": -40.0610087
+  },
+  {
+    "name": "São Mateus",
+    "state": "Espírito Santo",
+    "stateCode": "ES",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 130000,
+    "latitude": -18.7146049,
+    "longitude": -39.8539499
+  },
+  {
+    "name": "Colatina",
+    "state": "Espírito Santo",
+    "stateCode": "ES",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 120000,
+    "latitude": -19.5346732,
+    "longitude": -40.6287836
+  },
+  {
+    "name": "Guarapari",
+    "state": "Espírito Santo",
+    "stateCode": "ES",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 130000,
+    "latitude": -20.6718755,
+    "longitude": -40.4984617
+  },
+  {
+    "name": "Aracruz",
+    "state": "Espírito Santo",
+    "stateCode": "ES",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 100000,
+    "latitude": -19.8245218,
+    "longitude": -40.2735025
+  },
+  {
+    "name": "Cuiabá",
+    "state": "Mato Grosso",
+    "stateCode": "MT",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 620000,
+    "latitude": -15.5986686,
+    "longitude": -56.0991301
+  },
+  {
+    "name": "Várzea Grande",
+    "state": "Mato Grosso",
+    "stateCode": "MT",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 290000,
+    "latitude": -15.645816,
+    "longitude": -56.132218
+  },
+  {
+    "name": "Rondonópolis",
+    "state": "Mato Grosso",
+    "stateCode": "MT",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 240000,
+    "latitude": -16.4603533,
+    "longitude": -54.6397099
+  },
+  {
+    "name": "Sinop",
+    "state": "Mato Grosso",
+    "stateCode": "MT",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 140000,
+    "latitude": -11.857701,
+    "longitude": -55.4967824
+  },
+  {
+    "name": "Tangará da Serra",
+    "state": "Mato Grosso",
+    "stateCode": "MT",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 110000,
+    "latitude": -14.6213903,
+    "longitude": -57.4907268
+  },
+  {
+    "name": "Cáceres",
+    "state": "Mato Grosso",
+    "stateCode": "MT",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 90000,
+    "latitude": -16.0644068,
+    "longitude": -57.6878972
+  },
+  {
+    "name": "Sorriso",
+    "state": "Mato Grosso",
+    "stateCode": "MT",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 90000,
+    "latitude": -12.5444887,
+    "longitude": -55.7233972
+  },
+  {
+    "name": "Barra do Garças",
+    "state": "Mato Grosso",
+    "stateCode": "MT",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 60000,
+    "latitude": -15.8916033,
+    "longitude": -52.2615413
+  },
+  {
+    "name": "Lucas do Rio Verde",
+    "state": "Mato Grosso",
+    "stateCode": "MT",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 70000,
+    "latitude": -13.0664609,
+    "longitude": -55.9196711
+  },
+  {
+    "name": "Primavera do Leste",
+    "state": "Mato Grosso",
+    "stateCode": "MT",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 60000,
+    "latitude": -15.5614127,
+    "longitude": -54.2993946
+  },
+  {
+    "name": "Campo Grande",
+    "state": "Mato Grosso do Sul",
+    "stateCode": "MS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 920000,
+    "latitude": -20.4494839,
+    "longitude": -54.6081159
+  },
+  {
+    "name": "Dourados",
+    "state": "Mato Grosso do Sul",
+    "stateCode": "MS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 220000,
+    "latitude": -22.2206145,
+    "longitude": -54.812208
+  },
+  {
+    "name": "Três Lagoas",
+    "state": "Mato Grosso do Sul",
+    "stateCode": "MS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 130000,
+    "latitude": -20.7866799,
+    "longitude": -51.7061247
+  },
+  {
+    "name": "Corumbá",
+    "state": "Mato Grosso do Sul",
+    "stateCode": "MS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 110000,
+    "latitude": -19.0006027,
+    "longitude": -57.6507535
+  },
+  {
+    "name": "Ponta Porã",
+    "state": "Mato Grosso do Sul",
+    "stateCode": "MS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 90000,
+    "latitude": -22.5286917,
+    "longitude": -55.723426
+  },
+  {
+    "name": "Aquidauana",
+    "state": "Mato Grosso do Sul",
+    "stateCode": "MS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 50000,
+    "latitude": -20.473969,
+    "longitude": -55.7821375
+  },
+  {
+    "name": "Nova Andradina",
+    "state": "Mato Grosso do Sul",
+    "stateCode": "MS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 50000,
+    "latitude": -22.2477565,
+    "longitude": -53.3480621
+  },
+  {
+    "name": "Naviraí",
+    "state": "Mato Grosso do Sul",
+    "stateCode": "MS",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 55000,
+    "latitude": -23.0622152,
+    "longitude": -54.2018319
+  },
+  {
+    "name": "Teresina",
+    "state": "Piauí",
+    "stateCode": "PI",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 870000,
+    "latitude": -5.0902277,
+    "longitude": -42.8129529
+  },
+  {
+    "name": "Parnaíba",
+    "state": "Piauí",
+    "stateCode": "PI",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 150000,
+    "latitude": -2.9036875,
+    "longitude": -41.7470181
+  },
+  {
+    "name": "Picos",
+    "state": "Piauí",
+    "stateCode": "PI",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 80000,
+    "latitude": -7.0749132,
+    "longitude": -41.4743602
+  },
+  {
+    "name": "Floriano",
+    "state": "Piauí",
+    "stateCode": "PI",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 60000,
+    "latitude": -7.2852638,
+    "longitude": -44.5033991
+  },
+  {
+    "name": "Piripiri",
+    "state": "Piauí",
+    "stateCode": "PI",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 65000,
+    "latitude": -4.2696965,
+    "longitude": -41.7700739
+  },
+  {
+    "name": "Campo Maior",
+    "state": "Piauí",
+    "stateCode": "PI",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 50000,
+    "latitude": -4.8343194,
+    "longitude": -42.1855532
+  },
+  {
+    "name": "Barras",
+    "state": "Piauí",
+    "stateCode": "PI",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 45000
+  },
+  {
+    "name": "Altos",
+    "state": "Piauí",
+    "stateCode": "PI",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 40000,
+    "latitude": -5.036961,
+    "longitude": -42.46067
+  },
+  {
+    "name": "Maceió",
+    "state": "Alagoas",
+    "stateCode": "AL",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 1030000,
+    "latitude": -9.6585925,
+    "longitude": -35.7172813
+  },
+  {
+    "name": "Arapiraca",
+    "state": "Alagoas",
+    "stateCode": "AL",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 240000,
+    "latitude": -9.7788325,
+    "longitude": -36.6440195
+  },
+  {
+    "name": "Rio Largo",
+    "state": "Alagoas",
+    "stateCode": "AL",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 75000,
+    "latitude": -9.5146798,
+    "longitude": -35.7930271
+  },
+  {
+    "name": "Palmeira dos Índios",
+    "state": "Alagoas",
+    "stateCode": "AL",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 75000,
+    "latitude": -9.4146949,
+    "longitude": -36.6417712
+  },
+  {
+    "name": "União dos Palmares",
+    "state": "Alagoas",
+    "stateCode": "AL",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 70000,
+    "latitude": -9.3130954,
+    "longitude": -35.9451097
+  },
+  {
+    "name": "Penedo",
+    "state": "Alagoas",
+    "stateCode": "AL",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 65000,
+    "latitude": -10.2934458,
+    "longitude": -36.5849059
+  },
+  {
+    "name": "Delmiro Gouveia",
+    "state": "Alagoas",
+    "stateCode": "AL",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 50000,
+    "latitude": -9.3849767,
+    "longitude": -37.9976586
+  },
+  {
+    "name": "São Miguel dos Campos",
+    "state": "Alagoas",
+    "stateCode": "AL",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 60000,
+    "latitude": -9.7062303,
+    "longitude": -36.0544647
+  },
+  {
+    "name": "Natal",
+    "state": "Rio Grande do Norte",
+    "stateCode": "RN",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 890000,
+    "latitude": -5.8193078,
+    "longitude": -35.2126281
+  },
+  {
+    "name": "Mossoró",
+    "state": "Rio Grande do Norte",
+    "stateCode": "RN",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 300000,
+    "latitude": -5.1506216,
+    "longitude": -37.3640177
+  },
+  {
+    "name": "Parnamirim",
+    "state": "Rio Grande do Norte",
+    "stateCode": "RN",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 270000,
+    "latitude": -5.9669248,
+    "longitude": -35.1349279
+  },
+  {
+    "name": "São Gonçalo do Amarante",
+    "state": "Rio Grande do Norte",
+    "stateCode": "RN",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 100000,
+    "latitude": -5.7803095,
+    "longitude": -35.3134705
+  },
+  {
+    "name": "Macaíba",
+    "state": "Rio Grande do Norte",
+    "stateCode": "RN",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 80000,
+    "latitude": -5.9439116,
+    "longitude": -35.3018215
+  },
+  {
+    "name": "Ceará-Mirim",
+    "state": "Rio Grande do Norte",
+    "stateCode": "RN",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 75000,
+    "latitude": -5.6405795,
+    "longitude": -35.4192696
+  },
+  {
+    "name": "Caicó",
+    "state": "Rio Grande do Norte",
+    "stateCode": "RN",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 70000,
+    "latitude": -6.4694136,
+    "longitude": -37.0917641
+  },
+  {
+    "name": "Açu",
+    "state": "Rio Grande do Norte",
+    "stateCode": "RN",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 60000,
+    "latitude": -5.5737869,
+    "longitude": -36.9121749
+  },
+  {
+    "name": "Aracaju",
+    "state": "Sergipe",
+    "stateCode": "SE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 660000,
+    "latitude": -10.9698459,
+    "longitude": -37.0362509
+  },
+  {
+    "name": "Nossa Senhora do Socorro",
+    "state": "Sergipe",
+    "stateCode": "SE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 190000,
+    "latitude": -10.8929145,
+    "longitude": -37.1448871
+  },
+  {
+    "name": "Lagarto",
+    "state": "Sergipe",
+    "stateCode": "SE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 110000,
+    "latitude": -10.9236794,
+    "longitude": -37.6579081
+  },
+  {
+    "name": "Itabaiana",
+    "state": "Sergipe",
+    "stateCode": "SE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 95000,
+    "latitude": -10.6977591,
+    "longitude": -37.4286624
+  },
+  {
+    "name": "Estância",
+    "state": "Sergipe",
+    "stateCode": "SE",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 70000,
+    "latitude": -23.5436925,
+    "longitude": -47.1281769
+  },
+  {
+    "name": "Porto Velho",
+    "state": "Rondônia",
+    "stateCode": "RO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 540000,
+    "latitude": -8.7494525,
+    "longitude": -63.8735438
+  },
+  {
+    "name": "Ji-Paraná",
+    "state": "Rondônia",
+    "stateCode": "RO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 130000,
+    "latitude": -10.8778148,
+    "longitude": -61.9277854
+  },
+  {
+    "name": "Ariquemes",
+    "state": "Rondônia",
+    "stateCode": "RO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 110000,
+    "latitude": -9.9076522,
+    "longitude": -63.033069
+  },
+  {
+    "name": "Vilhena",
+    "state": "Rondônia",
+    "stateCode": "RO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 100000,
+    "latitude": -12.7368536,
+    "longitude": -60.1465555
+  },
+  {
+    "name": "Cacoal",
+    "state": "Rondônia",
+    "stateCode": "RO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 90000,
+    "latitude": -11.4333,
+    "longitude": -61.4420502
+  },
+  {
+    "name": "Palmas",
+    "state": "Tocantins",
+    "stateCode": "TO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 310000,
+    "latitude": -10.1837852,
+    "longitude": -48.3336423
+  },
+  {
+    "name": "Araguaína",
+    "state": "Tocantins",
+    "stateCode": "TO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 180000,
+    "latitude": -7.193241,
+    "longitude": -48.2018597
+  },
+  {
+    "name": "Gurupi",
+    "state": "Tocantins",
+    "stateCode": "TO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 90000,
+    "latitude": -11.72794,
+    "longitude": -49.068046
+  },
+  {
+    "name": "Porto Nacional",
+    "state": "Tocantins",
+    "stateCode": "TO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 55000,
+    "latitude": -10.7019786,
+    "longitude": -48.4110952
+  },
+  {
+    "name": "Paraíso do Tocantins",
+    "state": "Tocantins",
+    "stateCode": "TO",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 50000,
+    "latitude": -10.1752474,
+    "longitude": -48.886759
+  },
+  {
+    "name": "Rio Branco",
+    "state": "Acre",
+    "stateCode": "AC",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 420000,
+    "latitude": -9.9765362,
+    "longitude": -67.8220778
+  },
+  {
+    "name": "Cruzeiro do Sul",
+    "state": "Acre",
+    "stateCode": "AC",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 90000,
+    "latitude": -7.6362478,
+    "longitude": -72.6691649
+  },
+  {
+    "name": "Sena Madureira",
+    "state": "Acre",
+    "stateCode": "AC",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 45000,
+    "latitude": -9.133307,
+    "longitude": -68.584657
+  },
+  {
+    "name": "Macapá",
+    "state": "Amapá",
+    "stateCode": "AP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 520000,
+    "latitude": 0.0401529,
+    "longitude": -51.0569588
+  },
+  {
+    "name": "Santana",
+    "state": "Amapá",
+    "stateCode": "AP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 120000,
+    "latitude": -0.0307068,
+    "longitude": -51.1789666
+  },
+  {
+    "name": "Laranjal do Jari",
+    "state": "Amapá",
+    "stateCode": "AP",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 50000,
+    "latitude": -0.8419994,
+    "longitude": -52.516
+  },
+  {
+    "name": "Boa Vista",
+    "state": "Roraima",
+    "stateCode": "RR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 440000,
+    "latitude": 2.8208478,
+    "longitude": -60.6719582
+  },
+  {
+    "name": "Rorainópolis",
+    "state": "Roraima",
+    "stateCode": "RR",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 35000,
+    "latitude": 0.9387308,
+    "longitude": -60.4236464
+  },
+  {
+    "name": "Brasília",
+    "state": "Distrito Federal",
+    "stateCode": "DF",
+    "country": "Brasil",
+    "countryCode": "BR",
+    "population": 3100000,
+    "latitude": -15.7939869,
+    "longitude": -47.8828
+  },
+  {
+    "name": "Los Angeles",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 4000000,
+    "latitude": 34.625739,
+    "longitude": -118.0826393
+  },
+  {
+    "name": "San Diego",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 1420000,
+    "latitude": 32.7823054,
+    "longitude": -117.1710146
+  },
+  {
+    "name": "San Jose",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 1030000,
+    "latitude": 37.3335194,
+    "longitude": -121.885444
+  },
+  {
+    "name": "San Francisco",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 880000,
+    "latitude": 37.7855789,
+    "longitude": -122.4298089
+  },
+  {
+    "name": "Fresno",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 540000,
+    "latitude": 36.7584751,
+    "longitude": -119.8004913
+  },
+  {
+    "name": "Sacramento",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 520000,
+    "latitude": 38.5834394,
+    "longitude": -121.4986466
+  },
+  {
+    "name": "Long Beach",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 460000,
+    "latitude": 33.760599,
+    "longitude": -118.136229
+  },
+  {
+    "name": "Oakland",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 430000,
+    "latitude": 37.8003788,
+    "longitude": -122.271539
+  },
+  {
+    "name": "Bakersfield",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 400000
+  },
+  {
+    "name": "Anaheim",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 350000,
+    "latitude": 33.8663213,
+    "longitude": -117.744201
+  },
+  {
+    "name": "Santa Ana",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 330000,
+    "latitude": 33.7485238,
+    "longitude": -117.8715278
+  },
+  {
+    "name": "Riverside",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 330000,
+    "latitude": 38.5193511,
+    "longitude": -121.513844
+  },
+  {
+    "name": "Stockton",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 320000,
+    "latitude": 37.9545612,
+    "longitude": -121.3424911
+  },
+  {
+    "name": "Irvine",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 310000,
+    "latitude": 33.6667893,
+    "longitude": -117.7674067
+  },
+  {
+    "name": "Chula Vista",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 280000
+  },
+  {
+    "name": "Fremont",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 240000,
+    "latitude": 37.5690246,
+    "longitude": -121.9775908
+  },
+  {
+    "name": "San Bernardino",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 220000,
+    "latitude": 34.5660334,
+    "longitude": -117.370661
+  },
+  {
+    "name": "Modesto",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 220000,
+    "latitude": 37.688139,
+    "longitude": -120.9557999
+  },
+  {
+    "name": "Fontana",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 210000
+  },
+  {
+    "name": "Oxnard",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 210000,
+    "latitude": 34.1784506,
+    "longitude": -118.5942855
+  },
+  {
+    "name": "Moreno Valley",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 210000,
+    "latitude": 33.9113892,
+    "longitude": -117.245752
+  },
+  {
+    "name": "Huntington Beach",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000
+  },
+  {
+    "name": "Glendale",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000,
+    "latitude": 34.146653,
+    "longitude": -118.2519948
+  },
+  {
+    "name": "Santa Clarita",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 220000,
+    "latitude": 34.4222887,
+    "longitude": -118.5617373
+  },
+  {
+    "name": "Garden Grove",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 170000,
+    "latitude": 33.7927244,
+    "longitude": -118.0027933
+  },
+  {
+    "name": "Oceanside",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 180000,
+    "latitude": 33.1990582,
+    "longitude": -117.3684665
+  },
+  {
+    "name": "Rancho Cucamonga",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 180000
+  },
+  {
+    "name": "Ontario",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 180000,
+    "latitude": 34.0879719,
+    "longitude": -117.6338839
+  },
+  {
+    "name": "Lancaster",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 170000,
+    "latitude": 34.6873368,
+    "longitude": -118.1487951
+  },
+  {
+    "name": "Elk Grove",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 180000,
+    "latitude": 38.4264497,
+    "longitude": -121.41687
+  },
+  {
+    "name": "Corona",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 170000,
+    "latitude": 33.8533024,
+    "longitude": -117.5384488
+  },
+  {
+    "name": "Palmdale",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 170000,
+    "latitude": 34.625739,
+    "longitude": -118.0826393
+  },
+  {
+    "name": "Salinas",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 160000,
+    "latitude": 36.6751579,
+    "longitude": -121.6593448
+  },
+  {
+    "name": "Pomona",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000,
+    "latitude": 38.0525534,
+    "longitude": -122.2167158
+  },
+  {
+    "name": "Hayward",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 160000
+  },
+  {
+    "name": "Escondido",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000,
+    "latitude": 33.1364453,
+    "longitude": -117.056145
+  },
+  {
+    "name": "Torrance",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000,
+    "latitude": 33.840323,
+    "longitude": -118.358531
+  },
+  {
+    "name": "Sunnyvale",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 160000,
+    "latitude": 37.3518654,
+    "longitude": -122.033845
+  },
+  {
+    "name": "Orange",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 140000,
+    "latitude": 33.6216292,
+    "longitude": -117.702503
+  },
+  {
+    "name": "Fullerton",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 140000,
+    "latitude": 33.8736088,
+    "longitude": -117.9033896
+  },
+  {
+    "name": "Pasadena",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 140000,
+    "latitude": 34.1356057,
+    "longitude": -118.127028
+  },
+  {
+    "name": "Thousand Oaks",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 130000,
+    "latitude": 34.1942067,
+    "longitude": -118.9471296
+  },
+  {
+    "name": "Visalia",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 140000
+  },
+  {
+    "name": "Simi Valley",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 130000
+  },
+  {
+    "name": "Concord",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 130000,
+    "latitude": 37.9635888,
+    "longitude": -121.992359
+  },
+  {
+    "name": "Roseville",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000,
+    "latitude": 38.7481396,
+    "longitude": -121.262658
+  },
+  {
+    "name": "Santa Rosa",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 180000
+  },
+  {
+    "name": "Victorville",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 130000,
+    "latitude": 34.5660334,
+    "longitude": -117.370661
+  },
+  {
+    "name": "Vallejo",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 120000,
+    "latitude": 38.1192412,
+    "longitude": -122.2512474
+  },
+  {
+    "name": "Berkeley",
+    "state": "California",
+    "stateCode": "CA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 120000,
+    "latitude": 37.8681873,
+    "longitude": -122.2585175
+  },
+  {
+    "name": "Houston",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 2300000,
+    "latitude": 29.7576507,
+    "longitude": -95.3615081
+  },
+  {
+    "name": "San Antonio",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 1550000,
+    "latitude": 29.461343,
+    "longitude": -98.4380715
+  },
+  {
+    "name": "Dallas",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 1350000,
+    "latitude": 32.7712841,
+    "longitude": -96.8988712
+  },
+  {
+    "name": "Austin",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 980000,
+    "latitude": 30.268082,
+    "longitude": -97.7483738
+  },
+  {
+    "name": "Fort Worth",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 920000,
+    "latitude": 32.6857767,
+    "longitude": -97.2794642
+  },
+  {
+    "name": "El Paso",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 680000,
+    "latitude": 31.707594,
+    "longitude": -106.3136181
+  },
+  {
+    "name": "Arlington",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 400000,
+    "latitude": 32.7189983,
+    "longitude": -97.0485417
+  },
+  {
+    "name": "Corpus Christi",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 330000,
+    "latitude": 27.6677324,
+    "longitude": -97.2868305
+  },
+  {
+    "name": "Plano",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 290000
+  },
+  {
+    "name": "Laredo",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 260000,
+    "latitude": 27.5067767,
+    "longitude": -99.508938
+  },
+  {
+    "name": "Lubbock",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 260000,
+    "latitude": 33.6805642,
+    "longitude": -101.9944651
+  },
+  {
+    "name": "Garland",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 240000,
+    "latitude": 32.8304235,
+    "longitude": -96.7077493
+  },
+  {
+    "name": "Irving",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 240000,
+    "latitude": 32.8977035,
+    "longitude": -96.9783551
+  },
+  {
+    "name": "Amarillo",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000,
+    "latitude": 35.2087607,
+    "longitude": -101.8349119
+  },
+  {
+    "name": "Grand Prairie",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000
+  },
+  {
+    "name": "Brownsville",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 180000,
+    "latitude": 25.931914,
+    "longitude": -97.4989244
+  },
+  {
+    "name": "McKinney",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000,
+    "latitude": 30.213876,
+    "longitude": -97.7321725
+  },
+  {
+    "name": "Frisco",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000
+  },
+  {
+    "name": "Pasadena",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000
+  },
+  {
+    "name": "Mesquite",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 140000,
+    "latitude": 32.7750979,
+    "longitude": -96.5981588
+  },
+  {
+    "name": "Killeen",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000
+  },
+  {
+    "name": "McAllen",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 140000
+  },
+  {
+    "name": "Waco",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 140000,
+    "latitude": 31.586298,
+    "longitude": -97.1783425
+  },
+  {
+    "name": "Carrollton",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 140000,
+    "latitude": 32.9750377,
+    "longitude": -96.8863469
+  },
+  {
+    "name": "Denton",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000,
+    "latitude": 33.2900815,
+    "longitude": -97.1344533
+  },
+  {
+    "name": "Midland",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 140000,
+    "latitude": 31.9971001,
+    "longitude": -102.0729213
+  },
+  {
+    "name": "Abilene",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 125000,
+    "latitude": 32.4522073,
+    "longitude": -99.7325012
+  },
+  {
+    "name": "Beaumont",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 120000,
+    "latitude": 29.9588441,
+    "longitude": -94.0796034
+  },
+  {
+    "name": "Round Rock",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 130000
+  },
+  {
+    "name": "Odessa",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 120000,
+    "latitude": 31.8275059,
+    "longitude": -102.3551174
+  },
+  {
+    "name": "Wichita Falls",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 105000,
+    "latitude": 33.9086386,
+    "longitude": -98.4915192
+  },
+  {
+    "name": "Richardson",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 120000,
+    "latitude": 32.9574871,
+    "longitude": -96.7684778
+  },
+  {
+    "name": "Lewisville",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000
+  },
+  {
+    "name": "Tyler",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000,
+    "latitude": 32.2708583,
+    "longitude": -95.2568652
+  },
+  {
+    "name": "College Station",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 120000,
+    "latitude": 30.618147,
+    "longitude": -96.3449761
+  },
+  {
+    "name": "Pearland",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 130000,
+    "latitude": 29.5592145,
+    "longitude": -95.2890349
+  },
+  {
+    "name": "San Angelo",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000,
+    "latitude": 31.46182,
+    "longitude": -100.4455579
+  },
+  {
+    "name": "Allen",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 105000
+  },
+  {
+    "name": "League City",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000
+  },
+  {
+    "name": "Sugar Land",
+    "state": "Texas",
+    "stateCode": "TX",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 120000,
+    "latitude": 29.587463,
+    "longitude": -95.6176359
+  },
+  {
+    "name": "Jacksonville",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 950000,
+    "latitude": 30.3296041,
+    "longitude": -81.6606327
+  },
+  {
+    "name": "Miami",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 470000,
+    "latitude": 25.779269,
+    "longitude": -80.1987314
+  },
+  {
+    "name": "Tampa",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 400000,
+    "latitude": 27.9514896,
+    "longitude": -82.4581066
+  },
+  {
+    "name": "Orlando",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 310000,
+    "latitude": 28.5367896,
+    "longitude": -81.3975733
+  },
+  {
+    "name": "St. Petersburg",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 270000,
+    "latitude": 27.8438691,
+    "longitude": -82.6429194
+  },
+  {
+    "name": "Hialeah",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 240000,
+    "latitude": 25.8061627,
+    "longitude": -80.3482693
+  },
+  {
+    "name": "Port St. Lucie",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000,
+    "latitude": 27.3026389,
+    "longitude": -80.3264776
+  },
+  {
+    "name": "Tallahassee",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000,
+    "latitude": 30.4387238,
+    "longitude": -84.3203972
+  },
+  {
+    "name": "Cape Coral",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000,
+    "latitude": 26.6864871,
+    "longitude": -81.9174735
+  },
+  {
+    "name": "Fort Lauderdale",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 180000,
+    "latitude": 26.1225357,
+    "longitude": -80.2007361
+  },
+  {
+    "name": "Pembroke Pines",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 170000,
+    "latitude": 25.9958333,
+    "longitude": -80.2322222
+  },
+  {
+    "name": "Hollywood",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000,
+    "latitude": 26.0107441,
+    "longitude": -80.1882631
+  },
+  {
+    "name": "Miramar",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 140000
+  },
+  {
+    "name": "Coral Springs",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 130000,
+    "latitude": 26.237646,
+    "longitude": -80.24381
+  },
+  {
+    "name": "Clearwater",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 120000,
+    "latitude": 27.9629559,
+    "longitude": -82.7469201
+  },
+  {
+    "name": "Miami Gardens",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000
+  },
+  {
+    "name": "Palm Bay",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 120000,
+    "latitude": 28.0367939,
+    "longitude": -80.6058663
+  },
+  {
+    "name": "Pompano Beach",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000
+  },
+  {
+    "name": "West Palm Beach",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000,
+    "latitude": 26.5846416,
+    "longitude": -80.0524903
+  },
+  {
+    "name": "Lakeland",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000,
+    "latitude": 28.0307744,
+    "longitude": -81.9442971
+  },
+  {
+    "name": "Davie",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000,
+    "latitude": 26.1101289,
+    "longitude": -80.3033976
+  },
+  {
+    "name": "Miami Beach",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 90000,
+    "latitude": 25.8130479,
+    "longitude": -80.1286761
+  },
+  {
+    "name": "Sunrise",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 95000
+  },
+  {
+    "name": "Plantation",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 95000,
+    "latitude": 26.1225357,
+    "longitude": -80.2007361
+  },
+  {
+    "name": "Boca Raton",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000,
+    "latitude": 26.3764921,
+    "longitude": -80.1189728
+  },
+  {
+    "name": "Deltona",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 90000
+  },
+  {
+    "name": "Largo",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 85000
+  },
+  {
+    "name": "Deerfield Beach",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 80000,
+    "latitude": 26.318701,
+    "longitude": -80.1326221
+  },
+  {
+    "name": "Palm Coast",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 90000
+  },
+  {
+    "name": "Melbourne",
+    "state": "Florida",
+    "stateCode": "FL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 85000
+  },
+  {
+    "name": "New York City",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 8400000,
+    "latitude": 40.7372329,
+    "longitude": -73.862477
+  },
+  {
+    "name": "Buffalo",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 255000,
+    "latitude": 42.8875205,
+    "longitude": -78.8784365
+  },
+  {
+    "name": "Rochester",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 210000,
+    "latitude": 41.787386,
+    "longitude": -74.2723608
+  },
+  {
+    "name": "Yonkers",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 210000,
+    "latitude": 40.967601,
+    "longitude": -73.8813971
+  },
+  {
+    "name": "Syracuse",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 145000,
+    "latitude": 43.0524397,
+    "longitude": -76.121084
+  },
+  {
+    "name": "Albany",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000,
+    "latitude": 42.6495727,
+    "longitude": -73.7500522
+  },
+  {
+    "name": "New Rochelle",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 80000
+  },
+  {
+    "name": "Mount Vernon",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 68000
+  },
+  {
+    "name": "Schenectady",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 66000,
+    "latitude": 42.8682838,
+    "longitude": -73.9309121
+  },
+  {
+    "name": "Utica",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 60000,
+    "latitude": 43.1021707,
+    "longitude": -75.2311787
+  },
+  {
+    "name": "White Plains",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 60000,
+    "latitude": 40.8926045,
+    "longitude": -73.8580405
+  },
+  {
+    "name": "Hempstead",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 55000,
+    "latitude": 40.7294443,
+    "longitude": -73.6138524
+  },
+  {
+    "name": "Troy",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 50000,
+    "latitude": 42.6810219,
+    "longitude": -73.6965193
+  },
+  {
+    "name": "Niagara Falls",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 48000,
+    "latitude": 43.0982825,
+    "longitude": -78.9479429
+  },
+  {
+    "name": "Binghamton",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 45000,
+    "latitude": 42.1023144,
+    "longitude": -75.9066983
+  },
+  {
+    "name": "Freeport",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 43000
+  },
+  {
+    "name": "Valley Stream",
+    "state": "New York",
+    "stateCode": "NY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 40000
+  },
+  {
+    "name": "Chicago",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 2700000,
+    "latitude": 41.8761619,
+    "longitude": -87.64019
+  },
+  {
+    "name": "Aurora",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 180000,
+    "latitude": 41.7290483,
+    "longitude": -88.3409857
+  },
+  {
+    "name": "Naperville",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000,
+    "latitude": 41.7716787,
+    "longitude": -88.1618821
+  },
+  {
+    "name": "Joliet",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000,
+    "latitude": 41.5271463,
+    "longitude": -88.0796496
+  },
+  {
+    "name": "Rockford",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000,
+    "latitude": 42.2577572,
+    "longitude": -89.0805195
+  },
+  {
+    "name": "Springfield",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 115000,
+    "latitude": 39.8328374,
+    "longitude": -89.6292515
+  },
+  {
+    "name": "Elgin",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000,
+    "latitude": 42.0384143,
+    "longitude": -88.2859395
+  },
+  {
+    "name": "Peoria",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000,
+    "latitude": 40.7095821,
+    "longitude": -89.6139856
+  },
+  {
+    "name": "Champaign",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 90000,
+    "latitude": 40.1867646,
+    "longitude": -88.38075
+  },
+  {
+    "name": "Waukegan",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 90000,
+    "latitude": 42.3649329,
+    "longitude": -87.8317652
+  },
+  {
+    "name": "Cicero",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 80000,
+    "latitude": 41.8463042,
+    "longitude": -87.7543519
+  },
+  {
+    "name": "Bloomington",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 80000,
+    "latitude": 40.4626219,
+    "longitude": -88.9751558
+  },
+  {
+    "name": "Arlington Heights",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 75000,
+    "latitude": 42.1153138,
+    "longitude": -87.9845287
+  },
+  {
+    "name": "Evanston",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 75000,
+    "latitude": 42.0340871,
+    "longitude": -87.6806525
+  },
+  {
+    "name": "Decatur",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 70000
+  },
+  {
+    "name": "Philadelphia",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 1600000,
+    "latitude": 39.9533292,
+    "longitude": -75.1474228
+  },
+  {
+    "name": "Pittsburgh",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 305000,
+    "latitude": 40.4427339,
+    "longitude": -79.9941127
+  },
+  {
+    "name": "Allentown",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 125000,
+    "latitude": 40.60305,
+    "longitude": -75.4672184
+  },
+  {
+    "name": "Erie",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 95000,
+    "latitude": 42.128899,
+    "longitude": -80.0842299
+  },
+  {
+    "name": "Reading",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 95000
+  },
+  {
+    "name": "Scranton",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 77000,
+    "latitude": 41.4078366,
+    "longitude": -75.6670621
+  },
+  {
+    "name": "Bethlehem",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 77000,
+    "latitude": 40.6176483,
+    "longitude": -75.3440427
+  },
+  {
+    "name": "Lancaster",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 60000,
+    "latitude": 40.0408256,
+    "longitude": -76.3075376
+  },
+  {
+    "name": "Harrisburg",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 50000,
+    "latitude": 40.2567317,
+    "longitude": -76.8563108
+  },
+  {
+    "name": "Altoona",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 43000
+  },
+  {
+    "name": "York",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 45000,
+    "latitude": 39.9334978,
+    "longitude": -76.6881555
+  },
+  {
+    "name": "State College",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 42000,
+    "latitude": 40.792023,
+    "longitude": -77.8604383
+  },
+  {
+    "name": "Phoenix",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 1700000,
+    "latitude": 33.4477432,
+    "longitude": -112.0804769
+  },
+  {
+    "name": "Tucson",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 550000,
+    "latitude": 32.0837926,
+    "longitude": -110.8670936
+  },
+  {
+    "name": "Mesa",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 510000,
+    "latitude": 33.4151524,
+    "longitude": -111.8272129
+  },
+  {
+    "name": "Chandler",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 280000,
+    "latitude": 33.3053654,
+    "longitude": -111.8381273
+  },
+  {
+    "name": "Scottsdale",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 260000,
+    "latitude": 33.6905206,
+    "longitude": -111.9215652
+  },
+  {
+    "name": "Glendale",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 250000,
+    "latitude": 33.5349936,
+    "longitude": -112.3560366
+  },
+  {
+    "name": "Gilbert",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 260000,
+    "latitude": 33.3459889,
+    "longitude": -111.754688
+  },
+  {
+    "name": "Tempe",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000,
+    "latitude": 33.3920517,
+    "longitude": -111.935548
+  },
+  {
+    "name": "Peoria",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 180000
+  },
+  {
+    "name": "Surprise",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000,
+    "latitude": 33.6377421,
+    "longitude": -112.3819315
+  },
+  {
+    "name": "Yuma",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000,
+    "latitude": 32.7257203,
+    "longitude": -114.6207276
+  },
+  {
+    "name": "Avondale",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 90000
+  },
+  {
+    "name": "Goodyear",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 90000,
+    "latitude": 33.4383783,
+    "longitude": -112.3914597
+  },
+  {
+    "name": "Flagstaff",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 75000,
+    "latitude": 35.2149309,
+    "longitude": -111.6342716
+  },
+  {
+    "name": "Buckeye",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 90000,
+    "latitude": 33.374294,
+    "longitude": -112.5861263
+  },
+  {
+    "name": "Columbus",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 900000,
+    "latitude": 40.1246672,
+    "longitude": -83.0868282
+  },
+  {
+    "name": "Cleveland",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 380000,
+    "latitude": 41.5006929,
+    "longitude": -81.692725
+  },
+  {
+    "name": "Cincinnati",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 310000,
+    "latitude": 39.1018924,
+    "longitude": -84.5106692
+  },
+  {
+    "name": "Toledo",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 270000,
+    "latitude": 41.657472,
+    "longitude": -83.5360656
+  },
+  {
+    "name": "Akron",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 190000,
+    "latitude": 41.0651287,
+    "longitude": -81.5192568
+  },
+  {
+    "name": "Dayton",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 140000,
+    "latitude": 39.7586562,
+    "longitude": -84.1945479
+  },
+  {
+    "name": "Parma",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 78000,
+    "latitude": 41.3798835,
+    "longitude": -81.7385925
+  },
+  {
+    "name": "Canton",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 71000,
+    "latitude": 40.7973856,
+    "longitude": -81.3794383
+  },
+  {
+    "name": "Youngstown",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 64000,
+    "latitude": 41.1011248,
+    "longitude": -80.6478668
+  },
+  {
+    "name": "Lorain",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 64000,
+    "latitude": 41.1691841,
+    "longitude": -82.2176798
+  },
+  {
+    "name": "Hamilton",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 63000,
+    "latitude": 39.1018924,
+    "longitude": -84.5106692
+  },
+  {
+    "name": "Springfield",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 58000,
+    "latitude": 40.7606696,
+    "longitude": -82.6461118
+  },
+  {
+    "name": "Charlotte",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 890000,
+    "latitude": 35.2188289,
+    "longitude": -80.8056064
+  },
+  {
+    "name": "Raleigh",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 480000,
+    "latitude": 35.780541,
+    "longitude": -78.6341598
+  },
+  {
+    "name": "Greensboro",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 300000,
+    "latitude": 36.0723081,
+    "longitude": -79.7957676
+  },
+  {
+    "name": "Durham",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 280000,
+    "latitude": 35.9972411,
+    "longitude": -78.9002967
+  },
+  {
+    "name": "Winston-Salem",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 250000,
+    "latitude": 36.1001374,
+    "longitude": -80.2456049
+  },
+  {
+    "name": "Fayetteville",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 210000,
+    "latitude": 35.0562745,
+    "longitude": -78.8778739
+  },
+  {
+    "name": "Cary",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 180000
+  },
+  {
+    "name": "Wilmington",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 125000,
+    "latitude": 34.0628806,
+    "longitude": -77.9127423
+  },
+  {
+    "name": "High Point",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 115000,
+    "latitude": 35.9908454,
+    "longitude": -79.9576287
+  },
+  {
+    "name": "Concord",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000
+  },
+  {
+    "name": "Asheville",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 95000,
+    "latitude": 35.5930573,
+    "longitude": -82.5557472
+  },
+  {
+    "name": "Gastonia",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 80000,
+    "latitude": 35.2440363,
+    "longitude": -81.1336619
+  },
+  {
+    "name": "Detroit",
+    "state": "Michigan",
+    "stateCode": "MI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 670000,
+    "latitude": 42.3303698,
+    "longitude": -83.0496284
+  },
+  {
+    "name": "Grand Rapids",
+    "state": "Michigan",
+    "stateCode": "MI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000,
+    "latitude": 42.9699844,
+    "longitude": -85.6708999
+  },
+  {
+    "name": "Warren",
+    "state": "Michigan",
+    "stateCode": "MI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 135000,
+    "latitude": 42.50192,
+    "longitude": -83.0476902
+  },
+  {
+    "name": "Sterling Heights",
+    "state": "Michigan",
+    "stateCode": "MI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 135000
+  },
+  {
+    "name": "Ann Arbor",
+    "state": "Michigan",
+    "stateCode": "MI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 125000,
+    "latitude": 42.3108985,
+    "longitude": -83.6916935
+  },
+  {
+    "name": "Lansing",
+    "state": "Michigan",
+    "stateCode": "MI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 118000,
+    "latitude": 42.7417461,
+    "longitude": -84.5128481
+  },
+  {
+    "name": "Flint",
+    "state": "Michigan",
+    "stateCode": "MI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 95000,
+    "latitude": 42.988021,
+    "longitude": -83.7731456
+  },
+  {
+    "name": "Dearborn",
+    "state": "Michigan",
+    "stateCode": "MI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 94000,
+    "latitude": 42.3122053,
+    "longitude": -83.1907224
+  },
+  {
+    "name": "Livonia",
+    "state": "Michigan",
+    "stateCode": "MI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 93000
+  },
+  {
+    "name": "Troy",
+    "state": "Michigan",
+    "stateCode": "MI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 87000,
+    "latitude": 42.5568319,
+    "longitude": -83.1151169
+  },
+  {
+    "name": "Seattle",
+    "state": "Washington",
+    "stateCode": "WA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 750000,
+    "latitude": 47.615296,
+    "longitude": -122.3365187
+  },
+  {
+    "name": "Spokane",
+    "state": "Washington",
+    "stateCode": "WA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 230000,
+    "latitude": 47.6719602,
+    "longitude": -117.416324
+  },
+  {
+    "name": "Tacoma",
+    "state": "Washington",
+    "stateCode": "WA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 220000,
+    "latitude": 47.2463206,
+    "longitude": -122.4360875
+  },
+  {
+    "name": "Vancouver",
+    "state": "Washington",
+    "stateCode": "WA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 190000,
+    "latitude": 45.6405202,
+    "longitude": -122.624165
+  },
+  {
+    "name": "Bellevue",
+    "state": "Washington",
+    "stateCode": "WA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000,
+    "latitude": 47.5843301,
+    "longitude": -122.1612267
+  },
+  {
+    "name": "Kent",
+    "state": "Washington",
+    "stateCode": "WA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 135000
+  },
+  {
+    "name": "Everett",
+    "state": "Washington",
+    "stateCode": "WA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000
+  },
+  {
+    "name": "Renton",
+    "state": "Washington",
+    "stateCode": "WA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 105000,
+    "latitude": 47.4292144,
+    "longitude": -122.1452408
+  },
+  {
+    "name": "Spokane Valley",
+    "state": "Washington",
+    "stateCode": "WA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000
+  },
+  {
+    "name": "Federal Way",
+    "state": "Washington",
+    "stateCode": "WA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000,
+    "latitude": 47.3071004,
+    "longitude": -122.314387
+  },
+  {
+    "name": "Denver",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 720000,
+    "latitude": 39.7336176,
+    "longitude": -104.8927073
+  },
+  {
+    "name": "Colorado Springs",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 480000,
+    "latitude": 38.9912381,
+    "longitude": -104.8588346
+  },
+  {
+    "name": "Aurora",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 380000,
+    "latitude": 39.6971427,
+    "longitude": -104.863084
+  },
+  {
+    "name": "Fort Collins",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 170000,
+    "latitude": 40.5251138,
+    "longitude": -105.04991
+  },
+  {
+    "name": "Lakewood",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 155000,
+    "latitude": 39.7471966,
+    "longitude": -105.0574306
+  },
+  {
+    "name": "Thornton",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 145000,
+    "latitude": 39.8571703,
+    "longitude": -104.977394
+  },
+  {
+    "name": "Arvada",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 125000
+  },
+  {
+    "name": "Westminster",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 115000,
+    "latitude": 39.862318,
+    "longitude": -105.0517284
+  },
+  {
+    "name": "Pueblo",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000,
+    "latitude": 38.2552072,
+    "longitude": -104.6066492
+  },
+  {
+    "name": "Centennial",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000,
+    "latitude": 38.9046809,
+    "longitude": -104.8583045
+  },
+  {
+    "name": "Boston",
+    "state": "Massachusetts",
+    "stateCode": "MA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 690000,
+    "latitude": 42.3557866,
+    "longitude": -71.0521134
+  },
+  {
+    "name": "Worcester",
+    "state": "Massachusetts",
+    "stateCode": "MA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 205000,
+    "latitude": 42.265433,
+    "longitude": -71.7944918
+  },
+  {
+    "name": "Springfield",
+    "state": "Massachusetts",
+    "stateCode": "MA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 155000,
+    "latitude": 42.1050026,
+    "longitude": -72.583094
+  },
+  {
+    "name": "Cambridge",
+    "state": "Massachusetts",
+    "stateCode": "MA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 120000,
+    "latitude": 42.3682922,
+    "longitude": -71.0776473
+  },
+  {
+    "name": "Lowell",
+    "state": "Massachusetts",
+    "stateCode": "MA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 115000,
+    "latitude": 42.6442037,
+    "longitude": -71.3086196
+  },
+  {
+    "name": "Brockton",
+    "state": "Massachusetts",
+    "stateCode": "MA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000
+  },
+  {
+    "name": "New Bedford",
+    "state": "Massachusetts",
+    "stateCode": "MA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000,
+    "latitude": 41.6855579,
+    "longitude": -70.9346269
+  },
+  {
+    "name": "Quincy",
+    "state": "Massachusetts",
+    "stateCode": "MA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 95000,
+    "latitude": 42.2422581,
+    "longitude": -70.9716971
+  },
+  {
+    "name": "Lynn",
+    "state": "Massachusetts",
+    "stateCode": "MA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 95000
+  },
+  {
+    "name": "Fall River",
+    "state": "Massachusetts",
+    "stateCode": "MA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 90000,
+    "latitude": 41.7116407,
+    "longitude": -71.1270526
+  },
+  {
+    "name": "Portland",
+    "state": "Oregon",
+    "stateCode": "OR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 650000,
+    "latitude": 45.5248246,
+    "longitude": -122.6779587
+  },
+  {
+    "name": "Eugene",
+    "state": "Oregon",
+    "stateCode": "OR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 175000,
+    "latitude": 44.0968103,
+    "longitude": -123.1231369
+  },
+  {
+    "name": "Salem",
+    "state": "Oregon",
+    "stateCode": "OR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 175000,
+    "latitude": 44.9028065,
+    "longitude": -123.039623
+  },
+  {
+    "name": "Gresham",
+    "state": "Oregon",
+    "stateCode": "OR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 115000,
+    "latitude": 45.5460612,
+    "longitude": -122.4815831
+  },
+  {
+    "name": "Hillsboro",
+    "state": "Oregon",
+    "stateCode": "OR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000,
+    "latitude": 45.5307336,
+    "longitude": -122.868257
+  },
+  {
+    "name": "Beaverton",
+    "state": "Oregon",
+    "stateCode": "OR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000
+  },
+  {
+    "name": "Bend",
+    "state": "Oregon",
+    "stateCode": "OR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000,
+    "latitude": 44.073107,
+    "longitude": -121.299965
+  },
+  {
+    "name": "Medford",
+    "state": "Oregon",
+    "stateCode": "OR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 85000,
+    "latitude": 42.3238148,
+    "longitude": -122.8675444
+  },
+  {
+    "name": "Springfield",
+    "state": "Oregon",
+    "stateCode": "OR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 65000,
+    "latitude": 44.0779833,
+    "longitude": -123.0438104
+  },
+  {
+    "name": "Corvallis",
+    "state": "Oregon",
+    "stateCode": "OR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 60000
+  },
+  {
+    "name": "Nashville",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 690000,
+    "latitude": 36.136099,
+    "longitude": -86.7998781
+  },
+  {
+    "name": "Memphis",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 650000,
+    "latitude": 35.0646238,
+    "longitude": -89.9410247
+  },
+  {
+    "name": "Knoxville",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 190000,
+    "latitude": 35.9487153,
+    "longitude": -84.0149167
+  },
+  {
+    "name": "Chattanooga",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 185000,
+    "latitude": 35.130332,
+    "longitude": -85.2367372
+  },
+  {
+    "name": "Clarksville",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 160000,
+    "latitude": 36.5338457,
+    "longitude": -87.3407913
+  },
+  {
+    "name": "Murfreesboro",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000,
+    "latitude": 35.8356884,
+    "longitude": -86.3922491
+  },
+  {
+    "name": "Franklin",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 85000,
+    "latitude": 35.9090179,
+    "longitude": -86.83377
+  },
+  {
+    "name": "Jackson",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 67000
+  },
+  {
+    "name": "Johnson City",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 67000,
+    "latitude": 36.319947,
+    "longitude": -82.342311
+  },
+  {
+    "name": "Bartlett",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 60000
+  },
+  {
+    "name": "Atlanta",
+    "state": "Georgia",
+    "stateCode": "GA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 500000,
+    "latitude": 33.710511,
+    "longitude": -84.3689965
+  },
+  {
+    "name": "Augusta",
+    "state": "Georgia",
+    "stateCode": "GA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000
+  },
+  {
+    "name": "Columbus",
+    "state": "Georgia",
+    "stateCode": "GA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000,
+    "latitude": 32.4271546,
+    "longitude": -84.94488
+  },
+  {
+    "name": "Macon",
+    "state": "Georgia",
+    "stateCode": "GA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 150000,
+    "latitude": 32.815138,
+    "longitude": -83.7245793
+  },
+  {
+    "name": "Savannah",
+    "state": "Georgia",
+    "stateCode": "GA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 145000,
+    "latitude": 32.0806269,
+    "longitude": -81.0910068
+  },
+  {
+    "name": "Athens",
+    "state": "Georgia",
+    "stateCode": "GA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 130000,
+    "latitude": 33.9603503,
+    "longitude": -83.3774121
+  },
+  {
+    "name": "Sandy Springs",
+    "state": "Georgia",
+    "stateCode": "GA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000,
+    "latitude": 33.9613073,
+    "longitude": -84.3640636
+  },
+  {
+    "name": "Roswell",
+    "state": "Georgia",
+    "stateCode": "GA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 95000,
+    "latitude": 33.9613073,
+    "longitude": -84.3640636
+  },
+  {
+    "name": "Johns Creek",
+    "state": "Georgia",
+    "stateCode": "GA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 85000
+  },
+  {
+    "name": "Albany",
+    "state": "Georgia",
+    "stateCode": "GA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 72000,
+    "latitude": 31.5597701,
+    "longitude": -84.1776967
+  },
+  {
+    "name": "Las Vegas",
+    "state": "Nevada",
+    "stateCode": "NV",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 650000,
+    "latitude": 36.1665796,
+    "longitude": -115.1505609
+  },
+  {
+    "name": "Henderson",
+    "state": "Nevada",
+    "stateCode": "NV",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 320000,
+    "latitude": 36.0354665,
+    "longitude": -114.9954079
+  },
+  {
+    "name": "Reno",
+    "state": "Nevada",
+    "stateCode": "NV",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 265000,
+    "latitude": 39.5215637,
+    "longitude": -119.8102152
+  },
+  {
+    "name": "North Las Vegas",
+    "state": "Nevada",
+    "stateCode": "NV",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 260000
+  },
+  {
+    "name": "Sparks",
+    "state": "Nevada",
+    "stateCode": "NV",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 105000,
+    "latitude": 39.5570089,
+    "longitude": -119.7067346
+  },
+  {
+    "name": "Carson City",
+    "state": "Nevada",
+    "stateCode": "NV",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 55000,
+    "latitude": 39.1685724,
+    "longitude": -119.769376
+  },
+  {
+    "name": "Indianapolis",
+    "state": "Indiana",
+    "stateCode": "IN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 880000,
+    "latitude": 39.714604,
+    "longitude": -86.0257184
+  },
+  {
+    "name": "Fort Wayne",
+    "state": "Indiana",
+    "stateCode": "IN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 270000,
+    "latitude": 41.0284631,
+    "longitude": -85.1658499
+  },
+  {
+    "name": "Evansville",
+    "state": "Indiana",
+    "stateCode": "IN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 117000,
+    "latitude": 37.9781635,
+    "longitude": -87.5125715
+  },
+  {
+    "name": "South Bend",
+    "state": "Indiana",
+    "stateCode": "IN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 103000,
+    "latitude": 41.6720581,
+    "longitude": -86.2507458
+  },
+  {
+    "name": "Carmel",
+    "state": "Indiana",
+    "stateCode": "IN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000
+  },
+  {
+    "name": "Fishers",
+    "state": "Indiana",
+    "stateCode": "IN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000
+  },
+  {
+    "name": "Bloomington",
+    "state": "Indiana",
+    "stateCode": "IN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 85000
+  },
+  {
+    "name": "Hammond",
+    "state": "Indiana",
+    "stateCode": "IN",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 75000,
+    "latitude": 41.6153932,
+    "longitude": -87.5212764
+  },
+  {
+    "name": "Milwaukee",
+    "state": "Wisconsin",
+    "stateCode": "WI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 590000,
+    "latitude": 43.1239179,
+    "longitude": -87.9777163
+  },
+  {
+    "name": "Madison",
+    "state": "Wisconsin",
+    "stateCode": "WI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 270000,
+    "latitude": 43.0731529,
+    "longitude": -89.3812893
+  },
+  {
+    "name": "Green Bay",
+    "state": "Wisconsin",
+    "stateCode": "WI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 105000
+  },
+  {
+    "name": "Kenosha",
+    "state": "Wisconsin",
+    "stateCode": "WI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000,
+    "latitude": 42.5841181,
+    "longitude": -87.8216621
+  },
+  {
+    "name": "Racine",
+    "state": "Wisconsin",
+    "stateCode": "WI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 78000,
+    "latitude": 42.7160718,
+    "longitude": -87.8400798
+  },
+  {
+    "name": "Appleton",
+    "state": "Wisconsin",
+    "stateCode": "WI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 75000,
+    "latitude": 44.2646601,
+    "longitude": -88.4114306
+  },
+  {
+    "name": "Waukesha",
+    "state": "Wisconsin",
+    "stateCode": "WI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 72000,
+    "latitude": 42.9752096,
+    "longitude": -88.1043893
+  },
+  {
+    "name": "Eau Claire",
+    "state": "Wisconsin",
+    "stateCode": "WI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 70000,
+    "latitude": 44.8438129,
+    "longitude": -91.5939314
+  },
+  {
+    "name": "Kansas City",
+    "state": "Missouri",
+    "stateCode": "MO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 500000,
+    "latitude": 39.3050087,
+    "longitude": -94.7207113
+  },
+  {
+    "name": "St. Louis",
+    "state": "Missouri",
+    "stateCode": "MO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 300000,
+    "latitude": 38.6029293,
+    "longitude": -90.2934656
+  },
+  {
+    "name": "Springfield",
+    "state": "Missouri",
+    "stateCode": "MO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 170000,
+    "latitude": 37.1778013,
+    "longitude": -93.3247982
+  },
+  {
+    "name": "Columbia",
+    "state": "Missouri",
+    "stateCode": "MO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 125000,
+    "latitude": 38.916117,
+    "longitude": -92.2910933
+  },
+  {
+    "name": "Independence",
+    "state": "Missouri",
+    "stateCode": "MO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 117000,
+    "latitude": 39.06244,
+    "longitude": -94.4121007
+  },
+  {
+    "name": "Lee's Summit",
+    "state": "Missouri",
+    "stateCode": "MO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000
+  },
+  {
+    "name": "O'Fallon",
+    "state": "Missouri",
+    "stateCode": "MO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 90000,
+    "latitude": 38.7071581,
+    "longitude": -90.6778964
+  },
+  {
+    "name": "St. Joseph",
+    "state": "Missouri",
+    "stateCode": "MO",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 77000,
+    "latitude": 39.7784643,
+    "longitude": -94.8051258
+  },
+  {
+    "name": "Louisville",
+    "state": "Kentucky",
+    "stateCode": "KY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 620000,
+    "latitude": 38.2401943,
+    "longitude": -85.7247031
+  },
+  {
+    "name": "Lexington",
+    "state": "Kentucky",
+    "stateCode": "KY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 325000,
+    "latitude": 38.0237848,
+    "longitude": -84.5576217
+  },
+  {
+    "name": "Bowling Green",
+    "state": "Kentucky",
+    "stateCode": "KY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 70000
+  },
+  {
+    "name": "Owensboro",
+    "state": "Kentucky",
+    "stateCode": "KY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 60000,
+    "latitude": 37.7759935,
+    "longitude": -87.1142685
+  },
+  {
+    "name": "Covington",
+    "state": "Kentucky",
+    "stateCode": "KY",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 40000
+  },
+  {
+    "name": "Oklahoma City",
+    "state": "Oklahoma",
+    "stateCode": "OK",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 650000,
+    "latitude": 35.4675271,
+    "longitude": -97.5404918
+  },
+  {
+    "name": "Tulsa",
+    "state": "Oklahoma",
+    "stateCode": "OK",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 400000,
+    "latitude": 36.1329195,
+    "longitude": -95.8765258
+  },
+  {
+    "name": "Norman",
+    "state": "Oklahoma",
+    "stateCode": "OK",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 125000,
+    "latitude": 35.2205426,
+    "longitude": -97.4953397
+  },
+  {
+    "name": "Broken Arrow",
+    "state": "Oklahoma",
+    "stateCode": "OK",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000,
+    "latitude": 36.0351695,
+    "longitude": -95.7898009
+  },
+  {
+    "name": "Edmond",
+    "state": "Oklahoma",
+    "stateCode": "OK",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 95000,
+    "latitude": 35.657971,
+    "longitude": -97.4801373
+  },
+  {
+    "name": "Lawton",
+    "state": "Oklahoma",
+    "stateCode": "OK",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 92000,
+    "latitude": 34.6752979,
+    "longitude": -98.4118755
+  },
+  {
+    "name": "Birmingham",
+    "state": "Alabama",
+    "stateCode": "AL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 210000,
+    "latitude": 33.4360228,
+    "longitude": -86.7197071
+  },
+  {
+    "name": "Montgomery",
+    "state": "Alabama",
+    "stateCode": "AL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000,
+    "latitude": 32.1746788,
+    "longitude": -86.2689469
+  },
+  {
+    "name": "Huntsville",
+    "state": "Alabama",
+    "stateCode": "AL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 215000,
+    "latitude": 34.6550204,
+    "longitude": -86.5654572
+  },
+  {
+    "name": "Mobile",
+    "state": "Alabama",
+    "stateCode": "AL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 190000,
+    "latitude": 30.6271695,
+    "longitude": -88.1498245
+  },
+  {
+    "name": "Tuscaloosa",
+    "state": "Alabama",
+    "stateCode": "AL",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000,
+    "latitude": 33.2027319,
+    "longitude": -87.5619417
+  },
+  {
+    "name": "Little Rock",
+    "state": "Arkansas",
+    "stateCode": "AR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000,
+    "latitude": 34.7444646,
+    "longitude": -92.417938
+  },
+  {
+    "name": "Fort Smith",
+    "state": "Arkansas",
+    "stateCode": "AR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 90000,
+    "latitude": 35.3985547,
+    "longitude": -94.4255449
+  },
+  {
+    "name": "Fayetteville",
+    "state": "Arkansas",
+    "stateCode": "AR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 90000,
+    "latitude": 36.1207807,
+    "longitude": -94.1370087
+  },
+  {
+    "name": "Springdale",
+    "state": "Arkansas",
+    "stateCode": "AR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 85000,
+    "latitude": 36.1814926,
+    "longitude": -94.1308457
+  },
+  {
+    "name": "Jonesboro",
+    "state": "Arkansas",
+    "stateCode": "AR",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 78000,
+    "latitude": 35.8148664,
+    "longitude": -90.6753425
+  },
+  {
+    "name": "Boise",
+    "state": "Idaho",
+    "stateCode": "ID",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 230000,
+    "latitude": 43.8822126,
+    "longitude": -115.7792796
+  },
+  {
+    "name": "Meridian",
+    "state": "Idaho",
+    "stateCode": "ID",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 120000,
+    "latitude": 43.6147,
+    "longitude": -116.3911221
+  },
+  {
+    "name": "Nampa",
+    "state": "Idaho",
+    "stateCode": "ID",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000
+  },
+  {
+    "name": "Idaho Falls",
+    "state": "Idaho",
+    "stateCode": "ID",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 65000,
+    "latitude": 43.4959659,
+    "longitude": -112.0372922
+  },
+  {
+    "name": "Pocatello",
+    "state": "Idaho",
+    "stateCode": "ID",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 56000,
+    "latitude": 42.8686534,
+    "longitude": -112.4431281
+  },
+  {
+    "name": "Salt Lake City",
+    "state": "Utah",
+    "stateCode": "UT",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 200000,
+    "latitude": 40.7612698,
+    "longitude": -111.891678
+  },
+  {
+    "name": "West Valley City",
+    "state": "Utah",
+    "stateCode": "UT",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 140000
+  },
+  {
+    "name": "Provo",
+    "state": "Utah",
+    "stateCode": "UT",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 115000,
+    "latitude": 40.2214419,
+    "longitude": -111.6554815
+  },
+  {
+    "name": "West Jordan",
+    "state": "Utah",
+    "stateCode": "UT",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 115000,
+    "latitude": 40.567901,
+    "longitude": -111.9396503
+  },
+  {
+    "name": "Orem",
+    "state": "Utah",
+    "stateCode": "UT",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000,
+    "latitude": 40.2757496,
+    "longitude": -111.6743493
+  },
+  {
+    "name": "Sandy",
+    "state": "Utah",
+    "stateCode": "UT",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 95000
+  },
+  {
+    "name": "Albuquerque",
+    "state": "New Mexico",
+    "stateCode": "NM",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 560000,
+    "latitude": 35.0493867,
+    "longitude": -106.618187
+  },
+  {
+    "name": "Las Cruces",
+    "state": "New Mexico",
+    "stateCode": "NM",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 110000,
+    "latitude": 32.3101532,
+    "longitude": -106.7770152
+  },
+  {
+    "name": "Rio Rancho",
+    "state": "New Mexico",
+    "stateCode": "NM",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000
+  },
+  {
+    "name": "Santa Fe",
+    "state": "New Mexico",
+    "stateCode": "NM",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 85000,
+    "latitude": 35.6909554,
+    "longitude": -105.9377957
+  },
+  {
+    "name": "Roswell",
+    "state": "New Mexico",
+    "stateCode": "NM",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 48000
+  },
+  {
+    "name": "Des Moines",
+    "state": "Iowa",
+    "stateCode": "IA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 215000,
+    "latitude": 41.5865663,
+    "longitude": -93.618936
+  },
+  {
+    "name": "Cedar Rapids",
+    "state": "Iowa",
+    "stateCode": "IA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 135000,
+    "latitude": 41.945723,
+    "longitude": -91.6744278
+  },
+  {
+    "name": "Davenport",
+    "state": "Iowa",
+    "stateCode": "IA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 100000
+  },
+  {
+    "name": "Sioux City",
+    "state": "Iowa",
+    "stateCode": "IA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 85000
+  },
+  {
+    "name": "Iowa City",
+    "state": "Iowa",
+    "stateCode": "IA",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 75000,
+    "latitude": 41.6638173,
+    "longitude": -91.5477587
+  },
+  {
+    "name": "Omaha",
+    "state": "Nebraska",
+    "stateCode": "NE",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 480000,
+    "latitude": 41.2591981,
+    "longitude": -95.9387452
+  },
+  {
+    "name": "Lincoln",
+    "state": "Nebraska",
+    "stateCode": "NE",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 290000,
+    "latitude": 40.8045164,
+    "longitude": -96.70393
+  },
+  {
+    "name": "Bellevue",
+    "state": "Nebraska",
+    "stateCode": "NE",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 55000,
+    "latitude": 41.1361045,
+    "longitude": -95.8933019
+  },
+  {
+    "name": "Grand Island",
+    "state": "Nebraska",
+    "stateCode": "NE",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 52000
+  },
+  {
+    "name": "Wichita",
+    "state": "Kansas",
+    "stateCode": "KS",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 400000,
+    "latitude": 37.6835768,
+    "longitude": -97.3988614
+  },
+  {
+    "name": "Overland Park",
+    "state": "Kansas",
+    "stateCode": "KS",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 195000,
+    "latitude": 38.837527,
+    "longitude": -94.6711915
+  },
+  {
+    "name": "Kansas City",
+    "state": "Kansas",
+    "stateCode": "KS",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 155000,
+    "latitude": 39.1436218,
+    "longitude": -94.6961983
+  },
+  {
+    "name": "Olathe",
+    "state": "Kansas",
+    "stateCode": "KS",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 140000,
+    "latitude": 38.8795227,
+    "longitude": -94.7601353
+  },
+  {
+    "name": "Topeka",
+    "state": "Kansas",
+    "stateCode": "KS",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 125000,
+    "latitude": 39.053142,
+    "longitude": -95.6704953
+  },
+  {
+    "name": "Honolulu",
+    "state": "Hawaii",
+    "stateCode": "HI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 350000,
+    "latitude": 21.2997796,
+    "longitude": -157.863838
+  },
+  {
+    "name": "Pearl City",
+    "state": "Hawaii",
+    "stateCode": "HI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 48000,
+    "latitude": 21.3957858,
+    "longitude": -157.9739094
+  },
+  {
+    "name": "Hilo",
+    "state": "Hawaii",
+    "stateCode": "HI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 45000,
+    "latitude": 19.7160158,
+    "longitude": -155.0503533
+  },
+  {
+    "name": "Kailua",
+    "state": "Hawaii",
+    "stateCode": "HI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 38000,
+    "latitude": 21.3925848,
+    "longitude": -157.7401988
+  },
+  {
+    "name": "Waipahu",
+    "state": "Hawaii",
+    "stateCode": "HI",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 39000,
+    "latitude": 21.4746915,
+    "longitude": -158.0537413
+  },
+  {
+    "name": "Anchorage",
+    "state": "Alaska",
+    "stateCode": "AK",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 290000,
+    "latitude": 61.1108752,
+    "longitude": -149.85875
+  },
+  {
+    "name": "Fairbanks",
+    "state": "Alaska",
+    "stateCode": "AK",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 32000,
+    "latitude": 64.3182784,
+    "longitude": -146.6480245
+  },
+  {
+    "name": "Juneau",
+    "state": "Alaska",
+    "stateCode": "AK",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 32000
+  },
+  {
+    "name": "Sitka",
+    "state": "Alaska",
+    "stateCode": "AK",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 8500
+  },
+  {
+    "name": "Ketchikan",
+    "state": "Alaska",
+    "stateCode": "AK",
+    "country": "United States",
+    "countryCode": "US",
+    "population": 8200,
+    "latitude": 55.3555781,
+    "longitude": -131.69373
+  },
+  {
+    "name": "Ciudad de México",
+    "state": "Ciudad de México",
+    "stateCode": "CDMX",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 9200000,
+    "latitude": 19.4326296,
+    "longitude": -99.1331785
+  },
+  {
+    "name": "Guadalajara",
+    "state": "Jalisco",
+    "stateCode": "JAL",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 1500000,
+    "latitude": 20.622004,
+    "longitude": -103.367704
+  },
+  {
+    "name": "Monterrey",
+    "state": "Nuevo León",
+    "stateCode": "NL",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 1140000,
+    "latitude": 25.6461931,
+    "longitude": -100.296032
+  },
+  {
+    "name": "Puebla",
+    "state": "Puebla",
+    "stateCode": "PUE",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 1580000,
+    "latitude": 19.40722,
+    "longitude": -99.0824754
+  },
+  {
+    "name": "Tijuana",
+    "state": "Baja California",
+    "stateCode": "BC",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 1900000,
+    "latitude": 32.5132984,
+    "longitude": -117.0412813
+  },
+  {
+    "name": "León",
+    "state": "Guanajuato",
+    "stateCode": "GTO",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 1580000,
+    "latitude": 21.1419385,
+    "longitude": -101.6505816
+  },
+  {
+    "name": "Juárez",
+    "state": "Chihuahua",
+    "stateCode": "CHH",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 1510000,
+    "latitude": 31.7392333,
+    "longitude": -106.4803466
+  },
+  {
+    "name": "Zapopan",
+    "state": "Jalisco",
+    "stateCode": "JAL",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 1430000,
+    "latitude": 20.7193273,
+    "longitude": -103.3486055
+  },
+  {
+    "name": "Mérida",
+    "state": "Yucatán",
+    "stateCode": "YUC",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 980000,
+    "latitude": 20.9656796,
+    "longitude": -89.631102
+  },
+  {
+    "name": "San Luis Potosí",
+    "state": "San Luis Potosí",
+    "stateCode": "SLP",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 850000,
+    "latitude": 22.6314522,
+    "longitude": -101.7070731
+  },
+  {
+    "name": "Aguascalientes",
+    "state": "Aguascalientes",
+    "stateCode": "AGS",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 950000,
+    "latitude": 22.2311674,
+    "longitude": -102.2481939
+  },
+  {
+    "name": "Hermosillo",
+    "state": "Sonora",
+    "stateCode": "SON",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 930000,
+    "latitude": 28.622877,
+    "longitude": -111.6295977
+  },
+  {
+    "name": "Saltillo",
+    "state": "Coahuila",
+    "stateCode": "COAH",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 880000,
+    "latitude": 25.4119775,
+    "longitude": -101.0010933
+  },
+  {
+    "name": "Mexicali",
+    "state": "Baja California",
+    "stateCode": "BC",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 1050000,
+    "latitude": 32.651334,
+    "longitude": -115.414513
+  },
+  {
+    "name": "Culiacán",
+    "state": "Sinaloa",
+    "stateCode": "SIN",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 980000,
+    "latitude": 24.7955694,
+    "longitude": -107.3847683
+  },
+  {
+    "name": "Querétaro",
+    "state": "Querétaro",
+    "stateCode": "QRO",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 1050000,
+    "latitude": 20.5761592,
+    "longitude": -100.3908691
+  },
+  {
+    "name": "Acapulco",
+    "state": "Guerrero",
+    "stateCode": "GRO",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 780000,
+    "latitude": 16.8771781,
+    "longitude": -99.8805133
+  },
+  {
+    "name": "Chihuahua",
+    "state": "Chihuahua",
+    "stateCode": "CHH",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 930000,
+    "latitude": 30.9908448,
+    "longitude": -108.1504011
+  },
+  {
+    "name": "Morelia",
+    "state": "Michoacán",
+    "stateCode": "MICH",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 850000,
+    "latitude": 19.6646878,
+    "longitude": -101.1866721
+  },
+  {
+    "name": "Cancún",
+    "state": "Quintana Roo",
+    "stateCode": "QR",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 930000,
+    "latitude": 21.1366956,
+    "longitude": -86.8608957
+  },
+  {
+    "name": "Torreón",
+    "state": "Coahuila",
+    "stateCode": "COAH",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 730000,
+    "latitude": 25.5729821,
+    "longitude": -103.4274174
+  },
+  {
+    "name": "Veracruz",
+    "state": "Veracruz",
+    "stateCode": "VER",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 620000,
+    "latitude": 19.1974521,
+    "longitude": -96.1517962
+  },
+  {
+    "name": "Toluca",
+    "state": "México",
+    "stateCode": "MEX",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 910000,
+    "latitude": 19.292545,
+    "longitude": -99.6569007
+  },
+  {
+    "name": "Tlalnepantla",
+    "state": "México",
+    "stateCode": "MEX",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 650000,
+    "latitude": 19.5370001,
+    "longitude": -99.1955083
+  },
+  {
+    "name": "Mazatlán",
+    "state": "Sinaloa",
+    "stateCode": "SIN",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 510000,
+    "latitude": 23.2842504,
+    "longitude": -106.41056
+  },
+  {
+    "name": "Reynosa",
+    "state": "Tamaulipas",
+    "stateCode": "TAM",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 720000,
+    "latitude": 26.050259,
+    "longitude": -98.2787951
+  },
+  {
+    "name": "Tuxtla Gutiérrez",
+    "state": "Chiapas",
+    "stateCode": "CHIS",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 610000,
+    "latitude": 16.7995222,
+    "longitude": -93.1039712
+  },
+  {
+    "name": "Victoria",
+    "state": "Tamaulipas",
+    "stateCode": "TAM",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 370000,
+    "latitude": 23.7562495,
+    "longitude": -99.114785
+  },
+  {
+    "name": "Xalapa",
+    "state": "Veracruz",
+    "stateCode": "VER",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 540000,
+    "latitude": 19.5739185,
+    "longitude": -96.9141159
+  },
+  {
+    "name": "Durango",
+    "state": "Durango",
+    "stateCode": "DGO",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 680000,
+    "latitude": 23.9903946,
+    "longitude": -104.6575013
+  },
+  {
+    "name": "Tlaquepaque",
+    "state": "Jalisco",
+    "stateCode": "JAL",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 690000,
+    "latitude": 20.605686,
+    "longitude": -103.324607
+  },
+  {
+    "name": "Cuernavaca",
+    "state": "Morelos",
+    "stateCode": "MOR",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 410000,
+    "latitude": 18.9162786,
+    "longitude": -99.184126
+  },
+  {
+    "name": "Pachuca",
+    "state": "Hidalgo",
+    "stateCode": "HGO",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 520000,
+    "latitude": 19.9114283,
+    "longitude": -98.8392961
+  },
+  {
+    "name": "Oaxaca",
+    "state": "Oaxaca",
+    "stateCode": "OAX",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 310000,
+    "latitude": 16.8064265,
+    "longitude": -95.0706628
+  },
+  {
+    "name": "Tampico",
+    "state": "Tamaulipas",
+    "stateCode": "TAM",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 300000,
+    "latitude": 22.3195356,
+    "longitude": -97.8587384
+  },
+  {
+    "name": "Ensenada",
+    "state": "Baja California",
+    "stateCode": "BC",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 540000,
+    "latitude": 31.8671102,
+    "longitude": -116.5738608
+  },
+  {
+    "name": "Celaya",
+    "state": "Guanajuato",
+    "stateCode": "GTO",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 520000,
+    "latitude": 20.547234,
+    "longitude": -100.8293375
+  },
+  {
+    "name": "Irapuato",
+    "state": "Guanajuato",
+    "stateCode": "GTO",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 580000,
+    "latitude": 20.6593076,
+    "longitude": -101.357665
+  },
+  {
+    "name": "Nuevo Laredo",
+    "state": "Tamaulipas",
+    "stateCode": "TAM",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 430000,
+    "latitude": 27.4614565,
+    "longitude": -99.5150334
+  },
+  {
+    "name": "Matamoros",
+    "state": "Tamaulipas",
+    "stateCode": "TAM",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 540000,
+    "latitude": 25.8843988,
+    "longitude": -97.4885428
+  },
+  {
+    "name": "Nogales",
+    "state": "Sonora",
+    "stateCode": "SON",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 240000,
+    "latitude": 31.2572795,
+    "longitude": -110.9561481
+  },
+  {
+    "name": "Campeche",
+    "state": "Campeche",
+    "stateCode": "CAM",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 290000,
+    "latitude": 18.0198156,
+    "longitude": -90.8809957
+  },
+  {
+    "name": "Tepic",
+    "state": "Nayarit",
+    "stateCode": "NAY",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 440000,
+    "latitude": 21.5853426,
+    "longitude": -104.8351876
+  },
+  {
+    "name": "Villahermosa",
+    "state": "Tabasco",
+    "stateCode": "TAB",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 680000,
+    "latitude": 17.9812855,
+    "longitude": -92.9373459
+  },
+  {
+    "name": "Colima",
+    "state": "Colima",
+    "stateCode": "COL",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 180000,
+    "latitude": 19.0878316,
+    "longitude": -104.3098847
+  },
+  {
+    "name": "Playa del Carmen",
+    "state": "Quintana Roo",
+    "stateCode": "QR",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 320000,
+    "latitude": 20.6230711,
+    "longitude": -87.0760038
+  },
+  {
+    "name": "Puerto Vallarta",
+    "state": "Jalisco",
+    "stateCode": "JAL",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 290000,
+    "latitude": 20.6182636,
+    "longitude": -105.2313459
+  },
+  {
+    "name": "Cabo San Lucas",
+    "state": "Baja California Sur",
+    "stateCode": "BCS",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 90000,
+    "latitude": 22.9239452,
+    "longitude": -109.9259038
+  },
+  {
+    "name": "La Paz",
+    "state": "Baja California Sur",
+    "stateCode": "BCS",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 310000,
+    "latitude": 24.0968358,
+    "longitude": -110.378545
+  },
+  {
+    "name": "Zacatecas",
+    "state": "Zacatecas",
+    "stateCode": "ZAC",
+    "country": "México",
+    "countryCode": "MX",
+    "population": 160000,
+    "latitude": 23.1960662,
+    "longitude": -102.8807359
+  },
+  {
+    "name": "Buenos Aires",
+    "state": "Buenos Aires",
+    "stateCode": "BA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 3075000,
+    "latitude": -34.5121516,
+    "longitude": -58.5248182
+  },
+  {
+    "name": "Córdoba",
+    "state": "Córdoba",
+    "stateCode": "CBA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 1400000,
+    "latitude": -31.9584513,
+    "longitude": -65.1920997
+  },
+  {
+    "name": "Rosario",
+    "state": "Santa Fe",
+    "stateCode": "SF",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 1200000,
+    "latitude": -32.9342027,
+    "longitude": -60.7313705
+  },
+  {
+    "name": "Mendoza",
+    "state": "Mendoza",
+    "stateCode": "MZA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 960000,
+    "latitude": -32.8874778,
+    "longitude": -68.8359157
+  },
+  {
+    "name": "La Plata",
+    "state": "Buenos Aires",
+    "stateCode": "BA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 750000,
+    "latitude": -34.9238844,
+    "longitude": -57.9445759
+  },
+  {
+    "name": "San Miguel de Tucumán",
+    "state": "Tucumán",
+    "stateCode": "TUC",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 850000,
+    "latitude": -26.8425499,
+    "longitude": -65.2100665
+  },
+  {
+    "name": "Mar del Plata",
+    "state": "Buenos Aires",
+    "stateCode": "BA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 630000,
+    "latitude": -37.9815532,
+    "longitude": -57.5842038
+  },
+  {
+    "name": "Salta",
+    "state": "Salta",
+    "stateCode": "SAL",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 640000,
+    "latitude": -22.1991277,
+    "longitude": -64.8808776
+  },
+  {
+    "name": "Santa Fe",
+    "state": "Santa Fe",
+    "stateCode": "SF",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 520000,
+    "latitude": -32.9159943,
+    "longitude": -60.8558636
+  },
+  {
+    "name": "San Juan",
+    "state": "San Juan",
+    "stateCode": "SJ",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 510000,
+    "latitude": -31.5321326,
+    "longitude": -68.510509
+  },
+  {
+    "name": "Resistencia",
+    "state": "Chaco",
+    "stateCode": "CHA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 420000,
+    "latitude": -27.4397682,
+    "longitude": -58.9766992
+  },
+  {
+    "name": "Santiago del Estero",
+    "state": "Santiago del Estero",
+    "stateCode": "SE",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 380000,
+    "latitude": -29.5349499,
+    "longitude": -62.2661501
+  },
+  {
+    "name": "Corrientes",
+    "state": "Corrientes",
+    "stateCode": "COR",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 360000,
+    "latitude": -27.5003064,
+    "longitude": -58.8439033
+  },
+  {
+    "name": "Posadas",
+    "state": "Misiones",
+    "stateCode": "MIS",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 340000,
+    "latitude": -27.4212125,
+    "longitude": -55.9356106
+  },
+  {
+    "name": "Bahía Blanca",
+    "state": "Buenos Aires",
+    "stateCode": "BA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 310000,
+    "latitude": -38.7349607,
+    "longitude": -62.1640855
+  },
+  {
+    "name": "Paraná",
+    "state": "Entre Ríos",
+    "stateCode": "ER",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 280000,
+    "latitude": -31.785391,
+    "longitude": -60.4696256
+  },
+  {
+    "name": "Neuquén",
+    "state": "Neuquén",
+    "stateCode": "NEU",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 280000,
+    "latitude": -40.7424182,
+    "longitude": -71.6116508
+  },
+  {
+    "name": "Formosa",
+    "state": "Formosa",
+    "stateCode": "FOR",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 240000,
+    "latitude": -26.1763348,
+    "longitude": -58.1753935
+  },
+  {
+    "name": "San Luis",
+    "state": "San Luis",
+    "stateCode": "SL",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 230000,
+    "latitude": -32.3284781,
+    "longitude": -65.0048531
+  },
+  {
+    "name": "La Rioja",
+    "state": "La Rioja",
+    "stateCode": "LR",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 200000,
+    "latitude": -29.9527732,
+    "longitude": -65.0968682
+  },
+  {
+    "name": "Catamarca",
+    "state": "Catamarca",
+    "stateCode": "CAT",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 200000,
+    "latitude": -28.2244489,
+    "longitude": -65.8743345
+  },
+  {
+    "name": "San Salvador de Jujuy",
+    "state": "Jujuy",
+    "stateCode": "JUJ",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 310000,
+    "latitude": -24.1996072,
+    "longitude": -65.2870681
+  },
+  {
+    "name": "Río Cuarto",
+    "state": "Córdoba",
+    "stateCode": "CBA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 170000,
+    "latitude": -33.1355774,
+    "longitude": -64.3160197
+  },
+  {
+    "name": "Quilmes",
+    "state": "Buenos Aires",
+    "stateCode": "BA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 580000,
+    "latitude": -34.7341623,
+    "longitude": -58.2578345
+  },
+  {
+    "name": "San Isidro",
+    "state": "Buenos Aires",
+    "stateCode": "BA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 290000,
+    "latitude": -34.4737152,
+    "longitude": -58.5316915
+  },
+  {
+    "name": "Lomas de Zamora",
+    "state": "Buenos Aires",
+    "stateCode": "BA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 620000,
+    "latitude": -34.7596438,
+    "longitude": -58.3981071
+  },
+  {
+    "name": "Almirante Brown",
+    "state": "Buenos Aires",
+    "stateCode": "BA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 550000,
+    "latitude": -34.6502424,
+    "longitude": -58.6220807
+  },
+  {
+    "name": "Lanús",
+    "state": "Buenos Aires",
+    "stateCode": "BA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 460000,
+    "latitude": -34.6996916,
+    "longitude": -58.3917615
+  },
+  {
+    "name": "Merlo",
+    "state": "Buenos Aires",
+    "stateCode": "BA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 530000,
+    "latitude": -34.6795299,
+    "longitude": -58.7283088
+  },
+  {
+    "name": "General San Martín",
+    "state": "Buenos Aires",
+    "stateCode": "BA",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "population": 420000,
+    "latitude": -36.7941956,
+    "longitude": -59.8792232
+  },
+  {
+    "name": "Bogotá",
+    "state": "Cundinamarca",
+    "stateCode": "DC",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 7900000,
+    "latitude": 4.6247961,
+    "longitude": -74.0936688
+  },
+  {
+    "name": "Medellín",
+    "state": "Antioquia",
+    "stateCode": "ANT",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 2500000,
+    "latitude": 6.227259,
+    "longitude": -75.5719699
+  },
+  {
+    "name": "Cali",
+    "state": "Valle del Cauca",
+    "stateCode": "VAC",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 2400000,
+    "latitude": 3.4528182,
+    "longitude": -76.53457
+  },
+  {
+    "name": "Barranquilla",
+    "state": "Atlántico",
+    "stateCode": "ATL",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 1300000,
+    "latitude": 11.0168151,
+    "longitude": -74.8621739
+  },
+  {
+    "name": "Cartagena",
+    "state": "Bolívar",
+    "stateCode": "BOL",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 1030000,
+    "latitude": 10.3823237,
+    "longitude": -75.5008591
+  },
+  {
+    "name": "Cúcuta",
+    "state": "Norte de Santander",
+    "stateCode": "NSA",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 720000,
+    "latitude": 7.8917223,
+    "longitude": -72.4937659
+  },
+  {
+    "name": "Bucaramanga",
+    "state": "Santander",
+    "stateCode": "SAN",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 610000,
+    "latitude": 7.0974665,
+    "longitude": -73.1219807
+  },
+  {
+    "name": "Pereira",
+    "state": "Risaralda",
+    "stateCode": "RIS",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 490000,
+    "latitude": 4.7951185,
+    "longitude": -75.7341995
+  },
+  {
+    "name": "Santa Marta",
+    "state": "Magdalena",
+    "stateCode": "MAG",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 540000,
+    "latitude": 11.2235205,
+    "longitude": -74.1569434
+  },
+  {
+    "name": "Ibagué",
+    "state": "Tolima",
+    "stateCode": "TOL",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 560000,
+    "latitude": 4.4468793,
+    "longitude": -75.1698066
+  },
+  {
+    "name": "Pasto",
+    "state": "Nariño",
+    "stateCode": "NAR",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 450000,
+    "latitude": 1.1402764,
+    "longitude": -77.153802
+  },
+  {
+    "name": "Manizales",
+    "state": "Caldas",
+    "stateCode": "CAL",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 430000,
+    "latitude": 5.0617833,
+    "longitude": -75.503384
+  },
+  {
+    "name": "Neiva",
+    "state": "Huila",
+    "stateCode": "HUI",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 370000,
+    "latitude": 2.9278614,
+    "longitude": -75.2849924
+  },
+  {
+    "name": "Soledad",
+    "state": "Atlántico",
+    "stateCode": "ATL",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 680000,
+    "latitude": 10.9402747,
+    "longitude": -74.7647448
+  },
+  {
+    "name": "Armenia",
+    "state": "Quindío",
+    "stateCode": "QUI",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 310000,
+    "latitude": 4.510816,
+    "longitude": -75.7079177
+  },
+  {
+    "name": "Villavicencio",
+    "state": "Meta",
+    "stateCode": "MET",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 540000,
+    "latitude": 4.151491,
+    "longitude": -73.5946642
+  },
+  {
+    "name": "Soacha",
+    "state": "Cundinamarca",
+    "stateCode": "CUN",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 670000,
+    "latitude": 4.5750876,
+    "longitude": -74.2332395
+  },
+  {
+    "name": "Valledupar",
+    "state": "Cesar",
+    "stateCode": "CES",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 510000,
+    "latitude": 10.4766669,
+    "longitude": -73.2690967
+  },
+  {
+    "name": "Montería",
+    "state": "Córdoba",
+    "stateCode": "COR",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 510000,
+    "latitude": 8.7664266,
+    "longitude": -75.868861
+  },
+  {
+    "name": "Itagüí",
+    "state": "Antioquia",
+    "stateCode": "ANT",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 280000,
+    "latitude": 6.1616896,
+    "longitude": -75.6143079
+  },
+  {
+    "name": "Popayán",
+    "state": "Cauca",
+    "stateCode": "CAU",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 320000,
+    "latitude": 2.482613,
+    "longitude": -76.5682152
+  },
+  {
+    "name": "Buenaventura",
+    "state": "Valle del Cauca",
+    "stateCode": "VAC",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 430000,
+    "latitude": 3.8881981,
+    "longitude": -77.0773659
+  },
+  {
+    "name": "Palmira",
+    "state": "Valle del Cauca",
+    "stateCode": "VAC",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 320000,
+    "latitude": 3.5412723,
+    "longitude": -76.3009591
+  },
+  {
+    "name": "Floridablanca",
+    "state": "Santander",
+    "stateCode": "SAN",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 290000,
+    "latitude": 7.0364146,
+    "longitude": -73.0708752
+  },
+  {
+    "name": "Sincelejo",
+    "state": "Sucre",
+    "stateCode": "SUC",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 290000,
+    "latitude": 9.2845525,
+    "longitude": -75.3871313
+  },
+  {
+    "name": "Tumaco",
+    "state": "Nariño",
+    "stateCode": "NAR",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 220000,
+    "latitude": 1.2882697,
+    "longitude": -78.6363511
+  },
+  {
+    "name": "Envigado",
+    "state": "Antioquia",
+    "stateCode": "ANT",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 240000,
+    "latitude": 6.1682042,
+    "longitude": -75.5871361
+  },
+  {
+    "name": "Bello",
+    "state": "Antioquia",
+    "stateCode": "ANT",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 520000,
+    "latitude": 6.3724763,
+    "longitude": -75.5451736
+  },
+  {
+    "name": "Tunja",
+    "state": "Boyacá",
+    "stateCode": "BOY",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 200000,
+    "latitude": 5.5312388,
+    "longitude": -73.3638433
+  },
+  {
+    "name": "Barrancabermeja",
+    "state": "Santander",
+    "stateCode": "SAN",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "population": 190000,
+    "latitude": 7.0317968,
+    "longitude": -73.8083325
+  },
+  {
+    "name": "Santiago",
+    "state": "Región Metropolitana",
+    "stateCode": "RM",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 5600000,
+    "latitude": -33.4420638,
+    "longitude": -70.6456647
+  },
+  {
+    "name": "Valparaíso",
+    "state": "Valparaíso",
+    "stateCode": "VAL",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 300000,
+    "latitude": -33.0482312,
+    "longitude": -71.6053108
+  },
+  {
+    "name": "Concepción",
+    "state": "Biobío",
+    "stateCode": "BIO",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 230000,
+    "latitude": -36.851401,
+    "longitude": -73.0504441
+  },
+  {
+    "name": "La Serena",
+    "state": "Coquimbo",
+    "stateCode": "COQ",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 240000,
+    "latitude": -29.7444477,
+    "longitude": -71.2578953
+  },
+  {
+    "name": "Antofagasta",
+    "state": "Antofagasta",
+    "stateCode": "ANT",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 380000,
+    "latitude": -22.4564751,
+    "longitude": -68.9272761
+  },
+  {
+    "name": "Temuco",
+    "state": "La Araucanía",
+    "stateCode": "ARA",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 290000,
+    "latitude": -38.739336,
+    "longitude": -72.5889096
+  },
+  {
+    "name": "Rancagua",
+    "state": "O'Higgins",
+    "stateCode": "LBO",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 250000,
+    "latitude": -34.2138284,
+    "longitude": -70.7164773
+  },
+  {
+    "name": "Talca",
+    "state": "Maule",
+    "stateCode": "MAU",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 230000,
+    "latitude": -35.4433618,
+    "longitude": -71.6865351
+  },
+  {
+    "name": "Arica",
+    "state": "Arica y Parinacota",
+    "stateCode": "AYP",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 240000,
+    "latitude": -18.4472361,
+    "longitude": -70.0714565
+  },
+  {
+    "name": "Iquique",
+    "state": "Tarapacá",
+    "stateCode": "TAR",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 200000,
+    "latitude": -20.2308307,
+    "longitude": -70.1448307
+  },
+  {
+    "name": "Puerto Montt",
+    "state": "Los Lagos",
+    "stateCode": "LLA",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 250000,
+    "latitude": -41.4491503,
+    "longitude": -72.9620081
+  },
+  {
+    "name": "Coquimbo",
+    "state": "Coquimbo",
+    "stateCode": "COQ",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 230000,
+    "latitude": -31.6353704,
+    "longitude": -71.1688783
+  },
+  {
+    "name": "Osorno",
+    "state": "Los Lagos",
+    "stateCode": "LLA",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 170000,
+    "latitude": -40.5940246,
+    "longitude": -73.1223659
+  },
+  {
+    "name": "Valdivia",
+    "state": "Los Ríos",
+    "stateCode": "LRI",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 170000,
+    "latitude": -39.8195915,
+    "longitude": -73.2439104
+  },
+  {
+    "name": "Quilpué",
+    "state": "Valparaíso",
+    "stateCode": "VAL",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 160000,
+    "latitude": -33.0463167,
+    "longitude": -71.4439994
+  },
+  {
+    "name": "Chillán",
+    "state": "Ñuble",
+    "stateCode": "ÑUB",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 190000,
+    "latitude": -36.6200951,
+    "longitude": -72.1016188
+  },
+  {
+    "name": "Calama",
+    "state": "Antofagasta",
+    "stateCode": "ANT",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 170000,
+    "latitude": -22.4564751,
+    "longitude": -68.9272761
+  },
+  {
+    "name": "Copiapó",
+    "state": "Atacama",
+    "stateCode": "ATA",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 170000,
+    "latitude": -27.3583535,
+    "longitude": -70.3468267
+  },
+  {
+    "name": "Los Ángeles",
+    "state": "Biobío",
+    "stateCode": "BIO",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 210000,
+    "latitude": -37.4715303,
+    "longitude": -72.3729248
+  },
+  {
+    "name": "Curicó",
+    "state": "Maule",
+    "stateCode": "MAU",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 160000,
+    "latitude": -34.973803,
+    "longitude": -71.2226654
+  },
+  {
+    "name": "Viña del Mar",
+    "state": "Valparaíso",
+    "stateCode": "VAL",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 330000,
+    "latitude": -33.0139903,
+    "longitude": -71.543963
+  },
+  {
+    "name": "Talcahuano",
+    "state": "Biobío",
+    "stateCode": "BIO",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 160000,
+    "latitude": -36.7714978,
+    "longitude": -73.0583324
+  },
+  {
+    "name": "San Bernardo",
+    "state": "Región Metropolitana",
+    "stateCode": "RM",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 330000,
+    "latitude": -33.5776389,
+    "longitude": -70.6957837
+  },
+  {
+    "name": "Puente Alto",
+    "state": "Región Metropolitana",
+    "stateCode": "RM",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 640000,
+    "latitude": -33.5833005,
+    "longitude": -70.556319
+  },
+  {
+    "name": "Maipú",
+    "state": "Región Metropolitana",
+    "stateCode": "RM",
+    "country": "Chile",
+    "countryCode": "CL",
+    "population": 580000,
+    "latitude": -33.5036118,
+    "longitude": -70.7588072
+  },
+  {
+    "name": "Lima",
+    "state": "Lima",
+    "stateCode": "LIM",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 9700000,
+    "latitude": -11.8395912,
+    "longitude": -77.1257849
+  },
+  {
+    "name": "Arequipa",
+    "state": "Arequipa",
+    "stateCode": "ARE",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 1100000,
+    "latitude": -16.4026072,
+    "longitude": -71.5341564
+  },
+  {
+    "name": "Trujillo",
+    "state": "La Libertad",
+    "stateCode": "LAL",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 960000,
+    "latitude": -8.098099,
+    "longitude": -79.0383626
+  },
+  {
+    "name": "Chiclayo",
+    "state": "Lambayeque",
+    "stateCode": "LAM",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 610000,
+    "latitude": -6.7669994,
+    "longitude": -79.8218124
+  },
+  {
+    "name": "Piura",
+    "state": "Piura",
+    "stateCode": "PIU",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 490000,
+    "latitude": -4.5940694,
+    "longitude": -81.2605534
+  },
+  {
+    "name": "Iquitos",
+    "state": "Loreto",
+    "stateCode": "LOR",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 480000,
+    "latitude": -3.7389186,
+    "longitude": -73.2500995
+  },
+  {
+    "name": "Cusco",
+    "state": "Cusco",
+    "stateCode": "CUS",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 430000,
+    "latitude": -12.8649681,
+    "longitude": -72.6933186
+  },
+  {
+    "name": "Huancayo",
+    "state": "Junín",
+    "stateCode": "JUN",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 500000,
+    "latitude": -12.0228469,
+    "longitude": -75.2340079
+  },
+  {
+    "name": "Chimbote",
+    "state": "Áncash",
+    "stateCode": "ANC",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 410000,
+    "latitude": -9.1288252,
+    "longitude": -78.5340436
+  },
+  {
+    "name": "Tacna",
+    "state": "Tacna",
+    "stateCode": "TAC",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 330000,
+    "latitude": -18.0224001,
+    "longitude": -70.242158
+  },
+  {
+    "name": "Juliaca",
+    "state": "Puno",
+    "stateCode": "PUN",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 310000,
+    "latitude": -15.4969708,
+    "longitude": -70.1302458
+  },
+  {
+    "name": "Ica",
+    "state": "Ica",
+    "stateCode": "ICA",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 280000,
+    "latitude": -14.0721157,
+    "longitude": -75.7359367
+  },
+  {
+    "name": "Sullana",
+    "state": "Piura",
+    "stateCode": "PIU",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 240000,
+    "latitude": -4.9035524,
+    "longitude": -80.7444864
+  },
+  {
+    "name": "Pucallpa",
+    "state": "Ucayali",
+    "stateCode": "UCA",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 420000,
+    "latitude": -8.3907581,
+    "longitude": -74.5373433
+  },
+  {
+    "name": "Cajamarca",
+    "state": "Cajamarca",
+    "stateCode": "CAJ",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 240000,
+    "latitude": -5.7112642,
+    "longitude": -78.8171902
+  },
+  {
+    "name": "Ayacucho",
+    "state": "Ayacucho",
+    "stateCode": "AYA",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 220000,
+    "latitude": -11.9835409,
+    "longitude": -77.0092825
+  },
+  {
+    "name": "Puno",
+    "state": "Puno",
+    "stateCode": "PUN",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 150000,
+    "latitude": -16.5832524,
+    "longitude": -69.0622696
+  },
+  {
+    "name": "Huaraz",
+    "state": "Áncash",
+    "stateCode": "ANC",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 130000,
+    "latitude": -9.5386879,
+    "longitude": -77.5230056
+  },
+  {
+    "name": "Tarapoto",
+    "state": "San Martín",
+    "stateCode": "SAM",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 180000,
+    "latitude": -6.4793621,
+    "longitude": -76.3625954
+  },
+  {
+    "name": "Tumbes",
+    "state": "Tumbes",
+    "stateCode": "TUM",
+    "country": "Perú",
+    "countryCode": "PE",
+    "population": 120000,
+    "latitude": -3.4513033,
+    "longitude": -80.2322155
+  },
+  {
+    "name": "Caracas",
+    "state": "Distrito Capital",
+    "stateCode": "DC",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 2900000,
+    "latitude": 10.4901789,
+    "longitude": -66.8916633
+  },
+  {
+    "name": "Maracaibo",
+    "state": "Zulia",
+    "stateCode": "ZUL",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 1600000,
+    "latitude": 10.6703897,
+    "longitude": -71.612499
+  },
+  {
+    "name": "Valencia",
+    "state": "Carabobo",
+    "stateCode": "CAR",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 1400000,
+    "latitude": 10.1687321,
+    "longitude": -67.9826686
+  },
+  {
+    "name": "Barquisimeto",
+    "state": "Lara",
+    "stateCode": "LAR",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 1000000,
+    "latitude": 10.0718533,
+    "longitude": -69.2815011
+  },
+  {
+    "name": "Maracay",
+    "state": "Aragua",
+    "stateCode": "ARA",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 960000,
+    "latitude": 10.2308969,
+    "longitude": -67.5982708
+  },
+  {
+    "name": "Ciudad Guayana",
+    "state": "Bolívar",
+    "stateCode": "BOL",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 780000,
+    "latitude": 8.3698891,
+    "longitude": -62.6633347
+  },
+  {
+    "name": "Barcelona",
+    "state": "Anzoátegui",
+    "stateCode": "ANZ",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 620000,
+    "latitude": 10.1603108,
+    "longitude": -64.6864227
+  },
+  {
+    "name": "Maturín",
+    "state": "Monagas",
+    "stateCode": "MON",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 540000,
+    "latitude": 9.7024327,
+    "longitude": -63.272848
+  },
+  {
+    "name": "Ciudad Bolívar",
+    "state": "Bolívar",
+    "stateCode": "BOL",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 420000,
+    "latitude": 8.1434788,
+    "longitude": -63.5515581
+  },
+  {
+    "name": "Cumaná",
+    "state": "Sucre",
+    "stateCode": "SUC",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 360000,
+    "latitude": 10.4414196,
+    "longitude": -64.1808515
+  },
+  {
+    "name": "Mérida",
+    "state": "Mérida",
+    "stateCode": "MER",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 310000,
+    "latitude": 8.5815798,
+    "longitude": -71.164722
+  },
+  {
+    "name": "San Cristóbal",
+    "state": "Táchira",
+    "stateCode": "TAC",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 280000,
+    "latitude": 7.767185,
+    "longitude": -72.2195752
+  },
+  {
+    "name": "Cabimas",
+    "state": "Zulia",
+    "stateCode": "ZUL",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 270000,
+    "latitude": 10.4013592,
+    "longitude": -71.4589725
+  },
+  {
+    "name": "Barinas",
+    "state": "Barinas",
+    "stateCode": "BAR",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 350000,
+    "latitude": 8.6103475,
+    "longitude": -70.2461134
+  },
+  {
+    "name": "Turmero",
+    "state": "Aragua",
+    "stateCode": "ARA",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 230000,
+    "latitude": 10.2338412,
+    "longitude": -67.4677767
+  },
+  {
+    "name": "Puerto La Cruz",
+    "state": "Anzoátegui",
+    "stateCode": "ANZ",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 280000,
+    "latitude": 10.2129268,
+    "longitude": -64.6337828
+  },
+  {
+    "name": "Los Teques",
+    "state": "Miranda",
+    "stateCode": "MIR",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 250000,
+    "latitude": 10.3450876,
+    "longitude": -67.0410192
+  },
+  {
+    "name": "Guarenas",
+    "state": "Miranda",
+    "stateCode": "MIR",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 260000,
+    "latitude": 10.4718763,
+    "longitude": -66.6069102
+  },
+  {
+    "name": "Petare",
+    "state": "Miranda",
+    "stateCode": "MIR",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 370000,
+    "latitude": 10.4922228,
+    "longitude": -66.8087075
+  },
+  {
+    "name": "Acarigua",
+    "state": "Portuguesa",
+    "stateCode": "POR",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "population": 220000,
+    "latitude": 9.5576614,
+    "longitude": -69.2034953
+  },
+  {
+    "name": "Guayaquil",
+    "state": "Guayas",
+    "stateCode": "GUA",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 2700000,
+    "latitude": -2.1990477,
+    "longitude": -79.8879772
+  },
+  {
+    "name": "Quito",
+    "state": "Pichincha",
+    "stateCode": "PIC",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 2800000,
+    "latitude": -0.2605617,
+    "longitude": -78.5495219
+  },
+  {
+    "name": "Cuenca",
+    "state": "Azuay",
+    "stateCode": "AZU",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 630000,
+    "latitude": -2.9001976,
+    "longitude": -79.0258629
+  },
+  {
+    "name": "Santo Domingo",
+    "state": "Santo Domingo de los Tsáchilas",
+    "stateCode": "SDT",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 460000,
+    "latitude": -0.2514255,
+    "longitude": -79.0647908
+  },
+  {
+    "name": "Machala",
+    "state": "El Oro",
+    "stateCode": "EOR",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 290000,
+    "latitude": -3.2438432,
+    "longitude": -79.9604964
+  },
+  {
+    "name": "Durán",
+    "state": "Guayas",
+    "stateCode": "GUA",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 320000,
+    "latitude": -2.181507,
+    "longitude": -79.8091428
+  },
+  {
+    "name": "Manta",
+    "state": "Manabí",
+    "stateCode": "MAN",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 260000,
+    "latitude": -0.9467378,
+    "longitude": -80.7480871
+  },
+  {
+    "name": "Portoviejo",
+    "state": "Manabí",
+    "stateCode": "MAN",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 320000,
+    "latitude": -1.0624725,
+    "longitude": -80.4666098
+  },
+  {
+    "name": "Ambato",
+    "state": "Tungurahua",
+    "stateCode": "TUN",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 380000,
+    "latitude": -1.2740408,
+    "longitude": -78.6385736
+  },
+  {
+    "name": "Riobamba",
+    "state": "Chimborazo",
+    "stateCode": "CHI",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 250000,
+    "latitude": -1.8056057,
+    "longitude": -78.6035806
+  },
+  {
+    "name": "Loja",
+    "state": "Loja",
+    "stateCode": "LOJ",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 270000,
+    "latitude": -3.9832772,
+    "longitude": -79.3500988
+  },
+  {
+    "name": "Esmeraldas",
+    "state": "Esmeraldas",
+    "stateCode": "ESM",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 210000,
+    "latitude": 0.9508255,
+    "longitude": -79.6517714
+  },
+  {
+    "name": "Quevedo",
+    "state": "Los Ríos",
+    "stateCode": "LRI",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 220000,
+    "latitude": -1.0210735,
+    "longitude": -79.4613011
+  },
+  {
+    "name": "Milagro",
+    "state": "Guayas",
+    "stateCode": "GUA",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 190000,
+    "latitude": -2.1325114,
+    "longitude": -79.5993079
+  },
+  {
+    "name": "Ibarra",
+    "state": "Imbabura",
+    "stateCode": "IMB",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "population": 200000,
+    "latitude": 0.3495763,
+    "longitude": -78.1179599
+  },
+  {
+    "name": "Santa Cruz de la Sierra",
+    "state": "Santa Cruz",
+    "stateCode": "SCZ",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 1600000,
+    "latitude": -17.7743523,
+    "longitude": -63.0961576
+  },
+  {
+    "name": "La Paz",
+    "state": "La Paz",
+    "stateCode": "LPZ",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 840000,
+    "latitude": -16.5385781,
+    "longitude": -68.081194
+  },
+  {
+    "name": "El Alto",
+    "state": "La Paz",
+    "stateCode": "LPZ",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 860000,
+    "latitude": -16.5266854,
+    "longitude": -68.1542697
+  },
+  {
+    "name": "Cochabamba",
+    "state": "Cochabamba",
+    "stateCode": "CBA",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 680000,
+    "latitude": -17.3726224,
+    "longitude": -66.1360967
+  },
+  {
+    "name": "Sucre",
+    "state": "Chuquisaca",
+    "stateCode": "CHU",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 310000,
+    "latitude": -19.0280183,
+    "longitude": -65.2555677
+  },
+  {
+    "name": "Tarija",
+    "state": "Tarija",
+    "stateCode": "TAR",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 240000,
+    "latitude": -22.0155203,
+    "longitude": -63.6781432
+  },
+  {
+    "name": "Potosí",
+    "state": "Potosí",
+    "stateCode": "POT",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 190000,
+    "latitude": -19.024982,
+    "longitude": -65.703455
+  },
+  {
+    "name": "Oruro",
+    "state": "Oruro",
+    "stateCode": "ORU",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 270000,
+    "latitude": -17.9756697,
+    "longitude": -67.0636577
+  },
+  {
+    "name": "Montero",
+    "state": "Santa Cruz",
+    "stateCode": "SCZ",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 140000,
+    "latitude": -17.3427976,
+    "longitude": -63.2557306
+  },
+  {
+    "name": "Trinidad",
+    "state": "Beni",
+    "stateCode": "BEN",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 110000,
+    "latitude": -14.8342273,
+    "longitude": -64.9040482
+  },
+  {
+    "name": "Cobija",
+    "state": "Pando",
+    "stateCode": "PAN",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 55000,
+    "latitude": -11.1200054,
+    "longitude": -68.7176062
+  },
+  {
+    "name": "Quillacollo",
+    "state": "Cochabamba",
+    "stateCode": "CBA",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 140000,
+    "latitude": -17.3968544,
+    "longitude": -66.2363105
+  },
+  {
+    "name": "Yacuiba",
+    "state": "Tarija",
+    "stateCode": "TAR",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 100000,
+    "latitude": -22.0155203,
+    "longitude": -63.6781432
+  },
+  {
+    "name": "Warnes",
+    "state": "Santa Cruz",
+    "stateCode": "SCZ",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 100000,
+    "latitude": -17.5984891,
+    "longitude": -63.1431932
+  },
+  {
+    "name": "Sacaba",
+    "state": "Cochabamba",
+    "stateCode": "CBA",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "population": 170000,
+    "latitude": -17.4093931,
+    "longitude": -66.1080108
+  }
+]
