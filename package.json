@@ -50,7 +50,7 @@
     "nodemailer": "^7.0.11",
     "react": "18.3.1",
     "react-datepicker": "^8.10.0",
-    "react-dom": "18.3.1",
+    "react-dom": "19.3.1",
     "recharts": "^3.5.1",
     "tailwind-merge": "^3.4.0",
     "uuid": "^13.0.0"
@@ -63,7 +63,7 @@
     "@types/node": "^20.0.0",
     "@types/react": "18.3.12",
     "@types/react-datepicker": "^6.2.0",
-    "@types/react-dom": "18.3.1",
+    "@types/react-dom": "19.3.0",
     "@types/uuid": "^10.0.0",
     "autoprefixer": "^10.4.22",
     "dotenv-cli": "^11.0.0",
@@ -83,6 +83,6 @@
   },
   "overrides": {
     "@types/react": "18.3.12",
-    "@types/react-dom": "18.3.1"
+    "@types/react-dom": "19.3.0"
   }
 }
